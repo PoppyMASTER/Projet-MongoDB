@@ -1,0 +1,22 @@
+[
+    {
+        "_id": "f50ddb31-f000-4ed9-a25c-6676d937209d",
+        "nom": "RH"
+    },
+    {
+        "_id": "79591463-6411-4f1a-9b62-ad083eac7e6e",
+        "nom": "IT"
+    },
+    {
+        "_id": "50928613-59e3-48a3-87b6-e0820c409f7b",
+        "nom": "Commercial"
+    },
+    {
+        "_id": "ae4d552b-0f6b-48e3-878a-1af73848e5ce",
+        "nom": "Production"
+    },
+    {
+        "_id": "4a04ea97-5804-4514-a84b-e965e82093ea",
+        "nom": "Direction"
+    }
+]

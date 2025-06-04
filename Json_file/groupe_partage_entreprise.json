@@ -1,0 +1,602 @@
+[
+    {
+        "_id": "db9ec700-583c-48c0-aa29-ba8abb6ecb06",
+        "id_groupe": "ae4d552b-0f6b-48e3-878a-1af73848e5ce",
+        "id_fichier": "30565ca1-bc05-4326-944b-1dcb254c0b49",
+        "droits": "lecture"
+    },
+    {
+        "_id": "56e89fd6-1c9b-46c8-8006-a21b1fe02d56",
+        "id_groupe": "ae4d552b-0f6b-48e3-878a-1af73848e5ce",
+        "id_fichier": "b28a3c36-7431-4c3e-9969-eec3be4dc3d4",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "7b7659ae-c065-4654-821a-fd560b27db4d",
+        "id_groupe": "f50ddb31-f000-4ed9-a25c-6676d937209d",
+        "id_fichier": "c16e2d4c-aa0b-4f98-bb5a-e335630ecda7",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "5223f98d-8d6e-418f-be8b-8465b2abe9d1",
+        "id_groupe": "ae4d552b-0f6b-48e3-878a-1af73848e5ce",
+        "id_fichier": "78727fde-ac8f-4150-a1bf-aac2b57359ca",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "b5d05bdc-4a1a-4fcf-aa13-157e03c57f2d",
+        "id_groupe": "ae4d552b-0f6b-48e3-878a-1af73848e5ce",
+        "id_fichier": "228eaf95-4984-4267-b4db-3ff7e9135117",
+        "droits": "lecture"
+    },
+    {
+        "_id": "6736676c-24ee-43c3-a9bd-a117fb66c553",
+        "id_groupe": "f50ddb31-f000-4ed9-a25c-6676d937209d",
+        "id_fichier": "228eaf95-4984-4267-b4db-3ff7e9135117",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "a435900c-4b3e-4b06-9b62-f8bf39980e1d",
+        "id_groupe": "f50ddb31-f000-4ed9-a25c-6676d937209d",
+        "id_fichier": "3998994f-a680-46cf-a23f-38c0412ce54b",
+        "droits": "lecture"
+    },
+    {
+        "_id": "e32b9acb-cc2a-4450-b674-f97cee97d40c",
+        "id_groupe": "f50ddb31-f000-4ed9-a25c-6676d937209d",
+        "id_fichier": "76b3f4bf-006a-4fc8-abf9-053d33622d66",
+        "droits": "lecture"
+    },
+    {
+        "_id": "eac99d38-6d54-4abf-8913-4b2a7fddbf50",
+        "id_groupe": "50928613-59e3-48a3-87b6-e0820c409f7b",
+        "id_fichier": "eb1619f5-5b42-4a47-b6c6-aec3d2cea7e1",
+        "droits": "lecture"
+    },
+    {
+        "_id": "f9f9c852-4816-4d1e-a82b-898283c34516",
+        "id_groupe": "79591463-6411-4f1a-9b62-ad083eac7e6e",
+        "id_fichier": "c4644e89-0663-4a64-b489-308b6ea87c4f",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "47956091-7091-41ae-a646-d97da5bb767e",
+        "id_groupe": "ae4d552b-0f6b-48e3-878a-1af73848e5ce",
+        "id_fichier": "dc946705-1687-4d00-862e-9301a2a792f9",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "f66e4c90-90c5-4bcc-b0a3-e548b52fb1b6",
+        "id_groupe": "ae4d552b-0f6b-48e3-878a-1af73848e5ce",
+        "id_fichier": "e61c3afe-f47d-4009-9795-61e07cd1a130",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "e1ab30d6-48c3-4ab4-b2d8-ecf0c9942207",
+        "id_groupe": "50928613-59e3-48a3-87b6-e0820c409f7b",
+        "id_fichier": "c363aa62-5aae-4317-a709-2927f635bb88",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "cdfd829e-6132-4493-a865-70de8071ff84",
+        "id_groupe": "79591463-6411-4f1a-9b62-ad083eac7e6e",
+        "id_fichier": "a8f3c03f-29b4-41a3-9056-56ecbbd94ca0",
+        "droits": "lecture"
+    },
+    {
+        "_id": "11d0d875-c37a-4335-9374-c1cd9a818564",
+        "id_groupe": "ae4d552b-0f6b-48e3-878a-1af73848e5ce",
+        "id_fichier": "053e5d49-340a-46ca-bfbb-53ab9648971a",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "c28f1a78-fd34-4290-b747-cd8adb32d086",
+        "id_groupe": "50928613-59e3-48a3-87b6-e0820c409f7b",
+        "id_fichier": "a39b0f13-368e-4b4e-8722-9489caf0486b",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "9c1df94e-e70b-43ae-8755-81e8222ca231",
+        "id_groupe": "50928613-59e3-48a3-87b6-e0820c409f7b",
+        "id_fichier": "16048d78-0496-4348-95a7-436ae37187ac",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "42ded985-88c9-4f16-a6fc-76a4fb07f042",
+        "id_groupe": "50928613-59e3-48a3-87b6-e0820c409f7b",
+        "id_fichier": "0adece22-5e33-46dc-9f53-f79f707de379",
+        "droits": "lecture"
+    },
+    {
+        "_id": "8c4e3588-4da1-4f18-93da-f236ca3372ba",
+        "id_groupe": "f50ddb31-f000-4ed9-a25c-6676d937209d",
+        "id_fichier": "0d0b6ff2-61c4-4ad5-840a-84aae2ec2623",
+        "droits": "lecture"
+    },
+    {
+        "_id": "d0765a1a-0ad5-4c04-99c3-c79c7f30d486",
+        "id_groupe": "ae4d552b-0f6b-48e3-878a-1af73848e5ce",
+        "id_fichier": "0adece22-5e33-46dc-9f53-f79f707de379",
+        "droits": "lecture"
+    },
+    {
+        "_id": "9b5fb05b-2450-47dd-bc22-229ecce8e7a5",
+        "id_groupe": "4a04ea97-5804-4514-a84b-e965e82093ea",
+        "id_fichier": "b02e6ccb-e781-4dd3-95a6-bf8029e64fa4",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "47fd5e58-1a5d-4dba-bcbe-52e20d7ceae1",
+        "id_groupe": "ae4d552b-0f6b-48e3-878a-1af73848e5ce",
+        "id_fichier": "4389b5a2-ce50-4543-963c-70047e367a78",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "c919529c-2d0b-4872-95a2-d3e168f6bd6a",
+        "id_groupe": "4a04ea97-5804-4514-a84b-e965e82093ea",
+        "id_fichier": "dfb90142-ec15-4fd1-8779-1014a6db3b8f",
+        "droits": "lecture"
+    },
+    {
+        "_id": "2fdc0e14-5652-4bbe-ad7c-89ff9bd7edc6",
+        "id_groupe": "79591463-6411-4f1a-9b62-ad083eac7e6e",
+        "id_fichier": "e7bacf36-8df9-4441-92eb-9a7dd32d8cfa",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "ed5fc397-d838-457e-8913-fc3857f1b773",
+        "id_groupe": "ae4d552b-0f6b-48e3-878a-1af73848e5ce",
+        "id_fichier": "90df6d73-cd7b-4f7b-927e-82c049944318",
+        "droits": "lecture"
+    },
+    {
+        "_id": "6df2f872-6748-4214-a97e-6a78596051ee",
+        "id_groupe": "79591463-6411-4f1a-9b62-ad083eac7e6e",
+        "id_fichier": "e4ca9e05-f6ba-4b7f-8e30-52c5be29b5ed",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "52177878-5223-4270-9340-69d8ad3fa579",
+        "id_groupe": "79591463-6411-4f1a-9b62-ad083eac7e6e",
+        "id_fichier": "61ffa4d8-2f74-42c9-b3a6-153e303d32a0",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "babf33da-0021-40b1-a3b0-966c75da8f8e",
+        "id_groupe": "50928613-59e3-48a3-87b6-e0820c409f7b",
+        "id_fichier": "39ad688c-bd20-400a-8d26-a44a43ab3b0c",
+        "droits": "lecture"
+    },
+    {
+        "_id": "87d87648-f58a-4c0e-ba60-755497501b47",
+        "id_groupe": "4a04ea97-5804-4514-a84b-e965e82093ea",
+        "id_fichier": "6a39e663-9f39-4e4f-9308-2d9a200a7560",
+        "droits": "lecture"
+    },
+    {
+        "_id": "584aa03d-5407-43c0-820c-5a0356fb22f7",
+        "id_groupe": "79591463-6411-4f1a-9b62-ad083eac7e6e",
+        "id_fichier": "4647f62f-7b60-4293-a692-50e5fa90668e",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "bd34e008-856e-4bb2-a503-8350013c1f0b",
+        "id_groupe": "ae4d552b-0f6b-48e3-878a-1af73848e5ce",
+        "id_fichier": "8f35620c-040c-425c-8189-10705c751c0d",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "3d68b3dd-04da-4060-88f9-4251a9b35f18",
+        "id_groupe": "ae4d552b-0f6b-48e3-878a-1af73848e5ce",
+        "id_fichier": "dcfdb9c3-dc48-4c24-952b-3545a9ae2860",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "34fa3e16-2ba8-4ee2-9af8-fbc578dcdfc7",
+        "id_groupe": "50928613-59e3-48a3-87b6-e0820c409f7b",
+        "id_fichier": "90df6d73-cd7b-4f7b-927e-82c049944318",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "4cf9295b-0391-42b7-949e-d6374d38f22e",
+        "id_groupe": "f50ddb31-f000-4ed9-a25c-6676d937209d",
+        "id_fichier": "ad1ca34b-4baf-4a2f-80e6-7fdc80784035",
+        "droits": "lecture"
+    },
+    {
+        "_id": "94c2daf7-7fa8-4a31-b671-27de05b5ae38",
+        "id_groupe": "f50ddb31-f000-4ed9-a25c-6676d937209d",
+        "id_fichier": "c363aa62-5aae-4317-a709-2927f635bb88",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "3b57014e-aae3-4c74-95ee-c46ada05aad4",
+        "id_groupe": "4a04ea97-5804-4514-a84b-e965e82093ea",
+        "id_fichier": "cdf2aaa9-c37a-4c77-933b-63da680b2573",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "5411da5a-93d6-4c79-aad6-343cde534729",
+        "id_groupe": "79591463-6411-4f1a-9b62-ad083eac7e6e",
+        "id_fichier": "b5968300-60e5-452d-8fbf-30672c282f87",
+        "droits": "lecture"
+    },
+    {
+        "_id": "b34a26c0-884d-469e-b80c-247d66f30cdc",
+        "id_groupe": "f50ddb31-f000-4ed9-a25c-6676d937209d",
+        "id_fichier": "b5831588-0a0c-4f4c-8acb-85eeb8d915ac",
+        "droits": "lecture"
+    },
+    {
+        "_id": "7ce71c09-c078-4dd6-b082-af940d730163",
+        "id_groupe": "f50ddb31-f000-4ed9-a25c-6676d937209d",
+        "id_fichier": "5daab0e6-8f3d-41cf-8064-55d63080a379",
+        "droits": "lecture"
+    },
+    {
+        "_id": "a142b1a8-ae62-4463-9999-573f621da58e",
+        "id_groupe": "ae4d552b-0f6b-48e3-878a-1af73848e5ce",
+        "id_fichier": "2b173ec8-a08f-4ed1-bdd2-b21e7532a5ba",
+        "droits": "lecture"
+    },
+    {
+        "_id": "db5fabc4-7194-46b6-99dc-1c8e7b9967b2",
+        "id_groupe": "79591463-6411-4f1a-9b62-ad083eac7e6e",
+        "id_fichier": "bcbd4714-d620-48a0-9913-d51d41a86906",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "3eb77be9-2bac-4578-9486-db538bde2dd4",
+        "id_groupe": "4a04ea97-5804-4514-a84b-e965e82093ea",
+        "id_fichier": "b21e8686-0c77-47bf-b736-a9d01c8fe236",
+        "droits": "lecture"
+    },
+    {
+        "_id": "b36c4585-1c1a-4217-bc42-58ac0d3bccd8",
+        "id_groupe": "f50ddb31-f000-4ed9-a25c-6676d937209d",
+        "id_fichier": "454b2670-9560-4b4f-b140-c9d3be15ca1e",
+        "droits": "lecture"
+    },
+    {
+        "_id": "f1f9163a-2afb-46d2-ab4c-99ba30be5720",
+        "id_groupe": "f50ddb31-f000-4ed9-a25c-6676d937209d",
+        "id_fichier": "1994a82e-fa38-4a73-a3b9-9d377ff9fb33",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "60bac525-4ffa-4b78-93ad-1b9e8e2780fc",
+        "id_groupe": "f50ddb31-f000-4ed9-a25c-6676d937209d",
+        "id_fichier": "c1d2f0c9-8be6-46d6-a190-114d359a2e0e",
+        "droits": "lecture"
+    },
+    {
+        "_id": "ae15cf48-cbe3-4169-9b43-84d6e6c1c3e3",
+        "id_groupe": "79591463-6411-4f1a-9b62-ad083eac7e6e",
+        "id_fichier": "6a73140d-9da6-488b-b9a9-4515dffdea2d",
+        "droits": "lecture"
+    },
+    {
+        "_id": "0ee3dbc7-207d-4131-8a12-befb8b302881",
+        "id_groupe": "4a04ea97-5804-4514-a84b-e965e82093ea",
+        "id_fichier": "848fb906-5ddd-47e2-9e57-9be0eb9c70ab",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "a533dd90-f73d-48e8-8d0e-a833f18067a0",
+        "id_groupe": "50928613-59e3-48a3-87b6-e0820c409f7b",
+        "id_fichier": "988dc6e6-776d-4d93-a123-8fbd7d875531",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "65ec5be2-33de-474c-9c39-e5a222e14490",
+        "id_groupe": "50928613-59e3-48a3-87b6-e0820c409f7b",
+        "id_fichier": "14ccf9d2-8955-4906-8865-78dd5c8c3021",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "4a00e461-2ee5-4950-af41-948e4685fa1a",
+        "id_groupe": "4a04ea97-5804-4514-a84b-e965e82093ea",
+        "id_fichier": "84dc7786-26ab-414b-ae35-ccf7e3eb2ff0",
+        "droits": "lecture"
+    },
+    {
+        "_id": "70fdcb5b-127c-473c-8add-90c71b887c0e",
+        "id_groupe": "50928613-59e3-48a3-87b6-e0820c409f7b",
+        "id_fichier": "ddf93bc5-71f5-4aa2-a5b2-578b78da2d7a",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "7b042b76-da7e-46ad-9cea-f35740787dd3",
+        "id_groupe": "4a04ea97-5804-4514-a84b-e965e82093ea",
+        "id_fichier": "243f2e30-0f77-4087-a7b4-711625821cc9",
+        "droits": "lecture"
+    },
+    {
+        "_id": "02d7783f-a17b-483e-9f31-f50b25c62f19",
+        "id_groupe": "79591463-6411-4f1a-9b62-ad083eac7e6e",
+        "id_fichier": "311dd51f-8995-4022-bb29-888656593c4c",
+        "droits": "lecture"
+    },
+    {
+        "_id": "97c1df9e-af6c-431d-9a66-90bfad0444ba",
+        "id_groupe": "4a04ea97-5804-4514-a84b-e965e82093ea",
+        "id_fichier": "2e5a7334-9d28-4344-b3e8-4cd4a40721a5",
+        "droits": "lecture"
+    },
+    {
+        "_id": "117bca5b-9849-4a27-8553-1b8a4bde0891",
+        "id_groupe": "50928613-59e3-48a3-87b6-e0820c409f7b",
+        "id_fichier": "2e5a7334-9d28-4344-b3e8-4cd4a40721a5",
+        "droits": "lecture"
+    },
+    {
+        "_id": "7ab31c9e-7f54-4570-b805-5a5e0f6d7d85",
+        "id_groupe": "79591463-6411-4f1a-9b62-ad083eac7e6e",
+        "id_fichier": "bb632bcf-cd5c-461d-87b0-77e82a588d19",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "416a80f1-0584-4d80-ba9d-c0912e0ef6a6",
+        "id_groupe": "50928613-59e3-48a3-87b6-e0820c409f7b",
+        "id_fichier": "14ccf9d2-8955-4906-8865-78dd5c8c3021",
+        "droits": "lecture"
+    },
+    {
+        "_id": "640f897f-f307-4c5c-b640-92e43a2a4d25",
+        "id_groupe": "4a04ea97-5804-4514-a84b-e965e82093ea",
+        "id_fichier": "ff2ff077-3258-4d67-b865-6fc2f712f4a0",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "664c2d7e-b965-43c9-b19d-976ec26946b9",
+        "id_groupe": "f50ddb31-f000-4ed9-a25c-6676d937209d",
+        "id_fichier": "45b80604-fd73-4cc7-8c48-2e66513892ab",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "dce2b73b-1ef3-4a4c-a158-d19b73cfa463",
+        "id_groupe": "50928613-59e3-48a3-87b6-e0820c409f7b",
+        "id_fichier": "b82a77d3-7459-4427-827e-86636ee9b493",
+        "droits": "lecture"
+    },
+    {
+        "_id": "0660b139-2f3a-4164-929e-8cef9d5e06b9",
+        "id_groupe": "79591463-6411-4f1a-9b62-ad083eac7e6e",
+        "id_fichier": "bc0c144d-9c78-4ab6-9790-73637e112b89",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "67128d8e-c8e1-4d6e-8d3a-af46739aaa6c",
+        "id_groupe": "79591463-6411-4f1a-9b62-ad083eac7e6e",
+        "id_fichier": "3a61f84b-a669-4b1c-92d5-81c84935bb3a",
+        "droits": "lecture"
+    },
+    {
+        "_id": "8ebb3b44-5c2d-414e-a4ea-69b45080f0ee",
+        "id_groupe": "79591463-6411-4f1a-9b62-ad083eac7e6e",
+        "id_fichier": "0e6cf6cd-595b-48fc-9752-00df6a80afde",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "bac89681-608e-4909-8efa-89916238256f",
+        "id_groupe": "ae4d552b-0f6b-48e3-878a-1af73848e5ce",
+        "id_fichier": "e62d0a30-4205-40d2-be24-ef81ad138a1f",
+        "droits": "lecture"
+    },
+    {
+        "_id": "09b4ad0f-fa74-4e00-a370-394a93787939",
+        "id_groupe": "4a04ea97-5804-4514-a84b-e965e82093ea",
+        "id_fichier": "27b1dbc4-620f-42d2-9631-bf99c40eaa86",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "bd7b300b-d259-48f3-b7cd-5537eaa7e67e",
+        "id_groupe": "4a04ea97-5804-4514-a84b-e965e82093ea",
+        "id_fichier": "9096ab0c-eec7-4684-b5cb-3a6bb40f2140",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "ea655198-4730-46a1-9109-b8d4bf398b58",
+        "id_groupe": "f50ddb31-f000-4ed9-a25c-6676d937209d",
+        "id_fichier": "dceed647-561a-4f12-90ce-a9cd589bb61d",
+        "droits": "lecture"
+    },
+    {
+        "_id": "64da4ec4-bfb0-4fb1-aa90-e4bc7c13b7c1",
+        "id_groupe": "50928613-59e3-48a3-87b6-e0820c409f7b",
+        "id_fichier": "0333012a-bc0d-400e-b866-71c5e2e97e9c",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "869f7a0d-b14f-4ad5-8a49-3ec48848b2e4",
+        "id_groupe": "ae4d552b-0f6b-48e3-878a-1af73848e5ce",
+        "id_fichier": "eb1619f5-5b42-4a47-b6c6-aec3d2cea7e1",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "51c3ac7d-fa62-44dd-965c-f12262e5f83c",
+        "id_groupe": "4a04ea97-5804-4514-a84b-e965e82093ea",
+        "id_fichier": "0565749d-c120-4355-8582-7d107ea76553",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "f74cf59f-2c8e-4ab7-aab7-aca2ae852578",
+        "id_groupe": "79591463-6411-4f1a-9b62-ad083eac7e6e",
+        "id_fichier": "80932333-8528-4854-9c6b-7b32bf85d016",
+        "droits": "lecture"
+    },
+    {
+        "_id": "98ec94f3-579c-4dc2-9742-9d321ab120f8",
+        "id_groupe": "f50ddb31-f000-4ed9-a25c-6676d937209d",
+        "id_fichier": "5e4d75d1-4d3c-46d8-84bc-681cf9380d08",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "866f9ad8-7763-4250-917b-fc3b4257de0b",
+        "id_groupe": "4a04ea97-5804-4514-a84b-e965e82093ea",
+        "id_fichier": "7dabeef6-e445-44ea-bbb7-8ca81418dbf9",
+        "droits": "lecture"
+    },
+    {
+        "_id": "fdfbffad-1c66-429e-b6b9-a4b3efe6dda1",
+        "id_groupe": "50928613-59e3-48a3-87b6-e0820c409f7b",
+        "id_fichier": "5096b994-93a3-4e5e-87ba-b25a087312b2",
+        "droits": "lecture"
+    },
+    {
+        "_id": "16633326-b7a9-4d74-8ebe-18e4e7a7fe74",
+        "id_groupe": "f50ddb31-f000-4ed9-a25c-6676d937209d",
+        "id_fichier": "654b6039-fa67-463a-8d4c-49267d05229d",
+        "droits": "lecture"
+    },
+    {
+        "_id": "46310e3c-821f-43d5-981f-aa5b79e15d2c",
+        "id_groupe": "ae4d552b-0f6b-48e3-878a-1af73848e5ce",
+        "id_fichier": "454b2670-9560-4b4f-b140-c9d3be15ca1e",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "0496e557-68ba-45eb-9263-b1a4cef3b22e",
+        "id_groupe": "50928613-59e3-48a3-87b6-e0820c409f7b",
+        "id_fichier": "ff4a77a6-ce77-4d27-a3d2-60b9183d710d",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "da1094bb-a8d3-4f0a-8343-917447d78757",
+        "id_groupe": "50928613-59e3-48a3-87b6-e0820c409f7b",
+        "id_fichier": "bc41e94c-f2c8-4d41-9966-f488cd8faa5b",
+        "droits": "lecture"
+    },
+    {
+        "_id": "6dd08d1a-71ab-4b1e-9678-8aa4db5ddad1",
+        "id_groupe": "ae4d552b-0f6b-48e3-878a-1af73848e5ce",
+        "id_fichier": "3e4a6344-de6d-45ca-aa56-1225b1608f61",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "42158844-de19-434a-ba1c-81f565d9bd1b",
+        "id_groupe": "ae4d552b-0f6b-48e3-878a-1af73848e5ce",
+        "id_fichier": "e4ca9e05-f6ba-4b7f-8e30-52c5be29b5ed",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "3ec1538a-2fae-4175-817b-a5fcd128e298",
+        "id_groupe": "f50ddb31-f000-4ed9-a25c-6676d937209d",
+        "id_fichier": "0c46110a-24d7-4adf-be56-e98bfef29d8f",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "739679d1-9661-4794-84e4-f743f18d312f",
+        "id_groupe": "50928613-59e3-48a3-87b6-e0820c409f7b",
+        "id_fichier": "7b77721f-af38-4c3d-9f34-22588957c754",
+        "droits": "lecture"
+    },
+    {
+        "_id": "668c2ff6-df4a-4ba8-831b-22d61b890a61",
+        "id_groupe": "f50ddb31-f000-4ed9-a25c-6676d937209d",
+        "id_fichier": "ca94118c-9b81-4170-9de6-ea43a8dda06c",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "edb26abf-6bbd-4bb9-ad8a-459f142d8ed0",
+        "id_groupe": "f50ddb31-f000-4ed9-a25c-6676d937209d",
+        "id_fichier": "9a080f18-3feb-4916-b9b4-5e5265ee8600",
+        "droits": "lecture"
+    },
+    {
+        "_id": "16696b05-c2f1-4f68-a8f7-2324d707c03b",
+        "id_groupe": "4a04ea97-5804-4514-a84b-e965e82093ea",
+        "id_fichier": "908c973c-c604-43b2-bc87-44591481904e",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "0bacee1b-7675-412d-a28c-173f8e57c663",
+        "id_groupe": "50928613-59e3-48a3-87b6-e0820c409f7b",
+        "id_fichier": "8edfa7fe-0c14-4c8f-98ba-57ee5bdfdfe4",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "46b56b07-2db8-4d95-a752-b7e70fff4282",
+        "id_groupe": "4a04ea97-5804-4514-a84b-e965e82093ea",
+        "id_fichier": "fe793e67-3c3e-4091-9471-a21cac7a070d",
+        "droits": "lecture"
+    },
+    {
+        "_id": "479cfa91-b8f9-4428-823d-58844990b42b",
+        "id_groupe": "79591463-6411-4f1a-9b62-ad083eac7e6e",
+        "id_fichier": "105258ae-6db0-4662-8f2c-b64fd5061f01",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "5b84d405-3f2e-49d1-9e90-5eb628915a8a",
+        "id_groupe": "79591463-6411-4f1a-9b62-ad083eac7e6e",
+        "id_fichier": "88241790-5a42-4e66-be7b-2f4d5976c57c",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "a6db813b-d95d-42ad-824a-9c6d533a570e",
+        "id_groupe": "79591463-6411-4f1a-9b62-ad083eac7e6e",
+        "id_fichier": "d80997e5-f9eb-4484-b9ea-5f5fc7116b9b",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "c64fe00c-2b30-405d-9efd-57b66315cdc7",
+        "id_groupe": "79591463-6411-4f1a-9b62-ad083eac7e6e",
+        "id_fichier": "84e0f46b-a2e4-4227-abf8-77dd92992e0b",
+        "droits": "lecture"
+    },
+    {
+        "_id": "cb014259-d0ca-4eac-97e3-a63bbc253ab4",
+        "id_groupe": "ae4d552b-0f6b-48e3-878a-1af73848e5ce",
+        "id_fichier": "e380f020-8385-42fd-a1cf-e8f7e5c796fe",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "87b376db-8651-482d-8607-43e27cf2b26a",
+        "id_groupe": "4a04ea97-5804-4514-a84b-e965e82093ea",
+        "id_fichier": "ebea2dcf-c8f2-4d04-bb0d-6c915ff21898",
+        "droits": "lecture"
+    },
+    {
+        "_id": "f43b5590-ccea-4cfc-a299-7d8b3d19ff94",
+        "id_groupe": "f50ddb31-f000-4ed9-a25c-6676d937209d",
+        "id_fichier": "31d935ac-6b1f-46f3-86ac-16d033c2b84b",
+        "droits": "lecture"
+    },
+    {
+        "_id": "565394cb-c539-4e59-91c5-fb328332cd8e",
+        "id_groupe": "79591463-6411-4f1a-9b62-ad083eac7e6e",
+        "id_fichier": "d426d49c-8ad4-4629-b2e5-fa012b5c6fba",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "e7c0141e-e9f2-4a74-9c75-1e23fa649b1d",
+        "id_groupe": "f50ddb31-f000-4ed9-a25c-6676d937209d",
+        "id_fichier": "b25278f6-4e9c-4758-a73a-cc775c179f96",
+        "droits": "lecture"
+    },
+    {
+        "_id": "a6973c59-e5bc-4c93-9784-2d01933c2924",
+        "id_groupe": "50928613-59e3-48a3-87b6-e0820c409f7b",
+        "id_fichier": "976638c0-ba78-4717-8425-9f375bd720e6",
+        "droits": "lecture"
+    },
+    {
+        "_id": "d2e02b49-4a92-4a45-963a-6afcef6b2a06",
+        "id_groupe": "50928613-59e3-48a3-87b6-e0820c409f7b",
+        "id_fichier": "649dd909-6914-4436-a533-267a92376c55",
+        "droits": "\u00e9criture"
+    },
+    {
+        "_id": "120a3de5-6dda-43a4-b98c-5e74ed8c6308",
+        "id_groupe": "79591463-6411-4f1a-9b62-ad083eac7e6e",
+        "id_fichier": "b02e6ccb-e781-4dd3-95a6-bf8029e64fa4",
+        "droits": "lecture"
+    },
+    {
+        "_id": "a9eb9e8d-0c37-470c-bc37-61fe38cc5538",
+        "id_groupe": "f50ddb31-f000-4ed9-a25c-6676d937209d",
+        "id_fichier": "d1189d15-8b98-4860-9523-3b091c73ffde",
+        "droits": "lecture"
+    }
+]

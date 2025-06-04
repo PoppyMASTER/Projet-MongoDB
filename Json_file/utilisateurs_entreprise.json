@@ -1,0 +1,352 @@
+[
+    {
+        "_id": "bc98031b-9dfc-4bcc-80cf-aa767eb86b9f",
+        "nom": "David Lemoine",
+        "email": "david.lemoine0@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "admin"
+    },
+    {
+        "_id": "3e7431d1-1f8d-47f3-b080-44cd6ae44221",
+        "nom": "Isaac Lemoine",
+        "email": "isaac.lemoine1@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "user"
+    },
+    {
+        "_id": "3973d71f-8593-4933-8826-046b3d3a44dd",
+        "nom": "H\u00e9l\u00e8ne Dubois",
+        "email": "h\u00e9l\u00e8ne.dubois2@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "user"
+    },
+    {
+        "_id": "f3b88953-88ee-4c55-8ec6-01cb0e6af002",
+        "nom": "Claire Lemoine",
+        "email": "claire.lemoine3@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "admin"
+    },
+    {
+        "_id": "c57c43a2-3a58-453b-9dd0-eb92585b960c",
+        "nom": "David Lemoine",
+        "email": "david.lemoine4@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "admin"
+    },
+    {
+        "_id": "85aafaef-9671-4363-a2f7-626d5c378d3e",
+        "nom": "David Lemoine",
+        "email": "david.lemoine5@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "user"
+    },
+    {
+        "_id": "d886bfc4-af3e-4268-805b-3f4d86ed0f3b",
+        "nom": "Bob Lemoine",
+        "email": "bob.lemoine6@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "user"
+    },
+    {
+        "_id": "53ba44d5-22aa-42c2-a5a0-c3e152c5b646",
+        "nom": "Bob Durand",
+        "email": "bob.durand7@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "admin"
+    },
+    {
+        "_id": "5ef3f837-6161-4cf0-8c4e-19d7f772332a",
+        "nom": "David Durand",
+        "email": "david.durand8@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "user"
+    },
+    {
+        "_id": "57b14813-b0f6-42b1-b795-73eb5c2af2bc",
+        "nom": "Claire Bernard",
+        "email": "claire.bernard9@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "admin"
+    },
+    {
+        "_id": "1d3d42c4-65c5-47fc-b0c6-bcc84b6892aa",
+        "nom": "H\u00e9l\u00e8ne Lemoine",
+        "email": "h\u00e9l\u00e8ne.lemoine10@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "user"
+    },
+    {
+        "_id": "ff1bc2f0-3920-4306-8fb4-3aabcb0c87dd",
+        "nom": "Farid Durand",
+        "email": "farid.durand11@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "user"
+    },
+    {
+        "_id": "3fe3965b-5fd8-4a7a-bafb-85dbb280a665",
+        "nom": "Isaac Dubois",
+        "email": "isaac.dubois12@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "user"
+    },
+    {
+        "_id": "3ecb7cdd-de1e-4b7f-a6dc-6eb97c25561c",
+        "nom": "Julie Bernard",
+        "email": "julie.bernard13@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "admin"
+    },
+    {
+        "_id": "fc098c27-7c4f-4a71-acc4-8a7bdba56b1d",
+        "nom": "Claire Lemoine",
+        "email": "claire.lemoine14@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "admin"
+    },
+    {
+        "_id": "cbd73dcf-9ba5-4cc7-9380-8e15db3ae6b5",
+        "nom": "Claire Durand",
+        "email": "claire.durand15@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "admin"
+    },
+    {
+        "_id": "34b26067-10f6-481b-a3af-beafca771403",
+        "nom": "Alice Bernard",
+        "email": "alice.bernard16@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "user"
+    },
+    {
+        "_id": "d24ce781-202d-464e-9883-4ff49b09a39c",
+        "nom": "Bob Martin",
+        "email": "bob.martin17@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "admin"
+    },
+    {
+        "_id": "2da69ed2-2e38-4694-acd0-5d349c162c34",
+        "nom": "Isaac Bernard",
+        "email": "isaac.bernard18@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "user"
+    },
+    {
+        "_id": "d6e70487-7324-476e-8a0e-1a687e6f0a36",
+        "nom": "David Durand",
+        "email": "david.durand19@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "user"
+    },
+    {
+        "_id": "d3a985f2-f842-47d4-899d-aa4b2e9a1b4d",
+        "nom": "Isaac Lemoine",
+        "email": "isaac.lemoine20@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "user"
+    },
+    {
+        "_id": "008193b2-47c8-4762-afd2-2ba513060c1a",
+        "nom": "Claire Lemoine",
+        "email": "claire.lemoine21@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "admin"
+    },
+    {
+        "_id": "c248fff4-c26e-40dc-9613-332a869c59ae",
+        "nom": "Farid Martin",
+        "email": "farid.martin22@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "admin"
+    },
+    {
+        "_id": "89d822b6-10d7-42be-bb58-fc10a4fa6201",
+        "nom": "Farid Martin",
+        "email": "farid.martin23@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "user"
+    },
+    {
+        "_id": "1d7867b1-a0ff-44e2-b42d-5a9439b74c7e",
+        "nom": "Isaac Durand",
+        "email": "isaac.durand24@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "admin"
+    },
+    {
+        "_id": "c2132ac9-f794-47f8-88bf-293fd7cd5205",
+        "nom": "Claire Lemoine",
+        "email": "claire.lemoine25@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "admin"
+    },
+    {
+        "_id": "493aa2c7-04f2-4028-95e3-ad966b8245f5",
+        "nom": "Isaac Durand",
+        "email": "isaac.durand26@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "user"
+    },
+    {
+        "_id": "07a69780-46ac-427f-a903-b50bdadb963a",
+        "nom": "Isaac Lemoine",
+        "email": "isaac.lemoine27@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "user"
+    },
+    {
+        "_id": "d16dc406-97da-4fbf-8bd6-6211f9d4c915",
+        "nom": "Georges Martin",
+        "email": "georges.martin28@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "admin"
+    },
+    {
+        "_id": "bb8f3dbc-cc4a-4f0e-a88d-75a0dabc46ed",
+        "nom": "Georges Martin",
+        "email": "georges.martin29@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "user"
+    },
+    {
+        "_id": "14d2cb91-3b95-46eb-849c-4bd5f93dbeb8",
+        "nom": "Isaac Durand",
+        "email": "isaac.durand30@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "admin"
+    },
+    {
+        "_id": "24867973-e2b3-4031-b789-1ae62bde8537",
+        "nom": "Farid Bernard",
+        "email": "farid.bernard31@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "user"
+    },
+    {
+        "_id": "7e7ade92-d129-4f32-9180-70bf3c5f3eac",
+        "nom": "David Dubois",
+        "email": "david.dubois32@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "admin"
+    },
+    {
+        "_id": "420a9ba3-12d4-4b04-89bb-a553829789a2",
+        "nom": "David Durand",
+        "email": "david.durand33@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "admin"
+    },
+    {
+        "_id": "7d44f347-6031-4087-a227-74be3090a8e7",
+        "nom": "Bob Lemoine",
+        "email": "bob.lemoine34@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "admin"
+    },
+    {
+        "_id": "5b292375-404a-4d46-be30-9c87d18ef637",
+        "nom": "Bob Lemoine",
+        "email": "bob.lemoine35@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "admin"
+    },
+    {
+        "_id": "72ad853f-4276-4413-9652-12f94519b5e0",
+        "nom": "Emma Bernard",
+        "email": "emma.bernard36@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "user"
+    },
+    {
+        "_id": "a23caa1c-50a6-434d-9fba-3f28fe7426cd",
+        "nom": "Farid Bernard",
+        "email": "farid.bernard37@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "admin"
+    },
+    {
+        "_id": "1c7d7cde-965d-4cbe-9b3d-9887570d328c",
+        "nom": "Isaac Lemoine",
+        "email": "isaac.lemoine38@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "admin"
+    },
+    {
+        "_id": "bc80ff7a-0818-424f-aad1-d256b0e07b18",
+        "nom": "David Lemoine",
+        "email": "david.lemoine39@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "admin"
+    },
+    {
+        "_id": "25c7f577-f74f-4f2e-8528-8e11d76e5752",
+        "nom": "Isaac Bernard",
+        "email": "isaac.bernard40@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "user"
+    },
+    {
+        "_id": "81750dc4-6c82-4581-88c4-781d7dee468d",
+        "nom": "H\u00e9l\u00e8ne Martin",
+        "email": "h\u00e9l\u00e8ne.martin41@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "user"
+    },
+    {
+        "_id": "2cd4e204-b9cf-4cf1-b1b2-abedc5a2ac0e",
+        "nom": "Isaac Bernard",
+        "email": "isaac.bernard42@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "admin"
+    },
+    {
+        "_id": "970be45c-0aa5-4268-b2a4-f532c50bcc19",
+        "nom": "Farid Lemoine",
+        "email": "farid.lemoine43@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "admin"
+    },
+    {
+        "_id": "e54dd900-dbf1-4754-b48e-cd8cdb316c30",
+        "nom": "Bob Bernard",
+        "email": "bob.bernard44@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "user"
+    },
+    {
+        "_id": "49183043-ed46-4f48-a844-0faefd79453d",
+        "nom": "Bob Martin",
+        "email": "bob.martin45@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "user"
+    },
+    {
+        "_id": "3d15127a-eb70-49c1-94fc-a89e4e8045e9",
+        "nom": "H\u00e9l\u00e8ne Dubois",
+        "email": "h\u00e9l\u00e8ne.dubois46@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "user"
+    },
+    {
+        "_id": "759b633c-2c58-48c1-9e60-7b617a4764f0",
+        "nom": "Alice Durand",
+        "email": "alice.durand47@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "admin"
+    },
+    {
+        "_id": "af6af3de-eab6-492d-bddb-dd7907b587af",
+        "nom": "Isaac Dubois",
+        "email": "isaac.dubois48@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "admin"
+    },
+    {
+        "_id": "961e760b-f32e-45cf-ba18-73cdaf6cde9d",
+        "nom": "Isaac Martin",
+        "email": "isaac.martin49@entreprise.com",
+        "mot_de_passe": "hashed_password",
+        "r\u00f4le": "admin"
+    }
+]

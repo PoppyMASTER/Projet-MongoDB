@@ -1,0 +1,1602 @@
+[
+    {
+        "_id": "8105a452-a653-42e8-b53a-cb4e7f45b15b",
+        "fichier_id": "3d0e9ebc-283b-4265-9201-f257913558f0",
+        "utilisateur_dest_id": "7d44f347-6031-4087-a227-74be3090a8e7",
+        "date_partage": "2025-02-06T19:46:14.693187",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "64c57b4a-a3d5-4e8a-8c38-a3967a624656",
+        "fichier_id": "84dc7786-26ab-414b-ae35-ccf7e3eb2ff0",
+        "utilisateur_dest_id": "7d44f347-6031-4087-a227-74be3090a8e7",
+        "date_partage": "2025-01-30T19:46:14.693261",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "443a6c06-0c11-4e1c-9a0f-45d87a4717f8",
+        "fichier_id": "b87d2073-6c64-4104-8eff-4df87dac7b61",
+        "utilisateur_dest_id": "49183043-ed46-4f48-a844-0faefd79453d",
+        "date_partage": "2025-02-10T19:46:14.693321",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "e726919b-1354-4de5-84cf-8388c25a55d9",
+        "fichier_id": "0ed0d41f-5345-446a-ad13-6f3cbe368f4d",
+        "utilisateur_dest_id": "25c7f577-f74f-4f2e-8528-8e11d76e5752",
+        "date_partage": "2025-01-29T19:46:14.693347",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "1c2b2653-4255-47bd-8700-07b4b3771add",
+        "fichier_id": "c363aa62-5aae-4317-a709-2927f635bb88",
+        "utilisateur_dest_id": "970be45c-0aa5-4268-b2a4-f532c50bcc19",
+        "date_partage": "2024-12-10T19:46:14.693369",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "3d77e6ce-fdac-492e-9737-06541cd3f64d",
+        "fichier_id": "00cf0307-0c04-4a55-8302-3284e9171294",
+        "utilisateur_dest_id": "a23caa1c-50a6-434d-9fba-3f28fe7426cd",
+        "date_partage": "2024-12-12T19:46:14.693388",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "01d7e887-fe18-48cf-a119-be99045d6b42",
+        "fichier_id": "1045dd9e-eab7-4f1f-9af1-b21269910f3a",
+        "utilisateur_dest_id": "34b26067-10f6-481b-a3af-beafca771403",
+        "date_partage": "2025-01-06T19:46:14.693406",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "5aa9ebe5-ca2b-4c59-8ebd-75e31607c38c",
+        "fichier_id": "fe6ed15f-3ce6-40e7-b4eb-1415562ff5ed",
+        "utilisateur_dest_id": "7e7ade92-d129-4f32-9180-70bf3c5f3eac",
+        "date_partage": "2025-02-15T19:46:14.693442",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "35df402c-5e83-40f0-b9bb-5c2f28bff8a0",
+        "fichier_id": "bc41e94c-f2c8-4d41-9966-f488cd8faa5b",
+        "utilisateur_dest_id": "961e760b-f32e-45cf-ba18-73cdaf6cde9d",
+        "date_partage": "2025-06-03T19:46:14.693626",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "c8435fb7-9309-4837-8386-61a1f0b44ec2",
+        "fichier_id": "bb632bcf-cd5c-461d-87b0-77e82a588d19",
+        "utilisateur_dest_id": "7d44f347-6031-4087-a227-74be3090a8e7",
+        "date_partage": "2025-03-03T19:46:14.693731",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "c54742cd-840d-49f3-9a43-0727a06dcc23",
+        "fichier_id": "70fec397-9a1a-4412-9070-75557f423148",
+        "utilisateur_dest_id": "14d2cb91-3b95-46eb-849c-4bd5f93dbeb8",
+        "date_partage": "2025-01-15T19:46:14.693811",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "84fe03a9-2ab9-4803-9380-f6f1fece42d4",
+        "fichier_id": "0565749d-c120-4355-8582-7d107ea76553",
+        "utilisateur_dest_id": "493aa2c7-04f2-4028-95e3-ad966b8245f5",
+        "date_partage": "2025-06-01T19:46:14.693870",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "22b6106d-9aac-4c74-b34d-a3e5e6007f48",
+        "fichier_id": "dcf73237-0340-4d50-bcd4-c31e2f2d1fbc",
+        "utilisateur_dest_id": "81750dc4-6c82-4581-88c4-781d7dee468d",
+        "date_partage": "2025-05-13T19:46:14.693942",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "9991cd00-da5b-4b0c-8cd3-f025ede8d90e",
+        "fichier_id": "499acce9-d763-4c1e-a7cc-cf091c908c20",
+        "utilisateur_dest_id": "81750dc4-6c82-4581-88c4-781d7dee468d",
+        "date_partage": "2025-02-18T19:46:14.694000",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "0ecf2a10-c889-4880-82fe-ef216e20a166",
+        "fichier_id": "ddf93bc5-71f5-4aa2-a5b2-578b78da2d7a",
+        "utilisateur_dest_id": "d886bfc4-af3e-4268-805b-3f4d86ed0f3b",
+        "date_partage": "2025-03-29T19:46:14.694057",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "8caee4e5-4a1e-4b8f-8a17-457be5c1f1cb",
+        "fichier_id": "b82a77d3-7459-4427-827e-86636ee9b493",
+        "utilisateur_dest_id": "008193b2-47c8-4762-afd2-2ba513060c1a",
+        "date_partage": "2025-01-19T19:46:14.694186",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "86bef69c-20c6-4650-ac08-1be4cfddf8b9",
+        "fichier_id": "09e21b72-37c7-4422-928a-d687eaf77531",
+        "utilisateur_dest_id": "bb8f3dbc-cc4a-4f0e-a88d-75a0dabc46ed",
+        "date_partage": "2024-12-21T19:46:14.694250",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "09cdd503-6b42-45ee-be7b-a4f2556bdd9d",
+        "fichier_id": "a824854e-541c-4f38-86e3-37b04b636566",
+        "utilisateur_dest_id": "d6e70487-7324-476e-8a0e-1a687e6f0a36",
+        "date_partage": "2024-12-19T19:46:14.694290",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "59161216-d399-4513-ad0e-6b2541b559dc",
+        "fichier_id": "5096b994-93a3-4e5e-87ba-b25a087312b2",
+        "utilisateur_dest_id": "7d44f347-6031-4087-a227-74be3090a8e7",
+        "date_partage": "2025-03-28T19:46:14.694329",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "c1f9759c-9e61-4b28-a41d-70e71bbb36e6",
+        "fichier_id": "5e4d75d1-4d3c-46d8-84bc-681cf9380d08",
+        "utilisateur_dest_id": "493aa2c7-04f2-4028-95e3-ad966b8245f5",
+        "date_partage": "2025-01-31T19:46:14.694433",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "f781cbbe-b3e5-4746-8fa3-b304bc486d79",
+        "fichier_id": "2c37f384-f254-4546-ba93-9ced7897d863",
+        "utilisateur_dest_id": "3973d71f-8593-4933-8826-046b3d3a44dd",
+        "date_partage": "2025-02-08T19:46:14.694546",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "c0ecab92-00a9-4b2e-b094-275776d7c8d6",
+        "fichier_id": "965fdddd-e328-4fdf-86f8-fe27eb60b5b6",
+        "utilisateur_dest_id": "1d3d42c4-65c5-47fc-b0c6-bcc84b6892aa",
+        "date_partage": "2024-12-18T19:46:14.694634",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "6a7fd13d-6066-478c-b071-931a9a52d9c3",
+        "fichier_id": "0f7a2ae4-47b8-412d-876e-230214b0b0f9",
+        "utilisateur_dest_id": "c248fff4-c26e-40dc-9613-332a869c59ae",
+        "date_partage": "2025-02-26T19:46:14.694687",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "a6fec05e-9c38-4674-a91c-f1c4c66334f4",
+        "fichier_id": "758d320a-5f88-43ea-9347-047face7b1bb",
+        "utilisateur_dest_id": "d3a985f2-f842-47d4-899d-aa4b2e9a1b4d",
+        "date_partage": "2025-03-22T19:46:14.694729",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "16b44098-e9e1-4663-84d5-2539a101bae8",
+        "fichier_id": "fe793e67-3c3e-4091-9471-a21cac7a070d",
+        "utilisateur_dest_id": "bc80ff7a-0818-424f-aad1-d256b0e07b18",
+        "date_partage": "2025-03-20T19:46:14.694759",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "3de4c69f-3f86-40d1-bd01-eb45374e7509",
+        "fichier_id": "03864c55-944b-4833-ad72-4c8cf7ef34fe",
+        "utilisateur_dest_id": "961e760b-f32e-45cf-ba18-73cdaf6cde9d",
+        "date_partage": "2025-01-21T19:46:14.694804",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "fa8d965c-1cb3-492c-ba58-468693186f9d",
+        "fichier_id": "a1beefb0-4aa2-4c81-a66d-0b80155f9719",
+        "utilisateur_dest_id": "759b633c-2c58-48c1-9e60-7b617a4764f0",
+        "date_partage": "2024-12-29T19:46:14.694840",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "96a06836-768e-4a48-bd00-a191e2539ec2",
+        "fichier_id": "0333012a-bc0d-400e-b866-71c5e2e97e9c",
+        "utilisateur_dest_id": "af6af3de-eab6-492d-bddb-dd7907b587af",
+        "date_partage": "2024-12-07T19:46:14.694859",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "89b0031a-3f82-4e40-910a-a981e0b7a1d1",
+        "fichier_id": "475274ab-1976-4a66-9ec4-290fd0995bcd",
+        "utilisateur_dest_id": "970be45c-0aa5-4268-b2a4-f532c50bcc19",
+        "date_partage": "2025-03-30T19:46:14.694878",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "ffeac032-bc14-4101-bacf-093daf121999",
+        "fichier_id": "03864c55-944b-4833-ad72-4c8cf7ef34fe",
+        "utilisateur_dest_id": "ff1bc2f0-3920-4306-8fb4-3aabcb0c87dd",
+        "date_partage": "2025-04-02T19:46:14.694896",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "65c08aa9-1917-4015-b13c-edee0074d4c8",
+        "fichier_id": "7bc7ddbd-238d-4b8e-a8f2-a3d62c82205a",
+        "utilisateur_dest_id": "008193b2-47c8-4762-afd2-2ba513060c1a",
+        "date_partage": "2025-05-01T19:46:14.694914",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "bdf4ed19-a761-4751-b218-e9d59d486744",
+        "fichier_id": "2e5a99f8-0aba-43a2-8060-9ce4ae064528",
+        "utilisateur_dest_id": "cbd73dcf-9ba5-4cc7-9380-8e15db3ae6b5",
+        "date_partage": "2025-02-14T19:46:14.694935",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "ee417311-525c-44a4-9458-5d162658031d",
+        "fichier_id": "5a286cad-0643-4ccd-8c01-71aa6f8f569b",
+        "utilisateur_dest_id": "53ba44d5-22aa-42c2-a5a0-c3e152c5b646",
+        "date_partage": "2025-03-13T19:46:14.694953",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "9f38b395-f24b-4d8c-897d-0258d603ebe0",
+        "fichier_id": "61649f8f-480a-4437-a329-127b7bc7d466",
+        "utilisateur_dest_id": "ff1bc2f0-3920-4306-8fb4-3aabcb0c87dd",
+        "date_partage": "2025-04-04T19:46:14.694972",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "1fee0e2c-67f0-420c-8432-8bf57df515c7",
+        "fichier_id": "9453a410-b369-40f9-af89-4aabaf295ee5",
+        "utilisateur_dest_id": "25c7f577-f74f-4f2e-8528-8e11d76e5752",
+        "date_partage": "2025-02-21T19:46:14.694990",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "0815addf-75af-4d31-8ca6-44e5ee6c190a",
+        "fichier_id": "e4ca9e05-f6ba-4b7f-8e30-52c5be29b5ed",
+        "utilisateur_dest_id": "34b26067-10f6-481b-a3af-beafca771403",
+        "date_partage": "2025-04-27T19:46:14.695010",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "49832994-9237-4ae3-9537-e94a48676722",
+        "fichier_id": "5a286cad-0643-4ccd-8c01-71aa6f8f569b",
+        "utilisateur_dest_id": "5b292375-404a-4d46-be30-9c87d18ef637",
+        "date_partage": "2025-04-15T19:46:14.695027",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "0418407b-83ae-4050-b1a9-52f5d9129fd2",
+        "fichier_id": "d844fbdd-5765-46b1-ab23-991ca7d206d6",
+        "utilisateur_dest_id": "3ecb7cdd-de1e-4b7f-a6dc-6eb97c25561c",
+        "date_partage": "2024-12-26T19:46:14.695044",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "262e0c9c-5181-4061-9251-4625f713756b",
+        "fichier_id": "0e6cf6cd-595b-48fc-9752-00df6a80afde",
+        "utilisateur_dest_id": "f3b88953-88ee-4c55-8ec6-01cb0e6af002",
+        "date_partage": "2025-02-16T19:46:14.695062",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "65900d7c-9c72-4e0d-9dc4-3c086255c669",
+        "fichier_id": "91b3d3c6-1b0c-42cb-b13d-9a9f461d3465",
+        "utilisateur_dest_id": "85aafaef-9671-4363-a2f7-626d5c378d3e",
+        "date_partage": "2025-05-07T19:46:14.695080",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "03b2c95c-8fad-46b3-a406-ed5db7c4a5b0",
+        "fichier_id": "b9df2e5c-8125-47e1-9333-ec2bb5f7cdbd",
+        "utilisateur_dest_id": "961e760b-f32e-45cf-ba18-73cdaf6cde9d",
+        "date_partage": "2025-02-18T19:46:14.695097",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "071684ac-fd38-4956-b06b-f3981eb18694",
+        "fichier_id": "61ffa4d8-2f74-42c9-b3a6-153e303d32a0",
+        "utilisateur_dest_id": "53ba44d5-22aa-42c2-a5a0-c3e152c5b646",
+        "date_partage": "2024-12-26T19:46:14.695157",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "ede8172f-63d0-478f-9f20-e82ce2b4f597",
+        "fichier_id": "992de810-a465-4b8d-b56c-9acee329098a",
+        "utilisateur_dest_id": "85aafaef-9671-4363-a2f7-626d5c378d3e",
+        "date_partage": "2025-03-28T19:46:14.695227",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "7fbf927c-e689-420f-aa2c-4f923aba3955",
+        "fichier_id": "f1866f0a-917d-4683-a749-a72a6310e6a6",
+        "utilisateur_dest_id": "d6e70487-7324-476e-8a0e-1a687e6f0a36",
+        "date_partage": "2024-12-31T19:46:14.695299",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "1e4da913-656e-4d43-9092-f536ddc2cd42",
+        "fichier_id": "81de1dc3-25b1-4ffb-9caa-09ef513a7559",
+        "utilisateur_dest_id": "5b292375-404a-4d46-be30-9c87d18ef637",
+        "date_partage": "2025-03-27T19:46:14.695361",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "958fb555-dc25-4a47-bf01-4f8fc35aa4fa",
+        "fichier_id": "6663c01a-09fd-4759-9392-d40832ae014e",
+        "utilisateur_dest_id": "c2132ac9-f794-47f8-88bf-293fd7cd5205",
+        "date_partage": "2025-01-18T19:46:14.695421",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "0e22278f-9daa-45a9-bbcf-348de1966a30",
+        "fichier_id": "aec98696-6933-4561-9fc2-b07387c3d31b",
+        "utilisateur_dest_id": "c57c43a2-3a58-453b-9dd0-eb92585b960c",
+        "date_partage": "2025-01-25T19:46:14.695490",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "24edf445-ce62-4275-9bef-b24003dbb027",
+        "fichier_id": "f1866f0a-917d-4683-a749-a72a6310e6a6",
+        "utilisateur_dest_id": "d16dc406-97da-4fbf-8bd6-6211f9d4c915",
+        "date_partage": "2025-03-19T19:46:14.695528",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "67749ef3-6646-4415-8d04-2db771516157",
+        "fichier_id": "8bf2d821-6645-475d-b4e2-9790ba6ec550",
+        "utilisateur_dest_id": "7d44f347-6031-4087-a227-74be3090a8e7",
+        "date_partage": "2025-05-11T19:46:14.695578",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "721313cc-1e1c-4809-96d5-f6cef9abab43",
+        "fichier_id": "91b3d3c6-1b0c-42cb-b13d-9a9f461d3465",
+        "utilisateur_dest_id": "d16dc406-97da-4fbf-8bd6-6211f9d4c915",
+        "date_partage": "2025-03-26T19:46:14.695662",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "b92340f7-2232-40d4-9526-6ca219c8ac40",
+        "fichier_id": "247ec76f-7120-4f96-97b3-b49c0fc4b2b2",
+        "utilisateur_dest_id": "3fe3965b-5fd8-4a7a-bafb-85dbb280a665",
+        "date_partage": "2025-01-22T19:46:14.695722",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "9c34ab11-7018-4182-9679-0d40ea27313a",
+        "fichier_id": "3611a458-4c34-4143-96ac-982a5a8a96b0",
+        "utilisateur_dest_id": "07a69780-46ac-427f-a903-b50bdadb963a",
+        "date_partage": "2025-01-26T19:46:14.695766",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "d712561e-e8bd-4aeb-836d-f1b288f61560",
+        "fichier_id": "a5a69198-fcf1-4f59-9697-fa2f20378257",
+        "utilisateur_dest_id": "89d822b6-10d7-42be-bb58-fc10a4fa6201",
+        "date_partage": "2025-03-03T19:46:14.695804",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "5bc6b897-4540-4e43-9b78-0148ae413468",
+        "fichier_id": "eb1619f5-5b42-4a47-b6c6-aec3d2cea7e1",
+        "utilisateur_dest_id": "ff1bc2f0-3920-4306-8fb4-3aabcb0c87dd",
+        "date_partage": "2025-04-17T19:46:14.695836",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "2fe8feae-94d8-425f-8737-05374f18d1c5",
+        "fichier_id": "cd9d2eb0-b061-465a-98e5-0d2b67d60440",
+        "utilisateur_dest_id": "1c7d7cde-965d-4cbe-9b3d-9887570d328c",
+        "date_partage": "2025-03-28T19:46:14.695859",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "a9ed3b85-ee45-4f2d-95d0-f168d676cb4d",
+        "fichier_id": "4300db08-2d9a-4f20-8cf5-d05d842be1bd",
+        "utilisateur_dest_id": "d16dc406-97da-4fbf-8bd6-6211f9d4c915",
+        "date_partage": "2025-01-21T19:46:14.695879",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "7769d080-c8b1-4d10-aad4-ef0ef7865459",
+        "fichier_id": "20e03d1a-91c0-4edf-b8a5-2bd9f7ac85a0",
+        "utilisateur_dest_id": "c57c43a2-3a58-453b-9dd0-eb92585b960c",
+        "date_partage": "2025-05-20T19:46:14.695898",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "561d9125-6198-4090-90e4-3ab07f2a80cf",
+        "fichier_id": "eada1cd5-ab39-4cc9-a698-30632ec6277f",
+        "utilisateur_dest_id": "34b26067-10f6-481b-a3af-beafca771403",
+        "date_partage": "2025-01-03T19:46:14.695917",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "a1e5befd-a7f2-4508-b0ab-cfeb07bb94e2",
+        "fichier_id": "a7e3ebe3-4153-426f-aa5a-fd3f3b673e80",
+        "utilisateur_dest_id": "759b633c-2c58-48c1-9e60-7b617a4764f0",
+        "date_partage": "2025-03-26T19:46:14.695936",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "783b7ed0-967b-487b-bb66-d4c88015c5d6",
+        "fichier_id": "717fd864-46ee-449f-a467-b77eb0a971eb",
+        "utilisateur_dest_id": "34b26067-10f6-481b-a3af-beafca771403",
+        "date_partage": "2025-05-06T19:46:14.695956",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "3a0bd48b-12f9-4c6b-949e-e4e62c6ca549",
+        "fichier_id": "aa8665ff-b224-44db-9618-f00d360e715b",
+        "utilisateur_dest_id": "2da69ed2-2e38-4694-acd0-5d349c162c34",
+        "date_partage": "2025-02-01T19:46:14.695992",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "80009ef2-70d8-4dcd-ba3b-33e131814c2e",
+        "fichier_id": "fd3767ac-78de-471c-8915-5df8fb0f084f",
+        "utilisateur_dest_id": "57b14813-b0f6-42b1-b795-73eb5c2af2bc",
+        "date_partage": "2024-12-29T19:46:14.696015",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "e5142cf3-434d-420e-8a22-dc72025f4ed7",
+        "fichier_id": "bdaca2f3-588a-4b8b-838e-a875f83988e6",
+        "utilisateur_dest_id": "bb8f3dbc-cc4a-4f0e-a88d-75a0dabc46ed",
+        "date_partage": "2024-12-23T19:46:14.696051",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "9653febf-12a8-4f15-aac2-a7bafff24089",
+        "fichier_id": "a67c2fad-e4e8-4a77-a855-a9b5cd16bff6",
+        "utilisateur_dest_id": "3e7431d1-1f8d-47f3-b080-44cd6ae44221",
+        "date_partage": "2024-12-31T19:46:14.696071",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "a9110fdf-eb50-412b-ab3b-077caaa0df4e",
+        "fichier_id": "089d2287-fa85-45fa-8aac-0c5fbecaeee0",
+        "utilisateur_dest_id": "d3a985f2-f842-47d4-899d-aa4b2e9a1b4d",
+        "date_partage": "2025-04-24T19:46:14.696090",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "bf63f14b-728e-48f7-8761-94f56845390c",
+        "fichier_id": "bcbd4714-d620-48a0-9913-d51d41a86906",
+        "utilisateur_dest_id": "07a69780-46ac-427f-a903-b50bdadb963a",
+        "date_partage": "2025-03-19T19:46:14.696111",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "77a2246d-4c5c-4322-b18d-aea42d7fbef6",
+        "fichier_id": "a5efd1a1-edab-4526-8df1-b44ddce9d906",
+        "utilisateur_dest_id": "3e7431d1-1f8d-47f3-b080-44cd6ae44221",
+        "date_partage": "2025-05-13T19:46:14.696129",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "0898ce09-40ee-4f48-bfa8-163ad808c1a2",
+        "fichier_id": "7e87aa4b-b86b-4a2e-9d51-0d7d50436ccd",
+        "utilisateur_dest_id": "1d3d42c4-65c5-47fc-b0c6-bcc84b6892aa",
+        "date_partage": "2025-04-04T19:46:14.696158",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "e97e0dab-4541-4eb7-a8c6-de4a9a18ac79",
+        "fichier_id": "3e6c58b5-4dbf-4380-9be0-3325cf429074",
+        "utilisateur_dest_id": "3e7431d1-1f8d-47f3-b080-44cd6ae44221",
+        "date_partage": "2025-04-27T19:46:14.696216",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "bfbed870-c6dd-44bd-82e1-74877f090135",
+        "fichier_id": "e4ca9e05-f6ba-4b7f-8e30-52c5be29b5ed",
+        "utilisateur_dest_id": "53ba44d5-22aa-42c2-a5a0-c3e152c5b646",
+        "date_partage": "2025-02-09T19:46:14.696253",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "f8e23813-76b6-4002-89c1-d66ba5e8b607",
+        "fichier_id": "c1d2f0c9-8be6-46d6-a190-114d359a2e0e",
+        "utilisateur_dest_id": "1c7d7cde-965d-4cbe-9b3d-9887570d328c",
+        "date_partage": "2024-12-06T19:46:14.696292",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "a816a6a3-d798-4ce9-9db2-2e83dda7528d",
+        "fichier_id": "5096b994-93a3-4e5e-87ba-b25a087312b2",
+        "utilisateur_dest_id": "85aafaef-9671-4363-a2f7-626d5c378d3e",
+        "date_partage": "2025-03-28T19:46:14.696349",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "ea98cd7a-cf96-4eca-aae7-cb086eaa531d",
+        "fichier_id": "f08d5047-e4c9-4128-87b3-33ff3460c9d7",
+        "utilisateur_dest_id": "e54dd900-dbf1-4754-b48e-cd8cdb316c30",
+        "date_partage": "2024-12-22T19:46:14.696393",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "23ea9713-8048-4203-9cc8-7f311ccc18cb",
+        "fichier_id": "a3165641-e216-4a17-93b1-7c18312ef33b",
+        "utilisateur_dest_id": "49183043-ed46-4f48-a844-0faefd79453d",
+        "date_partage": "2025-01-31T19:46:14.696429",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "f838a94e-e5fa-4f59-b4e6-ad7264a8d250",
+        "fichier_id": "deed713d-8380-468c-9ade-b4b5a9ac4023",
+        "utilisateur_dest_id": "3d15127a-eb70-49c1-94fc-a89e4e8045e9",
+        "date_partage": "2025-03-29T19:46:14.696463",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "3c795cf5-ff3d-4483-a9a6-ee31ead24d0c",
+        "fichier_id": "7e87aa4b-b86b-4a2e-9d51-0d7d50436ccd",
+        "utilisateur_dest_id": "c2132ac9-f794-47f8-88bf-293fd7cd5205",
+        "date_partage": "2025-01-27T19:46:14.696502",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "6ba13703-0fb1-4d70-8eb6-8d88753e89d7",
+        "fichier_id": "cb0146d1-da99-41d2-bac5-0b81443ba78f",
+        "utilisateur_dest_id": "d16dc406-97da-4fbf-8bd6-6211f9d4c915",
+        "date_partage": "2025-02-23T19:46:14.696522",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "95c585d1-85ba-4c85-b772-e20a16398d12",
+        "fichier_id": "3ed91ad3-f676-43e5-bb88-43876386576c",
+        "utilisateur_dest_id": "1d3d42c4-65c5-47fc-b0c6-bcc84b6892aa",
+        "date_partage": "2025-05-31T19:46:14.696580",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "ea1462ce-7b83-4751-aa7e-a2f4f32d97ab",
+        "fichier_id": "bf37bde9-e680-48dc-a3e7-499aa3de0248",
+        "utilisateur_dest_id": "89d822b6-10d7-42be-bb58-fc10a4fa6201",
+        "date_partage": "2025-05-28T19:46:14.696633",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "b1898bea-9083-4442-985b-9b01a15132d1",
+        "fichier_id": "eb1619f5-5b42-4a47-b6c6-aec3d2cea7e1",
+        "utilisateur_dest_id": "25c7f577-f74f-4f2e-8528-8e11d76e5752",
+        "date_partage": "2025-01-07T19:46:14.696691",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "3e9b9248-459e-4882-a0aa-e05f1c79b6b0",
+        "fichier_id": "408353b8-a29c-46cd-86e1-8109415bde08",
+        "utilisateur_dest_id": "3ecb7cdd-de1e-4b7f-a6dc-6eb97c25561c",
+        "date_partage": "2025-04-07T19:46:14.696752",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "a17bda0c-0f29-4522-ae6e-e63bf9a9fbf4",
+        "fichier_id": "bc95dd81-6319-4c44-b036-eff0b5531ac0",
+        "utilisateur_dest_id": "759b633c-2c58-48c1-9e60-7b617a4764f0",
+        "date_partage": "2025-03-25T19:46:14.697443",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "282195cb-9acc-4e36-96d8-de48cd7187a6",
+        "fichier_id": "30693651-3847-42b5-95fe-403c7bc45d3d",
+        "utilisateur_dest_id": "759b633c-2c58-48c1-9e60-7b617a4764f0",
+        "date_partage": "2025-05-25T19:46:14.697537",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "06018355-f4d1-4176-9a56-3ce5a0399072",
+        "fichier_id": "d118b26b-0d88-423f-9a41-35332b203681",
+        "utilisateur_dest_id": "cbd73dcf-9ba5-4cc7-9380-8e15db3ae6b5",
+        "date_partage": "2024-12-27T19:46:14.697624",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "002632b3-fc30-43cf-be71-0d4d52aa9c52",
+        "fichier_id": "ac3dad76-c68f-43e4-83ae-32965254e9ff",
+        "utilisateur_dest_id": "2cd4e204-b9cf-4cf1-b1b2-abedc5a2ac0e",
+        "date_partage": "2025-05-10T19:46:14.697682",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "1a1880bb-87df-42aa-9224-55b2fe678eef",
+        "fichier_id": "39ad688c-bd20-400a-8d26-a44a43ab3b0c",
+        "utilisateur_dest_id": "2da69ed2-2e38-4694-acd0-5d349c162c34",
+        "date_partage": "2025-05-16T19:46:14.697735",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "53983570-9e97-45fb-88f7-1e61ad1d3f69",
+        "fichier_id": "105258ae-6db0-4662-8f2c-b64fd5061f01",
+        "utilisateur_dest_id": "07a69780-46ac-427f-a903-b50bdadb963a",
+        "date_partage": "2025-05-09T19:46:14.697803",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "39d15f0a-bbf9-4df2-bdaf-d4ccb86845ac",
+        "fichier_id": "61ffa4d8-2f74-42c9-b3a6-153e303d32a0",
+        "utilisateur_dest_id": "2da69ed2-2e38-4694-acd0-5d349c162c34",
+        "date_partage": "2025-05-27T19:46:14.697875",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "45d04a8e-8780-4a30-95f3-d85d2719fbc7",
+        "fichier_id": "5a286cad-0643-4ccd-8c01-71aa6f8f569b",
+        "utilisateur_dest_id": "420a9ba3-12d4-4b04-89bb-a553829789a2",
+        "date_partage": "2025-05-17T19:46:14.697927",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "536c227b-28e4-409d-9f91-8e833ab2b96c",
+        "fichier_id": "e62d0a30-4205-40d2-be24-ef81ad138a1f",
+        "utilisateur_dest_id": "25c7f577-f74f-4f2e-8528-8e11d76e5752",
+        "date_partage": "2025-02-23T19:46:14.697977",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "439d60b7-7e5e-46c7-9c73-40825c6462b9",
+        "fichier_id": "e9498c42-1a46-45bc-a57a-de9d711b2fdb",
+        "utilisateur_dest_id": "af6af3de-eab6-492d-bddb-dd7907b587af",
+        "date_partage": "2025-03-13T19:46:14.698053",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "b8f742fd-26a7-4762-9a1c-dfac74f2b454",
+        "fichier_id": "20e03d1a-91c0-4edf-b8a5-2bd9f7ac85a0",
+        "utilisateur_dest_id": "e54dd900-dbf1-4754-b48e-cd8cdb316c30",
+        "date_partage": "2025-01-09T19:46:14.698125",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "665d3b02-be60-4f5f-80f0-3d08a76dbc20",
+        "fichier_id": "85d9a1d1-47ce-4fe3-bd57-0589193ebb01",
+        "utilisateur_dest_id": "d24ce781-202d-464e-9883-4ff49b09a39c",
+        "date_partage": "2025-01-04T19:46:14.698202",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "5873eab8-ce24-43e3-89d0-5352bc497816",
+        "fichier_id": "f08d5047-e4c9-4128-87b3-33ff3460c9d7",
+        "utilisateur_dest_id": "24867973-e2b3-4031-b789-1ae62bde8537",
+        "date_partage": "2025-05-10T19:46:14.698263",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "5a1f1858-0eb6-4613-9242-65bb15e3e8f9",
+        "fichier_id": "55aea20e-a3a4-439f-8b01-56d03fd5c690",
+        "utilisateur_dest_id": "f3b88953-88ee-4c55-8ec6-01cb0e6af002",
+        "date_partage": "2025-05-20T19:46:14.698316",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "0aa9adc1-9435-4d5c-88ac-d5f0be5349ca",
+        "fichier_id": "d52e6b5f-186c-4bab-ad28-38ad8cf300dc",
+        "utilisateur_dest_id": "961e760b-f32e-45cf-ba18-73cdaf6cde9d",
+        "date_partage": "2025-05-26T19:46:14.698369",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "af59f223-bd56-4cc9-beb0-50604ebd077d",
+        "fichier_id": "f95e9e8b-db4e-4cc8-9658-bc482efaa5a4",
+        "utilisateur_dest_id": "961e760b-f32e-45cf-ba18-73cdaf6cde9d",
+        "date_partage": "2024-12-18T19:46:14.698429",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "07f39f38-c6ba-4fab-9d04-cad736bc5dea",
+        "fichier_id": "b7775c8c-345d-46c4-811a-f2bd8910c2a7",
+        "utilisateur_dest_id": "7d44f347-6031-4087-a227-74be3090a8e7",
+        "date_partage": "2025-05-24T19:46:14.698478",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "6685c511-d9f0-4ef2-a387-b29ecc3a284c",
+        "fichier_id": "163549c2-29a0-4bd7-b1ce-3b311d743748",
+        "utilisateur_dest_id": "bb8f3dbc-cc4a-4f0e-a88d-75a0dabc46ed",
+        "date_partage": "2024-12-17T19:46:14.698527",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "547bfc44-7bdb-455c-9631-240fabedc186",
+        "fichier_id": "b21e8686-0c77-47bf-b736-a9d01c8fe236",
+        "utilisateur_dest_id": "cbd73dcf-9ba5-4cc7-9380-8e15db3ae6b5",
+        "date_partage": "2025-03-16T19:46:14.698592",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "b09c713a-74ac-4a56-8934-c5930854bfbc",
+        "fichier_id": "1daed210-9e2b-40b8-a1de-58e18f6f9a3e",
+        "utilisateur_dest_id": "e54dd900-dbf1-4754-b48e-cd8cdb316c30",
+        "date_partage": "2025-03-14T19:46:14.698645",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "75ef1d95-8347-4bba-9776-14acc1973a99",
+        "fichier_id": "965fdddd-e328-4fdf-86f8-fe27eb60b5b6",
+        "utilisateur_dest_id": "961e760b-f32e-45cf-ba18-73cdaf6cde9d",
+        "date_partage": "2025-02-10T19:46:14.698752",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "dab2d90d-c03e-4de3-8d45-d37ea49c239f",
+        "fichier_id": "3e6c58b5-4dbf-4380-9be0-3325cf429074",
+        "utilisateur_dest_id": "49183043-ed46-4f48-a844-0faefd79453d",
+        "date_partage": "2025-01-27T19:46:14.698829",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "bc119b70-8108-4a72-9956-f777d07aa226",
+        "fichier_id": "5f672dcc-56b7-43f8-aa31-c5dcec0e13a7",
+        "utilisateur_dest_id": "ff1bc2f0-3920-4306-8fb4-3aabcb0c87dd",
+        "date_partage": "2025-02-10T19:46:14.698902",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "195edc82-3e48-4ccd-8c7b-2dba8ec4e451",
+        "fichier_id": "ebea2dcf-c8f2-4d04-bb0d-6c915ff21898",
+        "utilisateur_dest_id": "85aafaef-9671-4363-a2f7-626d5c378d3e",
+        "date_partage": "2024-12-29T19:46:14.698955",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "4e4564cf-23c4-4911-ae06-44b63f63bdc5",
+        "fichier_id": "35ba6e64-eb55-40f5-a905-01aaea3df2ea",
+        "utilisateur_dest_id": "bb8f3dbc-cc4a-4f0e-a88d-75a0dabc46ed",
+        "date_partage": "2025-02-25T19:46:14.699027",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "ca4f0b55-24c6-435e-a459-7cf3b567c4cf",
+        "fichier_id": "6674cdda-a914-43d5-81f5-1ade02c0cc07",
+        "utilisateur_dest_id": "5b292375-404a-4d46-be30-9c87d18ef637",
+        "date_partage": "2025-03-29T19:46:14.699069",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "8e662de9-1544-410b-9d24-88eed8aaf630",
+        "fichier_id": "eada1cd5-ab39-4cc9-a698-30632ec6277f",
+        "utilisateur_dest_id": "7d44f347-6031-4087-a227-74be3090a8e7",
+        "date_partage": "2024-12-18T19:46:14.699118",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "fa276a5a-c355-4a63-9f0b-fdef80560873",
+        "fichier_id": "b56b2d4c-3d11-455e-baad-a1552ea03974",
+        "utilisateur_dest_id": "3ecb7cdd-de1e-4b7f-a6dc-6eb97c25561c",
+        "date_partage": "2025-05-29T19:46:14.699166",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "e20f40dc-f1ac-46fd-a1de-97425a71409c",
+        "fichier_id": "2b173ec8-a08f-4ed1-bdd2-b21e7532a5ba",
+        "utilisateur_dest_id": "5ef3f837-6161-4cf0-8c4e-19d7f772332a",
+        "date_partage": "2025-01-13T19:46:14.699219",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "4f9cb606-f3ac-42a5-89b5-b7057cb44a90",
+        "fichier_id": "6b08367f-79a1-43b0-804a-adde9a3ca6b2",
+        "utilisateur_dest_id": "f3b88953-88ee-4c55-8ec6-01cb0e6af002",
+        "date_partage": "2025-05-24T19:46:14.699268",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "6482e431-9d73-4f89-9761-09abcd15216a",
+        "fichier_id": "bb632bcf-cd5c-461d-87b0-77e82a588d19",
+        "utilisateur_dest_id": "2da69ed2-2e38-4694-acd0-5d349c162c34",
+        "date_partage": "2024-12-28T19:46:14.699317",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "3ef3a5cd-00f5-41ec-8e47-63c53107bc83",
+        "fichier_id": "4647f62f-7b60-4293-a692-50e5fa90668e",
+        "utilisateur_dest_id": "3d15127a-eb70-49c1-94fc-a89e4e8045e9",
+        "date_partage": "2024-12-22T19:46:14.699482",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "759bf537-a837-4c00-95a0-e43ae7aadfe0",
+        "fichier_id": "848fb906-5ddd-47e2-9e57-9be0eb9c70ab",
+        "utilisateur_dest_id": "25c7f577-f74f-4f2e-8528-8e11d76e5752",
+        "date_partage": "2025-02-19T19:46:14.699554",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "2034d259-b921-414e-b743-e822ce2ed2a4",
+        "fichier_id": "35ba6e64-eb55-40f5-a905-01aaea3df2ea",
+        "utilisateur_dest_id": "008193b2-47c8-4762-afd2-2ba513060c1a",
+        "date_partage": "2025-01-20T19:46:14.699702",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "6b8be299-f4a9-4425-89e8-eca09dbb7d46",
+        "fichier_id": "45b80604-fd73-4cc7-8c48-2e66513892ab",
+        "utilisateur_dest_id": "d24ce781-202d-464e-9883-4ff49b09a39c",
+        "date_partage": "2025-02-05T19:46:14.699786",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "76586a95-9f5b-4d63-9bfb-1fd4c35fcf19",
+        "fichier_id": "8ca02718-564d-4532-807f-4fe3f9162902",
+        "utilisateur_dest_id": "d886bfc4-af3e-4268-805b-3f4d86ed0f3b",
+        "date_partage": "2024-12-27T19:46:14.699994",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "14374721-751d-47f9-818c-e446dce43014",
+        "fichier_id": "7ff50ef5-ef72-474a-9a30-1c522277fe3d",
+        "utilisateur_dest_id": "1d7867b1-a0ff-44e2-b42d-5a9439b74c7e",
+        "date_partage": "2025-01-02T19:46:14.700336",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "850fa5f8-d7da-43a7-9761-2e9f4b925cf5",
+        "fichier_id": "c4644e89-0663-4a64-b489-308b6ea87c4f",
+        "utilisateur_dest_id": "c248fff4-c26e-40dc-9613-332a869c59ae",
+        "date_partage": "2025-02-18T19:46:14.700478",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "9e110815-c480-4c18-be6f-e958e72482a2",
+        "fichier_id": "1c9b194b-a2ad-43f1-9090-e74513b0d0d9",
+        "utilisateur_dest_id": "bc80ff7a-0818-424f-aad1-d256b0e07b18",
+        "date_partage": "2024-12-24T19:46:14.700553",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "0cca6ff1-d380-4b19-bf00-0607267de0b6",
+        "fichier_id": "2dd5023a-c0dc-4635-bf9d-718166f2c16b",
+        "utilisateur_dest_id": "85aafaef-9671-4363-a2f7-626d5c378d3e",
+        "date_partage": "2024-12-17T19:46:14.700614",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "fdb9570a-1344-4c83-9818-b872409f0e36",
+        "fichier_id": "b21e8686-0c77-47bf-b736-a9d01c8fe236",
+        "utilisateur_dest_id": "c2132ac9-f794-47f8-88bf-293fd7cd5205",
+        "date_partage": "2025-02-20T19:46:14.700655",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "7a8630ba-28bc-40f7-a29c-5246901ab80a",
+        "fichier_id": "0c46110a-24d7-4adf-be56-e98bfef29d8f",
+        "utilisateur_dest_id": "759b633c-2c58-48c1-9e60-7b617a4764f0",
+        "date_partage": "2025-01-05T19:46:14.700738",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "262721af-3c1a-46cf-a88e-36ccdfa7021d",
+        "fichier_id": "6f3465eb-82c5-49e4-8690-037d69d62ff1",
+        "utilisateur_dest_id": "cbd73dcf-9ba5-4cc7-9380-8e15db3ae6b5",
+        "date_partage": "2025-03-11T19:46:14.700772",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "a07f6a92-a1c9-4ff9-b84a-3b84e94a8f51",
+        "fichier_id": "c16e2d4c-aa0b-4f98-bb5a-e335630ecda7",
+        "utilisateur_dest_id": "5b292375-404a-4d46-be30-9c87d18ef637",
+        "date_partage": "2025-01-28T19:46:14.701065",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "f69b2bf5-0e27-4fea-bcf0-972d1f9a0dab",
+        "fichier_id": "61ffa4d8-2f74-42c9-b3a6-153e303d32a0",
+        "utilisateur_dest_id": "cbd73dcf-9ba5-4cc7-9380-8e15db3ae6b5",
+        "date_partage": "2025-02-06T19:46:14.701191",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "75c1207f-ec77-47e6-9580-6c4d741c56ed",
+        "fichier_id": "2bbdd22d-72e2-48ab-a8f8-6a5f26234497",
+        "utilisateur_dest_id": "3fe3965b-5fd8-4a7a-bafb-85dbb280a665",
+        "date_partage": "2025-02-04T19:46:14.701287",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "a98d83f5-5eab-450f-8dff-9bd47f5cf41f",
+        "fichier_id": "a7e3ebe3-4153-426f-aa5a-fd3f3b673e80",
+        "utilisateur_dest_id": "d3a985f2-f842-47d4-899d-aa4b2e9a1b4d",
+        "date_partage": "2025-04-06T19:46:14.701346",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "23860142-63af-45a3-9666-1680732f9c20",
+        "fichier_id": "a1beefb0-4aa2-4c81-a66d-0b80155f9719",
+        "utilisateur_dest_id": "d16dc406-97da-4fbf-8bd6-6211f9d4c915",
+        "date_partage": "2025-04-16T19:46:14.701589",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "297331fc-6e12-4cef-acea-a252f945d8e4",
+        "fichier_id": "e264b6cb-c6b3-47a6-8a9d-2b286f105696",
+        "utilisateur_dest_id": "420a9ba3-12d4-4b04-89bb-a553829789a2",
+        "date_partage": "2025-01-15T19:46:14.701684",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "1385fb3e-3e8f-460a-8cc4-e6fbe4a2b11d",
+        "fichier_id": "a3165641-e216-4a17-93b1-7c18312ef33b",
+        "utilisateur_dest_id": "1d3d42c4-65c5-47fc-b0c6-bcc84b6892aa",
+        "date_partage": "2025-04-09T19:46:14.701833",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "669e8c6f-0bb4-4502-ab96-4bcb17b041e2",
+        "fichier_id": "95ce16aa-6668-47b0-8296-967acf52eeb1",
+        "utilisateur_dest_id": "af6af3de-eab6-492d-bddb-dd7907b587af",
+        "date_partage": "2025-05-30T19:46:14.701922",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "fb12f6da-ac59-49b3-8a66-557045569bfd",
+        "fichier_id": "bceccbcd-3675-44f5-a648-e60dd0b154e9",
+        "utilisateur_dest_id": "d6e70487-7324-476e-8a0e-1a687e6f0a36",
+        "date_partage": "2024-12-09T19:46:14.701966",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "4969e2a1-54df-4cb5-bfed-bfd7fa51a17a",
+        "fichier_id": "14ccf9d2-8955-4906-8865-78dd5c8c3021",
+        "utilisateur_dest_id": "7e7ade92-d129-4f32-9180-70bf3c5f3eac",
+        "date_partage": "2025-01-22T19:46:14.702008",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "0bed1250-b562-47f5-8f28-3b67a6da0a58",
+        "fichier_id": "b7775c8c-345d-46c4-811a-f2bd8910c2a7",
+        "utilisateur_dest_id": "e54dd900-dbf1-4754-b48e-cd8cdb316c30",
+        "date_partage": "2025-03-03T19:46:14.702050",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "f6cfa303-8c4a-4e05-aeb5-f5b6dc2e3576",
+        "fichier_id": "2983c767-15a2-4eb5-ac65-876f61652919",
+        "utilisateur_dest_id": "493aa2c7-04f2-4028-95e3-ad966b8245f5",
+        "date_partage": "2025-01-02T19:46:14.702098",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "cdfe2663-005a-44e3-b95f-af7b884d661a",
+        "fichier_id": "55fecafa-f376-46d0-9f0e-e5384157e0ce",
+        "utilisateur_dest_id": "24867973-e2b3-4031-b789-1ae62bde8537",
+        "date_partage": "2025-05-01T19:46:14.702150",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "970bfa6a-c477-4635-b2a6-e6a0a75dd3f6",
+        "fichier_id": "c363aa62-5aae-4317-a709-2927f635bb88",
+        "utilisateur_dest_id": "bc80ff7a-0818-424f-aad1-d256b0e07b18",
+        "date_partage": "2025-04-12T19:46:14.702202",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "4ac3cd7b-d6b0-4b2a-b0b8-cae15bffbbe0",
+        "fichier_id": "976638c0-ba78-4717-8425-9f375bd720e6",
+        "utilisateur_dest_id": "d6e70487-7324-476e-8a0e-1a687e6f0a36",
+        "date_partage": "2025-05-24T19:46:14.702273",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "71c396c7-96dc-4fc0-ace1-7aca65c00c55",
+        "fichier_id": "2c37f384-f254-4546-ba93-9ced7897d863",
+        "utilisateur_dest_id": "d24ce781-202d-464e-9883-4ff49b09a39c",
+        "date_partage": "2025-02-28T19:46:14.702321",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "5add8c7f-b7cc-46ef-9fce-cea4efee33b8",
+        "fichier_id": "39fb2cc3-0893-407c-ab3e-3c7ed0833750",
+        "utilisateur_dest_id": "7e7ade92-d129-4f32-9180-70bf3c5f3eac",
+        "date_partage": "2025-05-02T19:46:14.702354",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "3054f7ba-ae30-47eb-ba76-d2a080b88c79",
+        "fichier_id": "c363aa62-5aae-4317-a709-2927f635bb88",
+        "utilisateur_dest_id": "1c7d7cde-965d-4cbe-9b3d-9887570d328c",
+        "date_partage": "2025-01-16T19:46:14.702373",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "786cb502-1dd9-46ed-8bea-048f60f5afc2",
+        "fichier_id": "3d0e9ebc-283b-4265-9201-f257913558f0",
+        "utilisateur_dest_id": "cbd73dcf-9ba5-4cc7-9380-8e15db3ae6b5",
+        "date_partage": "2025-02-28T19:46:14.702392",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "456758ba-a73c-4ec6-8dfa-6587285a1075",
+        "fichier_id": "9d8e78c0-1881-4a24-9de8-73cebccbe729",
+        "utilisateur_dest_id": "72ad853f-4276-4413-9652-12f94519b5e0",
+        "date_partage": "2024-12-22T19:46:14.702413",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "e7f6662b-6637-43f0-bdb3-a3834d9cb4b2",
+        "fichier_id": "6a7acd99-8b36-477f-a5a3-4853bce10315",
+        "utilisateur_dest_id": "d24ce781-202d-464e-9883-4ff49b09a39c",
+        "date_partage": "2025-02-04T19:46:14.702436",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "ab69f124-6b0f-4935-99e8-1ba0c377a17a",
+        "fichier_id": "454b2670-9560-4b4f-b140-c9d3be15ca1e",
+        "utilisateur_dest_id": "81750dc4-6c82-4581-88c4-781d7dee468d",
+        "date_partage": "2025-04-04T19:46:14.702473",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "842d918a-1daa-4f8b-8ad4-5851ea8e56ce",
+        "fichier_id": "1c9b194b-a2ad-43f1-9090-e74513b0d0d9",
+        "utilisateur_dest_id": "c57c43a2-3a58-453b-9dd0-eb92585b960c",
+        "date_partage": "2025-04-21T19:46:14.702496",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "fa03524a-2338-45e8-a288-f1e422ff1a3f",
+        "fichier_id": "ebea2dcf-c8f2-4d04-bb0d-6c915ff21898",
+        "utilisateur_dest_id": "34b26067-10f6-481b-a3af-beafca771403",
+        "date_partage": "2025-06-02T19:46:14.702516",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "d695748a-b337-4ed1-a586-e0abca252a02",
+        "fichier_id": "a8f3c03f-29b4-41a3-9056-56ecbbd94ca0",
+        "utilisateur_dest_id": "af6af3de-eab6-492d-bddb-dd7907b587af",
+        "date_partage": "2024-12-22T19:46:14.702534",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "cb3a43c3-b9ac-4c35-b128-51b40016d143",
+        "fichier_id": "454b2670-9560-4b4f-b140-c9d3be15ca1e",
+        "utilisateur_dest_id": "57b14813-b0f6-42b1-b795-73eb5c2af2bc",
+        "date_partage": "2025-05-16T19:46:14.702554",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "7dcd420b-8455-4c25-a6be-9631fb102b2e",
+        "fichier_id": "2dd5023a-c0dc-4635-bf9d-718166f2c16b",
+        "utilisateur_dest_id": "008193b2-47c8-4762-afd2-2ba513060c1a",
+        "date_partage": "2025-06-01T19:46:14.702573",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "e0bcf0e7-4dc0-4636-a7d0-85cfd1a9861d",
+        "fichier_id": "c1d2f0c9-8be6-46d6-a190-114d359a2e0e",
+        "utilisateur_dest_id": "d16dc406-97da-4fbf-8bd6-6211f9d4c915",
+        "date_partage": "2025-02-14T19:46:14.702591",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "c80e011b-6a22-486e-bf12-40a72ec90f81",
+        "fichier_id": "30565ca1-bc05-4326-944b-1dcb254c0b49",
+        "utilisateur_dest_id": "d6e70487-7324-476e-8a0e-1a687e6f0a36",
+        "date_partage": "2024-12-26T19:46:14.702655",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "691adab8-4b08-4249-9abf-cbc4776364c6",
+        "fichier_id": "348cb977-12a2-481c-b660-18915cac8e62",
+        "utilisateur_dest_id": "57b14813-b0f6-42b1-b795-73eb5c2af2bc",
+        "date_partage": "2025-01-03T19:46:14.702711",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "69f89d1a-1bb3-4861-a1d1-0ade70e7968d",
+        "fichier_id": "1daed210-9e2b-40b8-a1de-58e18f6f9a3e",
+        "utilisateur_dest_id": "53ba44d5-22aa-42c2-a5a0-c3e152c5b646",
+        "date_partage": "2025-03-30T19:46:14.702750",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "13fa434c-5d1c-446a-abf0-55fa567da27c",
+        "fichier_id": "3998994f-a680-46cf-a23f-38c0412ce54b",
+        "utilisateur_dest_id": "2cd4e204-b9cf-4cf1-b1b2-abedc5a2ac0e",
+        "date_partage": "2025-03-12T19:46:14.702796",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "7dbf2168-202a-401f-b6c5-81cdcefb9e71",
+        "fichier_id": "e61c3afe-f47d-4009-9795-61e07cd1a130",
+        "utilisateur_dest_id": "c2132ac9-f794-47f8-88bf-293fd7cd5205",
+        "date_partage": "2025-01-08T19:46:14.702862",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "3121de18-f792-4a6c-aa97-2e479b0ab5ff",
+        "fichier_id": "ea31e507-b769-4498-8dde-de848fc55a3a",
+        "utilisateur_dest_id": "1d3d42c4-65c5-47fc-b0c6-bcc84b6892aa",
+        "date_partage": "2025-01-29T19:46:14.702922",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "fdcba223-dab6-4a60-9b5e-9282c6e30fbb",
+        "fichier_id": "6f3465eb-82c5-49e4-8690-037d69d62ff1",
+        "utilisateur_dest_id": "3d15127a-eb70-49c1-94fc-a89e4e8045e9",
+        "date_partage": "2025-02-11T19:46:14.702974",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "857034d4-bb25-4bd1-8cf9-9a6e411ce940",
+        "fichier_id": "c9db4e41-b871-4d2c-b198-513012dbe957",
+        "utilisateur_dest_id": "d3a985f2-f842-47d4-899d-aa4b2e9a1b4d",
+        "date_partage": "2025-02-18T19:46:14.703013",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "d27e4b26-2101-45ad-87a1-0fa9cb6f2bcb",
+        "fichier_id": "8b9dd49b-14b2-4b87-97ac-d506d9a0afb2",
+        "utilisateur_dest_id": "d16dc406-97da-4fbf-8bd6-6211f9d4c915",
+        "date_partage": "2025-05-31T19:46:14.703145",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "7fce7d6a-998a-4e45-b151-d2aebb7ed277",
+        "fichier_id": "bc0c144d-9c78-4ab6-9790-73637e112b89",
+        "utilisateur_dest_id": "970be45c-0aa5-4268-b2a4-f532c50bcc19",
+        "date_partage": "2025-04-12T19:46:14.703200",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "d31e5e5d-6b88-4025-a2b1-3e0bdb78438d",
+        "fichier_id": "454b2670-9560-4b4f-b140-c9d3be15ca1e",
+        "utilisateur_dest_id": "493aa2c7-04f2-4028-95e3-ad966b8245f5",
+        "date_partage": "2024-12-08T19:46:14.703359",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "0e0bb9cd-80be-421a-944a-b4f015665afd",
+        "fichier_id": "555fc25e-9946-423a-a525-a58b71b8178d",
+        "utilisateur_dest_id": "1d3d42c4-65c5-47fc-b0c6-bcc84b6892aa",
+        "date_partage": "2024-12-20T19:46:14.703435",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "9a7757c5-844d-4a98-bff8-92f7041f7b93",
+        "fichier_id": "7dabeef6-e445-44ea-bbb7-8ca81418dbf9",
+        "utilisateur_dest_id": "57b14813-b0f6-42b1-b795-73eb5c2af2bc",
+        "date_partage": "2025-04-16T19:46:14.703473",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "57998fcd-87d4-425d-8c2f-c706233c0b49",
+        "fichier_id": "0565749d-c120-4355-8582-7d107ea76553",
+        "utilisateur_dest_id": "a23caa1c-50a6-434d-9fba-3f28fe7426cd",
+        "date_partage": "2025-05-18T19:46:14.703528",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "dea29f70-1c94-4aeb-a34d-0be808b3ee8d",
+        "fichier_id": "7ff50ef5-ef72-474a-9a30-1c522277fe3d",
+        "utilisateur_dest_id": "7e7ade92-d129-4f32-9180-70bf3c5f3eac",
+        "date_partage": "2025-05-07T19:46:14.703554",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "c83450b4-dd60-434c-b186-2eb7b850b872",
+        "fichier_id": "e264b6cb-c6b3-47a6-8a9d-2b286f105696",
+        "utilisateur_dest_id": "49183043-ed46-4f48-a844-0faefd79453d",
+        "date_partage": "2025-05-05T19:46:14.703587",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "a440f3ab-0c2c-4530-b707-135bd7ad9a66",
+        "fichier_id": "c1d2f0c9-8be6-46d6-a190-114d359a2e0e",
+        "utilisateur_dest_id": "14d2cb91-3b95-46eb-849c-4bd5f93dbeb8",
+        "date_partage": "2025-02-03T19:46:14.703606",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "394d04f8-6ec2-4c08-90eb-8a03c6ff364a",
+        "fichier_id": "1b45226e-2892-4fb3-8c78-e13552c7b36b",
+        "utilisateur_dest_id": "5b292375-404a-4d46-be30-9c87d18ef637",
+        "date_partage": "2025-01-19T19:46:14.703625",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "111b816d-c108-45b5-a6ad-a4d8c39270a9",
+        "fichier_id": "e510cd16-e6c5-4585-9ef4-67325e59e3f9",
+        "utilisateur_dest_id": "2da69ed2-2e38-4694-acd0-5d349c162c34",
+        "date_partage": "2025-01-11T19:46:14.703643",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "97694c7c-d01a-4fa6-b96d-bc10dc6ad6ff",
+        "fichier_id": "88b7e4af-b567-4546-9afe-40451c0ee27f",
+        "utilisateur_dest_id": "493aa2c7-04f2-4028-95e3-ad966b8245f5",
+        "date_partage": "2025-05-28T19:46:14.703662",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "afe3fa48-d7eb-4618-9ff5-d1ab7de8f5eb",
+        "fichier_id": "8f35620c-040c-425c-8189-10705c751c0d",
+        "utilisateur_dest_id": "f3b88953-88ee-4c55-8ec6-01cb0e6af002",
+        "date_partage": "2025-02-08T19:46:14.703681",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "ad25b747-941b-4bab-9cc5-2799d1e74e7e",
+        "fichier_id": "e8e6bdc4-3517-4fd7-b86b-582037561fab",
+        "utilisateur_dest_id": "d6e70487-7324-476e-8a0e-1a687e6f0a36",
+        "date_partage": "2025-04-28T19:46:14.703839",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "b1488b74-d6bc-4476-be92-66a3bb798b1f",
+        "fichier_id": "84e0f46b-a2e4-4227-abf8-77dd92992e0b",
+        "utilisateur_dest_id": "3973d71f-8593-4933-8826-046b3d3a44dd",
+        "date_partage": "2024-12-28T19:46:14.703890",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "15cf7ab6-ccec-40b0-8392-69f6216d1e40",
+        "fichier_id": "90c0740f-05f6-4127-8391-d2a54e2715f4",
+        "utilisateur_dest_id": "008193b2-47c8-4762-afd2-2ba513060c1a",
+        "date_partage": "2025-01-18T19:46:14.703926",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "aa77e967-9cd7-429a-8a76-48318609752a",
+        "fichier_id": "b02e6ccb-e781-4dd3-95a6-bf8029e64fa4",
+        "utilisateur_dest_id": "3ecb7cdd-de1e-4b7f-a6dc-6eb97c25561c",
+        "date_partage": "2025-03-15T19:46:14.704048",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "97f8369a-8707-4ff9-bbbc-a859e52045c1",
+        "fichier_id": "3d8ac45d-83db-47e0-8240-0520cfd22e18",
+        "utilisateur_dest_id": "493aa2c7-04f2-4028-95e3-ad966b8245f5",
+        "date_partage": "2025-05-20T19:46:14.704171",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "1d6b7388-b090-4dea-8742-77c959c090ac",
+        "fichier_id": "c9db4e41-b871-4d2c-b198-513012dbe957",
+        "utilisateur_dest_id": "1d3d42c4-65c5-47fc-b0c6-bcc84b6892aa",
+        "date_partage": "2025-03-21T19:46:14.704213",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "cc53eaaa-0f74-43bc-90c9-f8d6adbc1651",
+        "fichier_id": "a45b4c75-7b46-4d9c-9764-7c4bc90c207e",
+        "utilisateur_dest_id": "24867973-e2b3-4031-b789-1ae62bde8537",
+        "date_partage": "2025-02-25T19:46:14.704266",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "182731ef-9887-44e1-a4c6-b60f7e865279",
+        "fichier_id": "b21cad44-491a-46fe-8ef7-bc004e281b47",
+        "utilisateur_dest_id": "5ef3f837-6161-4cf0-8c4e-19d7f772332a",
+        "date_partage": "2025-05-21T19:46:14.704290",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "adf0da97-761b-4971-8e18-551fa84e8a74",
+        "fichier_id": "e4ca9e05-f6ba-4b7f-8e30-52c5be29b5ed",
+        "utilisateur_dest_id": "d886bfc4-af3e-4268-805b-3f4d86ed0f3b",
+        "date_partage": "2025-01-22T19:46:14.704312",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "dcea2c57-6df3-434f-95cb-5a46ba0f5af1",
+        "fichier_id": "b21cad44-491a-46fe-8ef7-bc004e281b47",
+        "utilisateur_dest_id": "493aa2c7-04f2-4028-95e3-ad966b8245f5",
+        "date_partage": "2025-05-31T19:46:14.704331",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "fafe1f79-61c2-490b-8d2d-ade8cc823941",
+        "fichier_id": "bb632bcf-cd5c-461d-87b0-77e82a588d19",
+        "utilisateur_dest_id": "85aafaef-9671-4363-a2f7-626d5c378d3e",
+        "date_partage": "2025-02-12T19:46:14.704350",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "a4a63482-b746-4204-8c8d-d9d77d301b61",
+        "fichier_id": "cd9d2eb0-b061-465a-98e5-0d2b67d60440",
+        "utilisateur_dest_id": "cbd73dcf-9ba5-4cc7-9380-8e15db3ae6b5",
+        "date_partage": "2025-03-18T19:46:14.704368",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "db23e3a8-35a7-4dc5-b96f-e7b0042e0814",
+        "fichier_id": "089d2287-fa85-45fa-8aac-0c5fbecaeee0",
+        "utilisateur_dest_id": "d6e70487-7324-476e-8a0e-1a687e6f0a36",
+        "date_partage": "2025-03-04T19:46:14.704388",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "ca83b9d2-7de9-451c-9b7d-9118b0a5fe37",
+        "fichier_id": "1045dd9e-eab7-4f1f-9af1-b21269910f3a",
+        "utilisateur_dest_id": "07a69780-46ac-427f-a903-b50bdadb963a",
+        "date_partage": "2025-06-03T19:46:14.704560",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "21725974-9ee5-4bf9-bd10-271186738f13",
+        "fichier_id": "deed713d-8380-468c-9ade-b4b5a9ac4023",
+        "utilisateur_dest_id": "57b14813-b0f6-42b1-b795-73eb5c2af2bc",
+        "date_partage": "2025-02-27T19:46:14.704718",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "4bd57479-23e3-414b-afa1-14ee05381ca0",
+        "fichier_id": "a46f6a19-8e93-4912-92cf-4654c4175f8c",
+        "utilisateur_dest_id": "d3a985f2-f842-47d4-899d-aa4b2e9a1b4d",
+        "date_partage": "2025-03-30T19:46:14.704798",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "2237020e-207a-40d5-8b7c-64d5c795d846",
+        "fichier_id": "55fecafa-f376-46d0-9f0e-e5384157e0ce",
+        "utilisateur_dest_id": "ff1bc2f0-3920-4306-8fb4-3aabcb0c87dd",
+        "date_partage": "2025-04-22T19:46:14.704983",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "4ff103e3-14a8-4e8a-93e2-80e1f5308e80",
+        "fichier_id": "cb0146d1-da99-41d2-bac5-0b81443ba78f",
+        "utilisateur_dest_id": "24867973-e2b3-4031-b789-1ae62bde8537",
+        "date_partage": "2025-05-08T19:46:14.705145",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "f6bfb4a0-63d7-46ac-933e-b131d96623ae",
+        "fichier_id": "fe793e67-3c3e-4091-9471-a21cac7a070d",
+        "utilisateur_dest_id": "bc80ff7a-0818-424f-aad1-d256b0e07b18",
+        "date_partage": "2025-02-05T19:46:14.705247",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "ffdea097-3a29-472f-9945-d93e4234cf99",
+        "fichier_id": "666dd1d6-858d-4a25-8b47-18fa84535b61",
+        "utilisateur_dest_id": "cbd73dcf-9ba5-4cc7-9380-8e15db3ae6b5",
+        "date_partage": "2025-03-03T19:46:14.705312",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "70df1b76-284d-417e-a642-5e6e772ef57d",
+        "fichier_id": "443f3a68-e86d-49c3-9745-f6986b1207cb",
+        "utilisateur_dest_id": "81750dc4-6c82-4581-88c4-781d7dee468d",
+        "date_partage": "2025-05-20T19:46:14.705381",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "bcdbbd04-32dd-4136-8bbd-a5fab901a8e7",
+        "fichier_id": "6f3465eb-82c5-49e4-8690-037d69d62ff1",
+        "utilisateur_dest_id": "d6e70487-7324-476e-8a0e-1a687e6f0a36",
+        "date_partage": "2025-01-17T19:46:14.705435",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "1d90deea-ba29-4c84-918b-e4b940188589",
+        "fichier_id": "6336c518-b864-4104-a3e1-c81e3986ff8b",
+        "utilisateur_dest_id": "24867973-e2b3-4031-b789-1ae62bde8537",
+        "date_partage": "2025-02-21T19:46:14.705513",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "df17ad9d-e3ef-4de4-8663-e4f7af22e2cb",
+        "fichier_id": "5f672dcc-56b7-43f8-aa31-c5dcec0e13a7",
+        "utilisateur_dest_id": "1d7867b1-a0ff-44e2-b42d-5a9439b74c7e",
+        "date_partage": "2025-03-27T19:46:14.705661",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    },
+    {
+        "_id": "c247b5a4-826a-4887-983c-f56302430e43",
+        "fichier_id": "84dc7786-26ab-414b-ae35-ccf7e3eb2ff0",
+        "utilisateur_dest_id": "2cd4e204-b9cf-4cf1-b1b2-abedc5a2ac0e",
+        "date_partage": "2025-04-06T19:46:14.705772",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "a489edd3-c6ce-439e-a847-a42b32cc1835",
+        "fichier_id": "163549c2-29a0-4bd7-b1ce-3b311d743748",
+        "utilisateur_dest_id": "49183043-ed46-4f48-a844-0faefd79453d",
+        "date_partage": "2025-05-02T19:46:14.705831",
+        "droit_lecture": true,
+        "droit_ecriture": false
+    },
+    {
+        "_id": "de790457-a10f-4396-b163-28bfecfeaad8",
+        "fichier_id": "25800bd8-0080-45b7-90d8-1785d090a20f",
+        "utilisateur_dest_id": "5b292375-404a-4d46-be30-9c87d18ef637",
+        "date_partage": "2024-12-16T19:46:14.705884",
+        "droit_lecture": true,
+        "droit_ecriture": true
+    }
+]

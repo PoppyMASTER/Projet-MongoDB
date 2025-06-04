@@ -1,0 +1,3002 @@
+[
+    {
+        "_id": "a580bdbf-f932-4789-be72-5cbdb7e4a582",
+        "nom": "contrat_397.docx",
+        "type": "png",
+        "taille": 12.19,
+        "chemin": "/dossiers/projets/8",
+        "date_creation": "2024-07-29T19:46:14.678308",
+        "id_utilisateur": "bc80ff7a-0818-424f-aad1-d256b0e07b18",
+        "est_public": false
+    },
+    {
+        "_id": "121adf45-1e63-49cd-b5fc-69ddca494d4f",
+        "nom": "pr\u00e9sentation_638.xlsx",
+        "type": "png",
+        "taille": 3.27,
+        "chemin": "/dossiers/projets/6",
+        "date_creation": "2024-07-23T19:46:14.678377",
+        "id_utilisateur": "961e760b-f32e-45cf-ba18-73cdaf6cde9d",
+        "est_public": false
+    },
+    {
+        "_id": "b5968300-60e5-452d-8fbf-30672c282f87",
+        "nom": "contrat_485.pptx",
+        "type": "jpg",
+        "taille": 10.05,
+        "chemin": "/dossiers/projets/7",
+        "date_creation": "2024-11-08T19:46:14.678414",
+        "id_utilisateur": "c57c43a2-3a58-453b-9dd0-eb92585b960c",
+        "est_public": false
+    },
+    {
+        "_id": "bceccbcd-3675-44f5-a648-e60dd0b154e9",
+        "nom": "pr\u00e9sentation_939.jpg",
+        "type": "pptx",
+        "taille": 3.63,
+        "chemin": "/dossiers/projets/2",
+        "date_creation": "2025-01-04T19:46:14.678484",
+        "id_utilisateur": "14d2cb91-3b95-46eb-849c-4bd5f93dbeb8",
+        "est_public": false
+    },
+    {
+        "_id": "893bf5e7-0d66-43cf-b60d-b2dbcb6858ef",
+        "nom": "contrat_464.pptx",
+        "type": "png",
+        "taille": 19.43,
+        "chemin": "/dossiers/projets/9",
+        "date_creation": "2025-02-11T19:46:14.678553",
+        "id_utilisateur": "d16dc406-97da-4fbf-8bd6-6211f9d4c915",
+        "est_public": false
+    },
+    {
+        "_id": "ca94118c-9b81-4170-9de6-ea43a8dda06c",
+        "nom": "contrat_379.pptx",
+        "type": "pptx",
+        "taille": 19.56,
+        "chemin": "/dossiers/projets/5",
+        "date_creation": "2024-07-17T19:46:14.678630",
+        "id_utilisateur": "008193b2-47c8-4762-afd2-2ba513060c1a",
+        "est_public": true
+    },
+    {
+        "_id": "fe6ed15f-3ce6-40e7-b4eb-1415562ff5ed",
+        "nom": "contrat_113.docx",
+        "type": "jpg",
+        "taille": 16.23,
+        "chemin": "/dossiers/projets/5",
+        "date_creation": "2025-02-18T19:46:14.678685",
+        "id_utilisateur": "5ef3f837-6161-4cf0-8c4e-19d7f772332a",
+        "est_public": false
+    },
+    {
+        "_id": "8eb1994b-12a7-44f4-affe-9b3653ce6d58",
+        "nom": "plan_559.docx",
+        "type": "pptx",
+        "taille": 13.85,
+        "chemin": "/dossiers/projets/7",
+        "date_creation": "2024-11-24T19:46:14.678749",
+        "id_utilisateur": "53ba44d5-22aa-42c2-a5a0-c3e152c5b646",
+        "est_public": true
+    },
+    {
+        "_id": "976638c0-ba78-4717-8425-9f375bd720e6",
+        "nom": "rapport_908.pptx",
+        "type": "pdf",
+        "taille": 5.6,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2024-08-31T19:46:14.678830",
+        "id_utilisateur": "420a9ba3-12d4-4b04-89bb-a553829789a2",
+        "est_public": true
+    },
+    {
+        "_id": "69a53786-ae58-4496-85a3-3503ca10eb81",
+        "nom": "contrat_909.pptx",
+        "type": "docx",
+        "taille": 9.3,
+        "chemin": "/dossiers/projets/7",
+        "date_creation": "2024-09-17T19:46:14.678885",
+        "id_utilisateur": "2da69ed2-2e38-4694-acd0-5d349c162c34",
+        "est_public": true
+    },
+    {
+        "_id": "243f2e30-0f77-4087-a7b4-711625821cc9",
+        "nom": "rapport_618.xlsx",
+        "type": "pptx",
+        "taille": 5.06,
+        "chemin": "/dossiers/projets/9",
+        "date_creation": "2024-11-02T19:46:14.678924",
+        "id_utilisateur": "1c7d7cde-965d-4cbe-9b3d-9887570d328c",
+        "est_public": false
+    },
+    {
+        "_id": "1994a82e-fa38-4a73-a3b9-9d377ff9fb33",
+        "nom": "pr\u00e9sentation_526.docx",
+        "type": "png",
+        "taille": 12.9,
+        "chemin": "/dossiers/projets/4",
+        "date_creation": "2025-03-19T19:46:14.678959",
+        "id_utilisateur": "5ef3f837-6161-4cf0-8c4e-19d7f772332a",
+        "est_public": false
+    },
+    {
+        "_id": "dcf73237-0340-4d50-bcd4-c31e2f2d1fbc",
+        "nom": "plan_364.png",
+        "type": "png",
+        "taille": 19.98,
+        "chemin": "/dossiers/projets/7",
+        "date_creation": "2024-12-10T19:46:14.678978",
+        "id_utilisateur": "d24ce781-202d-464e-9883-4ff49b09a39c",
+        "est_public": false
+    },
+    {
+        "_id": "10776d39-acec-43da-ad23-0e7b71936a1f",
+        "nom": "contrat_612.docx",
+        "type": "jpg",
+        "taille": 1.75,
+        "chemin": "/dossiers/projets/5",
+        "date_creation": "2025-03-25T19:46:14.678995",
+        "id_utilisateur": "85aafaef-9671-4363-a2f7-626d5c378d3e",
+        "est_public": false
+    },
+    {
+        "_id": "a39b0f13-368e-4b4e-8722-9489caf0486b",
+        "nom": "pr\u00e9sentation_369.jpg",
+        "type": "pptx",
+        "taille": 17.83,
+        "chemin": "/dossiers/projets/6",
+        "date_creation": "2024-07-28T19:46:14.679013",
+        "id_utilisateur": "bc98031b-9dfc-4bcc-80cf-aa767eb86b9f",
+        "est_public": true
+    },
+    {
+        "_id": "a7e3ebe3-4153-426f-aa5a-fd3f3b673e80",
+        "nom": "contrat_431.jpg",
+        "type": "pdf",
+        "taille": 6.39,
+        "chemin": "/dossiers/projets/2",
+        "date_creation": "2024-06-19T19:46:14.679030",
+        "id_utilisateur": "3fe3965b-5fd8-4a7a-bafb-85dbb280a665",
+        "est_public": true
+    },
+    {
+        "_id": "d426d49c-8ad4-4629-b2e5-fa012b5c6fba",
+        "nom": "plan_751.pdf",
+        "type": "docx",
+        "taille": 11.08,
+        "chemin": "/dossiers/projets/8",
+        "date_creation": "2024-08-09T19:46:14.679047",
+        "id_utilisateur": "3973d71f-8593-4933-8826-046b3d3a44dd",
+        "est_public": false
+    },
+    {
+        "_id": "da8f164c-d0ad-4af7-b2ca-8be194a84e75",
+        "nom": "plan_925.xlsx",
+        "type": "pptx",
+        "taille": 5.7,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2024-06-15T19:46:14.679109",
+        "id_utilisateur": "ff1bc2f0-3920-4306-8fb4-3aabcb0c87dd",
+        "est_public": true
+    },
+    {
+        "_id": "3ed91ad3-f676-43e5-bb88-43876386576c",
+        "nom": "plan_912.docx",
+        "type": "pdf",
+        "taille": 16.11,
+        "chemin": "/dossiers/projets/10",
+        "date_creation": "2025-02-08T19:46:14.679159",
+        "id_utilisateur": "1c7d7cde-965d-4cbe-9b3d-9887570d328c",
+        "est_public": true
+    },
+    {
+        "_id": "e62d0a30-4205-40d2-be24-ef81ad138a1f",
+        "nom": "pr\u00e9sentation_793.pptx",
+        "type": "png",
+        "taille": 1.47,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2024-09-07T19:46:14.679214",
+        "id_utilisateur": "c248fff4-c26e-40dc-9613-332a869c59ae",
+        "est_public": true
+    },
+    {
+        "_id": "266a87c1-da92-4e1b-b1de-1d2c5ae2603e",
+        "nom": "rapport_730.jpg",
+        "type": "docx",
+        "taille": 1.19,
+        "chemin": "/dossiers/projets/2",
+        "date_creation": "2024-10-03T19:46:14.679273",
+        "id_utilisateur": "53ba44d5-22aa-42c2-a5a0-c3e152c5b646",
+        "est_public": false
+    },
+    {
+        "_id": "ff2ff077-3258-4d67-b865-6fc2f712f4a0",
+        "nom": "contrat_917.docx",
+        "type": "pptx",
+        "taille": 17.7,
+        "chemin": "/dossiers/projets/8",
+        "date_creation": "2024-07-01T19:46:14.679349",
+        "id_utilisateur": "7e7ade92-d129-4f32-9180-70bf3c5f3eac",
+        "est_public": true
+    },
+    {
+        "_id": "49df9407-510f-4d5c-96aa-722268d612b9",
+        "nom": "contrat_563.pdf",
+        "type": "pdf",
+        "taille": 16.48,
+        "chemin": "/dossiers/projets/9",
+        "date_creation": "2024-11-16T19:46:14.679407",
+        "id_utilisateur": "420a9ba3-12d4-4b04-89bb-a553829789a2",
+        "est_public": true
+    },
+    {
+        "_id": "e264b6cb-c6b3-47a6-8a9d-2b286f105696",
+        "nom": "plan_547.pdf",
+        "type": "docx",
+        "taille": 10.22,
+        "chemin": "/dossiers/projets/6",
+        "date_creation": "2025-04-12T19:46:14.679451",
+        "id_utilisateur": "bc80ff7a-0818-424f-aad1-d256b0e07b18",
+        "est_public": false
+    },
+    {
+        "_id": "7db13a7b-1523-443a-a85e-271ec701db9f",
+        "nom": "plan_248.xlsx",
+        "type": "jpg",
+        "taille": 16.99,
+        "chemin": "/dossiers/projets/10",
+        "date_creation": "2024-10-03T19:46:14.679529",
+        "id_utilisateur": "bc80ff7a-0818-424f-aad1-d256b0e07b18",
+        "est_public": false
+    },
+    {
+        "_id": "9f3bc451-a1f6-4d52-a5c0-27f48d265566",
+        "nom": "pr\u00e9sentation_796.pptx",
+        "type": "docx",
+        "taille": 6.17,
+        "chemin": "/dossiers/projets/2",
+        "date_creation": "2024-11-18T19:46:14.679574",
+        "id_utilisateur": "f3b88953-88ee-4c55-8ec6-01cb0e6af002",
+        "est_public": true
+    },
+    {
+        "_id": "31d935ac-6b1f-46f3-86ac-16d033c2b84b",
+        "nom": "plan_787.pptx",
+        "type": "png",
+        "taille": 11.75,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2024-07-12T19:46:14.679595",
+        "id_utilisateur": "24867973-e2b3-4031-b789-1ae62bde8537",
+        "est_public": false
+    },
+    {
+        "_id": "0e6cf6cd-595b-48fc-9752-00df6a80afde",
+        "nom": "contrat_459.pdf",
+        "type": "pptx",
+        "taille": 15.59,
+        "chemin": "/dossiers/projets/4",
+        "date_creation": "2025-01-08T19:46:14.679615",
+        "id_utilisateur": "c248fff4-c26e-40dc-9613-332a869c59ae",
+        "est_public": false
+    },
+    {
+        "_id": "f596a86d-c017-4bb6-bee5-bbd7d237631b",
+        "nom": "plan_318.png",
+        "type": "docx",
+        "taille": 2.59,
+        "chemin": "/dossiers/projets/10",
+        "date_creation": "2024-08-13T19:46:14.679660",
+        "id_utilisateur": "bb8f3dbc-cc4a-4f0e-a88d-75a0dabc46ed",
+        "est_public": false
+    },
+    {
+        "_id": "0565749d-c120-4355-8582-7d107ea76553",
+        "nom": "contrat_267.png",
+        "type": "docx",
+        "taille": 8.24,
+        "chemin": "/dossiers/projets/9",
+        "date_creation": "2024-07-10T19:46:14.679737",
+        "id_utilisateur": "72ad853f-4276-4413-9652-12f94519b5e0",
+        "est_public": false
+    },
+    {
+        "_id": "4bf2b1fe-69b7-44da-8495-5f12637634ca",
+        "nom": "rapport_549.pptx",
+        "type": "pdf",
+        "taille": 10.02,
+        "chemin": "/dossiers/projets/3",
+        "date_creation": "2025-03-05T19:46:14.679798",
+        "id_utilisateur": "ff1bc2f0-3920-4306-8fb4-3aabcb0c87dd",
+        "est_public": true
+    },
+    {
+        "_id": "39ad688c-bd20-400a-8d26-a44a43ab3b0c",
+        "nom": "plan_949.xlsx",
+        "type": "png",
+        "taille": 7.67,
+        "chemin": "/dossiers/projets/10",
+        "date_creation": "2024-08-24T19:46:14.679867",
+        "id_utilisateur": "cbd73dcf-9ba5-4cc7-9380-8e15db3ae6b5",
+        "est_public": true
+    },
+    {
+        "_id": "8bf2d821-6645-475d-b4e2-9790ba6ec550",
+        "nom": "contrat_381.docx",
+        "type": "xlsx",
+        "taille": 8.78,
+        "chemin": "/dossiers/projets/5",
+        "date_creation": "2024-09-21T19:46:14.679922",
+        "id_utilisateur": "d886bfc4-af3e-4268-805b-3f4d86ed0f3b",
+        "est_public": true
+    },
+    {
+        "_id": "3848bebd-f77c-4f74-9dbd-49c653452ddc",
+        "nom": "contrat_340.pptx",
+        "type": "png",
+        "taille": 16.81,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2025-04-02T19:46:14.679963",
+        "id_utilisateur": "25c7f577-f74f-4f2e-8528-8e11d76e5752",
+        "est_public": true
+    },
+    {
+        "_id": "d1189d15-8b98-4860-9523-3b091c73ffde",
+        "nom": "plan_473.xlsx",
+        "type": "pptx",
+        "taille": 11.51,
+        "chemin": "/dossiers/projets/6",
+        "date_creation": "2024-09-20T19:46:14.680017",
+        "id_utilisateur": "1d7867b1-a0ff-44e2-b42d-5a9439b74c7e",
+        "est_public": false
+    },
+    {
+        "_id": "3e4a6344-de6d-45ca-aa56-1225b1608f61",
+        "nom": "contrat_906.docx",
+        "type": "png",
+        "taille": 2.44,
+        "chemin": "/dossiers/projets/2",
+        "date_creation": "2025-02-13T19:46:14.680062",
+        "id_utilisateur": "3fe3965b-5fd8-4a7a-bafb-85dbb280a665",
+        "est_public": true
+    },
+    {
+        "_id": "520dc47c-0913-48ad-b273-34e147d6e424",
+        "nom": "plan_227.pptx",
+        "type": "xlsx",
+        "taille": 6.83,
+        "chemin": "/dossiers/projets/4",
+        "date_creation": "2025-04-27T19:46:14.680083",
+        "id_utilisateur": "cbd73dcf-9ba5-4cc7-9380-8e15db3ae6b5",
+        "est_public": true
+    },
+    {
+        "_id": "e592f295-9f4e-45cf-87dd-fd7fd8dac4ec",
+        "nom": "contrat_796.xlsx",
+        "type": "jpg",
+        "taille": 12.11,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2024-12-18T19:46:14.680101",
+        "id_utilisateur": "49183043-ed46-4f48-a844-0faefd79453d",
+        "est_public": false
+    },
+    {
+        "_id": "6674cdda-a914-43d5-81f5-1ade02c0cc07",
+        "nom": "rapport_497.jpg",
+        "type": "jpg",
+        "taille": 1.11,
+        "chemin": "/dossiers/projets/4",
+        "date_creation": "2025-04-06T19:46:14.680118",
+        "id_utilisateur": "d3a985f2-f842-47d4-899d-aa4b2e9a1b4d",
+        "est_public": false
+    },
+    {
+        "_id": "630a844f-272b-4783-9615-38acde1b7351",
+        "nom": "rapport_519.jpg",
+        "type": "pptx",
+        "taille": 6.72,
+        "chemin": "/dossiers/projets/3",
+        "date_creation": "2024-10-29T19:46:14.680135",
+        "id_utilisateur": "25c7f577-f74f-4f2e-8528-8e11d76e5752",
+        "est_public": false
+    },
+    {
+        "_id": "6230325a-188f-4736-9c38-d0bea6f04f34",
+        "nom": "contrat_657.jpg",
+        "type": "pdf",
+        "taille": 14.49,
+        "chemin": "/dossiers/projets/8",
+        "date_creation": "2024-10-28T19:46:14.680151",
+        "id_utilisateur": "34b26067-10f6-481b-a3af-beafca771403",
+        "est_public": false
+    },
+    {
+        "_id": "4988a3d2-30c0-40e6-be06-cff63ecc754b",
+        "nom": "pr\u00e9sentation_709.png",
+        "type": "docx",
+        "taille": 12.31,
+        "chemin": "/dossiers/projets/4",
+        "date_creation": "2025-01-23T19:46:14.680169",
+        "id_utilisateur": "1c7d7cde-965d-4cbe-9b3d-9887570d328c",
+        "est_public": false
+    },
+    {
+        "_id": "f1e48828-bcd6-477e-9af1-6fb666d3c8c0",
+        "nom": "rapport_786.xlsx",
+        "type": "docx",
+        "taille": 2.69,
+        "chemin": "/dossiers/projets/5",
+        "date_creation": "2024-11-09T19:46:14.680212",
+        "id_utilisateur": "d6e70487-7324-476e-8a0e-1a687e6f0a36",
+        "est_public": true
+    },
+    {
+        "_id": "454b2670-9560-4b4f-b140-c9d3be15ca1e",
+        "nom": "plan_650.jpg",
+        "type": "pptx",
+        "taille": 5.83,
+        "chemin": "/dossiers/projets/9",
+        "date_creation": "2025-02-01T19:46:14.680236",
+        "id_utilisateur": "2da69ed2-2e38-4694-acd0-5d349c162c34",
+        "est_public": false
+    },
+    {
+        "_id": "105258ae-6db0-4662-8f2c-b64fd5061f01",
+        "nom": "contrat_231.jpg",
+        "type": "pptx",
+        "taille": 7.84,
+        "chemin": "/dossiers/projets/2",
+        "date_creation": "2024-12-12T19:46:14.680282",
+        "id_utilisateur": "34b26067-10f6-481b-a3af-beafca771403",
+        "est_public": false
+    },
+    {
+        "_id": "ad1ca34b-4baf-4a2f-80e6-7fdc80784035",
+        "nom": "rapport_517.docx",
+        "type": "docx",
+        "taille": 19.51,
+        "chemin": "/dossiers/projets/7",
+        "date_creation": "2025-05-12T19:46:14.680342",
+        "id_utilisateur": "cbd73dcf-9ba5-4cc7-9380-8e15db3ae6b5",
+        "est_public": false
+    },
+    {
+        "_id": "62921dee-045c-4977-9889-7aec658f35cc",
+        "nom": "plan_603.docx",
+        "type": "png",
+        "taille": 15.02,
+        "chemin": "/dossiers/projets/9",
+        "date_creation": "2025-02-23T19:46:14.680392",
+        "id_utilisateur": "f3b88953-88ee-4c55-8ec6-01cb0e6af002",
+        "est_public": false
+    },
+    {
+        "_id": "0ed0d41f-5345-446a-ad13-6f3cbe368f4d",
+        "nom": "pr\u00e9sentation_435.png",
+        "type": "pptx",
+        "taille": 1.05,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2024-09-29T19:46:14.680445",
+        "id_utilisateur": "cbd73dcf-9ba5-4cc7-9380-8e15db3ae6b5",
+        "est_public": true
+    },
+    {
+        "_id": "992de810-a465-4b8d-b56c-9acee329098a",
+        "nom": "pr\u00e9sentation_941.docx",
+        "type": "png",
+        "taille": 19.51,
+        "chemin": "/dossiers/projets/4",
+        "date_creation": "2024-06-10T19:46:14.680497",
+        "id_utilisateur": "34b26067-10f6-481b-a3af-beafca771403",
+        "est_public": true
+    },
+    {
+        "_id": "8f35620c-040c-425c-8189-10705c751c0d",
+        "nom": "pr\u00e9sentation_170.xlsx",
+        "type": "pptx",
+        "taille": 17.56,
+        "chemin": "/dossiers/projets/4",
+        "date_creation": "2025-03-09T19:46:14.680534",
+        "id_utilisateur": "af6af3de-eab6-492d-bddb-dd7907b587af",
+        "est_public": true
+    },
+    {
+        "_id": "2cc6d728-1f92-40d0-8f58-e8c2b59a6cad",
+        "nom": "rapport_453.docx",
+        "type": "pptx",
+        "taille": 12.26,
+        "chemin": "/dossiers/projets/9",
+        "date_creation": "2024-06-13T19:46:14.680560",
+        "id_utilisateur": "d3a985f2-f842-47d4-899d-aa4b2e9a1b4d",
+        "est_public": false
+    },
+    {
+        "_id": "6f3465eb-82c5-49e4-8690-037d69d62ff1",
+        "nom": "plan_554.pptx",
+        "type": "pptx",
+        "taille": 1.74,
+        "chemin": "/dossiers/projets/9",
+        "date_creation": "2025-02-20T19:46:14.680576",
+        "id_utilisateur": "1d7867b1-a0ff-44e2-b42d-5a9439b74c7e",
+        "est_public": false
+    },
+    {
+        "_id": "ede3b636-0788-40d3-9d93-6b29816e7cbf",
+        "nom": "contrat_993.jpg",
+        "type": "jpg",
+        "taille": 4.8,
+        "chemin": "/dossiers/projets/9",
+        "date_creation": "2024-09-30T19:46:14.680593",
+        "id_utilisateur": "420a9ba3-12d4-4b04-89bb-a553829789a2",
+        "est_public": true
+    },
+    {
+        "_id": "70fec397-9a1a-4412-9070-75557f423148",
+        "nom": "contrat_115.pdf",
+        "type": "jpg",
+        "taille": 9.47,
+        "chemin": "/dossiers/projets/9",
+        "date_creation": "2024-10-17T19:46:14.680610",
+        "id_utilisateur": "5ef3f837-6161-4cf0-8c4e-19d7f772332a",
+        "est_public": true
+    },
+    {
+        "_id": "94ab7b8e-7646-4064-b34a-a87fe00d5e9e",
+        "nom": "plan_572.jpg",
+        "type": "jpg",
+        "taille": 2.02,
+        "chemin": "/dossiers/projets/5",
+        "date_creation": "2025-01-17T19:46:14.680626",
+        "id_utilisateur": "c2132ac9-f794-47f8-88bf-293fd7cd5205",
+        "est_public": false
+    },
+    {
+        "_id": "f1866f0a-917d-4683-a749-a72a6310e6a6",
+        "nom": "contrat_543.pptx",
+        "type": "xlsx",
+        "taille": 5.39,
+        "chemin": "/dossiers/projets/5",
+        "date_creation": "2025-04-04T19:46:14.680653",
+        "id_utilisateur": "970be45c-0aa5-4268-b2a4-f532c50bcc19",
+        "est_public": false
+    },
+    {
+        "_id": "2c37f384-f254-4546-ba93-9ced7897d863",
+        "nom": "plan_786.xlsx",
+        "type": "pdf",
+        "taille": 12.18,
+        "chemin": "/dossiers/projets/8",
+        "date_creation": "2024-09-06T19:46:14.680708",
+        "id_utilisateur": "ff1bc2f0-3920-4306-8fb4-3aabcb0c87dd",
+        "est_public": false
+    },
+    {
+        "_id": "cb0146d1-da99-41d2-bac5-0b81443ba78f",
+        "nom": "contrat_551.docx",
+        "type": "docx",
+        "taille": 14.11,
+        "chemin": "/dossiers/projets/4",
+        "date_creation": "2025-03-26T19:46:14.680760",
+        "id_utilisateur": "d24ce781-202d-464e-9883-4ff49b09a39c",
+        "est_public": false
+    },
+    {
+        "_id": "ea31e507-b769-4498-8dde-de848fc55a3a",
+        "nom": "rapport_681.pdf",
+        "type": "pdf",
+        "taille": 18.89,
+        "chemin": "/dossiers/projets/4",
+        "date_creation": "2025-03-17T19:46:14.680814",
+        "id_utilisateur": "961e760b-f32e-45cf-ba18-73cdaf6cde9d",
+        "est_public": true
+    },
+    {
+        "_id": "8934be94-840c-4068-8e8c-16a78f5455f9",
+        "nom": "plan_161.pdf",
+        "type": "pdf",
+        "taille": 4.4,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2025-04-04T19:46:14.681029",
+        "id_utilisateur": "759b633c-2c58-48c1-9e60-7b617a4764f0",
+        "est_public": true
+    },
+    {
+        "_id": "858cb601-8eca-42f0-90b4-ea2fbd4e989b",
+        "nom": "plan_267.jpg",
+        "type": "xlsx",
+        "taille": 6.4,
+        "chemin": "/dossiers/projets/2",
+        "date_creation": "2024-09-27T19:46:14.681115",
+        "id_utilisateur": "c2132ac9-f794-47f8-88bf-293fd7cd5205",
+        "est_public": true
+    },
+    {
+        "_id": "b7775c8c-345d-46c4-811a-f2bd8910c2a7",
+        "nom": "pr\u00e9sentation_912.xlsx",
+        "type": "png",
+        "taille": 14.25,
+        "chemin": "/dossiers/projets/4",
+        "date_creation": "2025-04-07T19:46:14.681200",
+        "id_utilisateur": "3d15127a-eb70-49c1-94fc-a89e4e8045e9",
+        "est_public": false
+    },
+    {
+        "_id": "7b77721f-af38-4c3d-9f34-22588957c754",
+        "nom": "plan_542.pptx",
+        "type": "jpg",
+        "taille": 8.31,
+        "chemin": "/dossiers/projets/2",
+        "date_creation": "2025-05-20T19:46:14.681246",
+        "id_utilisateur": "5b292375-404a-4d46-be30-9c87d18ef637",
+        "est_public": false
+    },
+    {
+        "_id": "2e5a99f8-0aba-43a2-8060-9ce4ae064528",
+        "nom": "contrat_827.xlsx",
+        "type": "jpg",
+        "taille": 3.11,
+        "chemin": "/dossiers/projets/6",
+        "date_creation": "2025-04-25T19:46:14.681268",
+        "id_utilisateur": "1c7d7cde-965d-4cbe-9b3d-9887570d328c",
+        "est_public": false
+    },
+    {
+        "_id": "bc95dd81-6319-4c44-b036-eff0b5531ac0",
+        "nom": "plan_785.xlsx",
+        "type": "png",
+        "taille": 16.26,
+        "chemin": "/dossiers/projets/4",
+        "date_creation": "2025-04-23T19:46:14.681286",
+        "id_utilisateur": "a23caa1c-50a6-434d-9fba-3f28fe7426cd",
+        "est_public": true
+    },
+    {
+        "_id": "8be97382-d86b-458b-ac01-13b44783f251",
+        "nom": "contrat_593.jpg",
+        "type": "png",
+        "taille": 5.05,
+        "chemin": "/dossiers/projets/10",
+        "date_creation": "2025-01-29T19:46:14.681304",
+        "id_utilisateur": "d24ce781-202d-464e-9883-4ff49b09a39c",
+        "est_public": true
+    },
+    {
+        "_id": "3998994f-a680-46cf-a23f-38c0412ce54b",
+        "nom": "contrat_723.pptx",
+        "type": "docx",
+        "taille": 7.2,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2025-01-19T19:46:14.681324",
+        "id_utilisateur": "cbd73dcf-9ba5-4cc7-9380-8e15db3ae6b5",
+        "est_public": false
+    },
+    {
+        "_id": "a824854e-541c-4f38-86e3-37b04b636566",
+        "nom": "rapport_324.pptx",
+        "type": "png",
+        "taille": 8.7,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2025-06-01T19:46:14.681394",
+        "id_utilisateur": "bc98031b-9dfc-4bcc-80cf-aa767eb86b9f",
+        "est_public": false
+    },
+    {
+        "_id": "b82a77d3-7459-4427-827e-86636ee9b493",
+        "nom": "contrat_289.xlsx",
+        "type": "pdf",
+        "taille": 13.38,
+        "chemin": "/dossiers/projets/3",
+        "date_creation": "2024-09-02T19:46:14.681437",
+        "id_utilisateur": "d16dc406-97da-4fbf-8bd6-6211f9d4c915",
+        "est_public": false
+    },
+    {
+        "_id": "5e4d75d1-4d3c-46d8-84bc-681cf9380d08",
+        "nom": "pr\u00e9sentation_531.docx",
+        "type": "jpg",
+        "taille": 8.17,
+        "chemin": "/dossiers/projets/6",
+        "date_creation": "2025-01-11T19:46:14.681457",
+        "id_utilisateur": "1c7d7cde-965d-4cbe-9b3d-9887570d328c",
+        "est_public": true
+    },
+    {
+        "_id": "dd0210dc-61b2-42a8-8ba2-811d20484fb8",
+        "nom": "pr\u00e9sentation_950.jpg",
+        "type": "pdf",
+        "taille": 8.91,
+        "chemin": "/dossiers/projets/7",
+        "date_creation": "2025-02-09T19:46:14.681475",
+        "id_utilisateur": "c57c43a2-3a58-453b-9dd0-eb92585b960c",
+        "est_public": true
+    },
+    {
+        "_id": "24d3c59b-4beb-4e1e-bf5b-511e5b24227f",
+        "nom": "plan_796.jpg",
+        "type": "png",
+        "taille": 14.16,
+        "chemin": "/dossiers/projets/2",
+        "date_creation": "2025-05-25T19:46:14.681492",
+        "id_utilisateur": "961e760b-f32e-45cf-ba18-73cdaf6cde9d",
+        "est_public": false
+    },
+    {
+        "_id": "e510cd16-e6c5-4585-9ef4-67325e59e3f9",
+        "nom": "rapport_162.png",
+        "type": "docx",
+        "taille": 8.08,
+        "chemin": "/dossiers/projets/8",
+        "date_creation": "2024-07-10T19:46:14.681508",
+        "id_utilisateur": "49183043-ed46-4f48-a844-0faefd79453d",
+        "est_public": false
+    },
+    {
+        "_id": "39fb2cc3-0893-407c-ab3e-3c7ed0833750",
+        "nom": "plan_977.xlsx",
+        "type": "docx",
+        "taille": 10.2,
+        "chemin": "/dossiers/projets/10",
+        "date_creation": "2024-07-10T19:46:14.681525",
+        "id_utilisateur": "53ba44d5-22aa-42c2-a5a0-c3e152c5b646",
+        "est_public": false
+    },
+    {
+        "_id": "9096ab0c-eec7-4684-b5cb-3a6bb40f2140",
+        "nom": "rapport_705.png",
+        "type": "pdf",
+        "taille": 19.64,
+        "chemin": "/dossiers/projets/2",
+        "date_creation": "2025-01-24T19:46:14.681552",
+        "id_utilisateur": "fc098c27-7c4f-4a71-acc4-8a7bdba56b1d",
+        "est_public": true
+    },
+    {
+        "_id": "c5b2634a-7179-451a-b10f-11553ae0d4f0",
+        "nom": "pr\u00e9sentation_567.jpg",
+        "type": "pdf",
+        "taille": 9.35,
+        "chemin": "/dossiers/projets/4",
+        "date_creation": "2024-09-06T19:46:14.681675",
+        "id_utilisateur": "24867973-e2b3-4031-b789-1ae62bde8537",
+        "est_public": false
+    },
+    {
+        "_id": "f381ab52-43f2-42d8-a7fc-9e94d1c54ba7",
+        "nom": "pr\u00e9sentation_354.pptx",
+        "type": "png",
+        "taille": 15.73,
+        "chemin": "/dossiers/projets/2",
+        "date_creation": "2024-08-08T19:46:14.681729",
+        "id_utilisateur": "970be45c-0aa5-4268-b2a4-f532c50bcc19",
+        "est_public": false
+    },
+    {
+        "_id": "2983c767-15a2-4eb5-ac65-876f61652919",
+        "nom": "rapport_201.png",
+        "type": "pdf",
+        "taille": 11.86,
+        "chemin": "/dossiers/projets/6",
+        "date_creation": "2025-02-01T19:46:14.681758",
+        "id_utilisateur": "3e7431d1-1f8d-47f3-b080-44cd6ae44221",
+        "est_public": true
+    },
+    {
+        "_id": "20e03d1a-91c0-4edf-b8a5-2bd9f7ac85a0",
+        "nom": "pr\u00e9sentation_427.docx",
+        "type": "docx",
+        "taille": 10.06,
+        "chemin": "/dossiers/projets/5",
+        "date_creation": "2024-11-05T19:46:14.681776",
+        "id_utilisateur": "af6af3de-eab6-492d-bddb-dd7907b587af",
+        "est_public": false
+    },
+    {
+        "_id": "90df6d73-cd7b-4f7b-927e-82c049944318",
+        "nom": "plan_708.xlsx",
+        "type": "jpg",
+        "taille": 6.46,
+        "chemin": "/dossiers/projets/10",
+        "date_creation": "2025-06-01T19:46:14.681834",
+        "id_utilisateur": "e54dd900-dbf1-4754-b48e-cd8cdb316c30",
+        "est_public": false
+    },
+    {
+        "_id": "f95e9e8b-db4e-4cc8-9658-bc482efaa5a4",
+        "nom": "plan_406.pdf",
+        "type": "pptx",
+        "taille": 7.42,
+        "chemin": "/dossiers/projets/9",
+        "date_creation": "2025-01-15T19:46:14.681863",
+        "id_utilisateur": "bc98031b-9dfc-4bcc-80cf-aa767eb86b9f",
+        "est_public": true
+    },
+    {
+        "_id": "d86c02a5-08ee-44ad-b13c-f49cd4ac969e",
+        "nom": "pr\u00e9sentation_796.xlsx",
+        "type": "xlsx",
+        "taille": 12.15,
+        "chemin": "/dossiers/projets/5",
+        "date_creation": "2025-01-16T19:46:14.681881",
+        "id_utilisateur": "493aa2c7-04f2-4028-95e3-ad966b8245f5",
+        "est_public": true
+    },
+    {
+        "_id": "5c6417f5-b9d8-467a-9001-693351c95b5a",
+        "nom": "pr\u00e9sentation_772.pptx",
+        "type": "docx",
+        "taille": 19.05,
+        "chemin": "/dossiers/projets/9",
+        "date_creation": "2024-07-10T19:46:14.681897",
+        "id_utilisateur": "d16dc406-97da-4fbf-8bd6-6211f9d4c915",
+        "est_public": false
+    },
+    {
+        "_id": "717fd864-46ee-449f-a467-b77eb0a971eb",
+        "nom": "pr\u00e9sentation_732.docx",
+        "type": "pptx",
+        "taille": 7.63,
+        "chemin": "/dossiers/projets/6",
+        "date_creation": "2025-01-11T19:46:14.681914",
+        "id_utilisateur": "a23caa1c-50a6-434d-9fba-3f28fe7426cd",
+        "est_public": false
+    },
+    {
+        "_id": "443f3a68-e86d-49c3-9745-f6986b1207cb",
+        "nom": "pr\u00e9sentation_517.png",
+        "type": "pptx",
+        "taille": 16.77,
+        "chemin": "/dossiers/projets/4",
+        "date_creation": "2024-09-08T19:46:14.681974",
+        "id_utilisateur": "72ad853f-4276-4413-9652-12f94519b5e0",
+        "est_public": false
+    },
+    {
+        "_id": "c363aa62-5aae-4317-a709-2927f635bb88",
+        "nom": "contrat_143.xlsx",
+        "type": "docx",
+        "taille": 12.1,
+        "chemin": "/dossiers/projets/6",
+        "date_creation": "2024-09-22T19:46:14.682012",
+        "id_utilisateur": "f3b88953-88ee-4c55-8ec6-01cb0e6af002",
+        "est_public": true
+    },
+    {
+        "_id": "84e0f46b-a2e4-4227-abf8-77dd92992e0b",
+        "nom": "rapport_402.pdf",
+        "type": "jpg",
+        "taille": 19.99,
+        "chemin": "/dossiers/projets/5",
+        "date_creation": "2025-02-14T19:46:14.682038",
+        "id_utilisateur": "1d3d42c4-65c5-47fc-b0c6-bcc84b6892aa",
+        "est_public": true
+    },
+    {
+        "_id": "7bc7ddbd-238d-4b8e-a8f2-a3d62c82205a",
+        "nom": "plan_773.png",
+        "type": "docx",
+        "taille": 18.29,
+        "chemin": "/dossiers/projets/10",
+        "date_creation": "2024-10-14T19:46:14.682070",
+        "id_utilisateur": "bc98031b-9dfc-4bcc-80cf-aa767eb86b9f",
+        "est_public": false
+    },
+    {
+        "_id": "6336c518-b864-4104-a3e1-c81e3986ff8b",
+        "nom": "pr\u00e9sentation_910.docx",
+        "type": "xlsx",
+        "taille": 0.88,
+        "chemin": "/dossiers/projets/10",
+        "date_creation": "2024-08-03T19:46:14.682088",
+        "id_utilisateur": "5b292375-404a-4d46-be30-9c87d18ef637",
+        "est_public": true
+    },
+    {
+        "_id": "0d0b6ff2-61c4-4ad5-840a-84aae2ec2623",
+        "nom": "pr\u00e9sentation_276.png",
+        "type": "jpg",
+        "taille": 11.83,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2024-06-28T19:46:14.682106",
+        "id_utilisateur": "a23caa1c-50a6-434d-9fba-3f28fe7426cd",
+        "est_public": true
+    },
+    {
+        "_id": "55aea20e-a3a4-439f-8b01-56d03fd5c690",
+        "nom": "pr\u00e9sentation_379.docx",
+        "type": "png",
+        "taille": 10.31,
+        "chemin": "/dossiers/projets/3",
+        "date_creation": "2024-09-11T19:46:14.682136",
+        "id_utilisateur": "bc80ff7a-0818-424f-aad1-d256b0e07b18",
+        "est_public": true
+    },
+    {
+        "_id": "08a41db5-33f6-4e2d-b613-2ed7d1751fa0",
+        "nom": "plan_934.pptx",
+        "type": "pdf",
+        "taille": 11.08,
+        "chemin": "/dossiers/projets/7",
+        "date_creation": "2024-12-08T19:46:14.682354",
+        "id_utilisateur": "3fe3965b-5fd8-4a7a-bafb-85dbb280a665",
+        "est_public": false
+    },
+    {
+        "_id": "a1beefb0-4aa2-4c81-a66d-0b80155f9719",
+        "nom": "plan_749.png",
+        "type": "docx",
+        "taille": 4.42,
+        "chemin": "/dossiers/projets/6",
+        "date_creation": "2024-10-24T19:46:14.682407",
+        "id_utilisateur": "2cd4e204-b9cf-4cf1-b1b2-abedc5a2ac0e",
+        "est_public": true
+    },
+    {
+        "_id": "d118b26b-0d88-423f-9a41-35332b203681",
+        "nom": "plan_717.pdf",
+        "type": "png",
+        "taille": 18.76,
+        "chemin": "/dossiers/projets/10",
+        "date_creation": "2025-05-21T19:46:14.682459",
+        "id_utilisateur": "5ef3f837-6161-4cf0-8c4e-19d7f772332a",
+        "est_public": true
+    },
+    {
+        "_id": "30693651-3847-42b5-95fe-403c7bc45d3d",
+        "nom": "plan_604.docx",
+        "type": "pdf",
+        "taille": 9.53,
+        "chemin": "/dossiers/projets/9",
+        "date_creation": "2024-12-03T19:46:14.682478",
+        "id_utilisateur": "5b292375-404a-4d46-be30-9c87d18ef637",
+        "est_public": true
+    },
+    {
+        "_id": "0333012a-bc0d-400e-b866-71c5e2e97e9c",
+        "nom": "pr\u00e9sentation_466.pptx",
+        "type": "pptx",
+        "taille": 3.43,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2024-07-21T19:46:14.682499",
+        "id_utilisateur": "49183043-ed46-4f48-a844-0faefd79453d",
+        "est_public": false
+    },
+    {
+        "_id": "6a8e4ab2-5d53-49bf-9376-cb906860c0e4",
+        "nom": "rapport_925.xlsx",
+        "type": "png",
+        "taille": 11.47,
+        "chemin": "/dossiers/projets/8",
+        "date_creation": "2025-01-18T19:46:14.682547",
+        "id_utilisateur": "89d822b6-10d7-42be-bb58-fc10a4fa6201",
+        "est_public": true
+    },
+    {
+        "_id": "e87ad5f5-e6fa-43a2-9153-b6c156291b31",
+        "nom": "pr\u00e9sentation_726.pptx",
+        "type": "jpg",
+        "taille": 11.58,
+        "chemin": "/dossiers/projets/8",
+        "date_creation": "2025-05-11T19:46:14.682611",
+        "id_utilisateur": "961e760b-f32e-45cf-ba18-73cdaf6cde9d",
+        "est_public": false
+    },
+    {
+        "_id": "9d8e78c0-1881-4a24-9de8-73cebccbe729",
+        "nom": "contrat_873.xlsx",
+        "type": "png",
+        "taille": 2.05,
+        "chemin": "/dossiers/projets/9",
+        "date_creation": "2025-05-24T19:46:14.682654",
+        "id_utilisateur": "3e7431d1-1f8d-47f3-b080-44cd6ae44221",
+        "est_public": false
+    },
+    {
+        "_id": "db1efb08-ddba-4f8f-9a6c-e6dfc52bfe66",
+        "nom": "plan_993.pptx",
+        "type": "png",
+        "taille": 5.86,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2024-08-20T19:46:14.682673",
+        "id_utilisateur": "c2132ac9-f794-47f8-88bf-293fd7cd5205",
+        "est_public": true
+    },
+    {
+        "_id": "391ae041-d87b-49ad-a2c7-cd4636ee38d8",
+        "nom": "plan_235.pdf",
+        "type": "docx",
+        "taille": 8.65,
+        "chemin": "/dossiers/projets/8",
+        "date_creation": "2024-07-02T19:46:14.682707",
+        "id_utilisateur": "af6af3de-eab6-492d-bddb-dd7907b587af",
+        "est_public": false
+    },
+    {
+        "_id": "b21e8686-0c77-47bf-b736-a9d01c8fe236",
+        "nom": "contrat_620.pdf",
+        "type": "xlsx",
+        "taille": 15.52,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2024-07-08T19:46:14.682730",
+        "id_utilisateur": "af6af3de-eab6-492d-bddb-dd7907b587af",
+        "est_public": true
+    },
+    {
+        "_id": "d80997e5-f9eb-4484-b9ea-5f5fc7116b9b",
+        "nom": "contrat_942.docx",
+        "type": "xlsx",
+        "taille": 2.48,
+        "chemin": "/dossiers/projets/3",
+        "date_creation": "2024-09-21T19:46:14.682747",
+        "id_utilisateur": "970be45c-0aa5-4268-b2a4-f532c50bcc19",
+        "est_public": false
+    },
+    {
+        "_id": "5ce70c26-8dc2-4f2e-8d0d-d02036bcf490",
+        "nom": "rapport_804.pptx",
+        "type": "pdf",
+        "taille": 16.43,
+        "chemin": "/dossiers/projets/8",
+        "date_creation": "2024-06-14T19:46:14.682764",
+        "id_utilisateur": "d16dc406-97da-4fbf-8bd6-6211f9d4c915",
+        "est_public": false
+    },
+    {
+        "_id": "dceed647-561a-4f12-90ce-a9cd589bb61d",
+        "nom": "contrat_171.jpg",
+        "type": "pdf",
+        "taille": 11.31,
+        "chemin": "/dossiers/projets/6",
+        "date_creation": "2025-04-08T19:46:14.682781",
+        "id_utilisateur": "af6af3de-eab6-492d-bddb-dd7907b587af",
+        "est_public": false
+    },
+    {
+        "_id": "b02e6ccb-e781-4dd3-95a6-bf8029e64fa4",
+        "nom": "contrat_956.xlsx",
+        "type": "jpg",
+        "taille": 2.63,
+        "chemin": "/dossiers/projets/6",
+        "date_creation": "2024-11-07T19:46:14.682803",
+        "id_utilisateur": "bb8f3dbc-cc4a-4f0e-a88d-75a0dabc46ed",
+        "est_public": true
+    },
+    {
+        "_id": "0642103e-d69f-4e13-a3e7-e53cf16c4860",
+        "nom": "plan_895.docx",
+        "type": "jpg",
+        "taille": 5.94,
+        "chemin": "/dossiers/projets/10",
+        "date_creation": "2024-11-24T19:46:14.682826",
+        "id_utilisateur": "49183043-ed46-4f48-a844-0faefd79453d",
+        "est_public": false
+    },
+    {
+        "_id": "e7bacf36-8df9-4441-92eb-9a7dd32d8cfa",
+        "nom": "plan_721.xlsx",
+        "type": "jpg",
+        "taille": 8.73,
+        "chemin": "/dossiers/projets/4",
+        "date_creation": "2025-01-13T19:46:14.682844",
+        "id_utilisateur": "c2132ac9-f794-47f8-88bf-293fd7cd5205",
+        "est_public": false
+    },
+    {
+        "_id": "43edf606-f990-4e69-b07d-2052564940e9",
+        "nom": "plan_130.xlsx",
+        "type": "docx",
+        "taille": 9.59,
+        "chemin": "/dossiers/projets/9",
+        "date_creation": "2024-09-03T19:46:14.682860",
+        "id_utilisateur": "89d822b6-10d7-42be-bb58-fc10a4fa6201",
+        "est_public": false
+    },
+    {
+        "_id": "8ca02718-564d-4532-807f-4fe3f9162902",
+        "nom": "plan_553.png",
+        "type": "pptx",
+        "taille": 13.39,
+        "chemin": "/dossiers/projets/2",
+        "date_creation": "2024-09-12T19:46:14.682878",
+        "id_utilisateur": "e54dd900-dbf1-4754-b48e-cd8cdb316c30",
+        "est_public": false
+    },
+    {
+        "_id": "25800bd8-0080-45b7-90d8-1785d090a20f",
+        "nom": "rapport_672.png",
+        "type": "jpg",
+        "taille": 14.9,
+        "chemin": "/dossiers/projets/5",
+        "date_creation": "2025-03-18T19:46:14.682897",
+        "id_utilisateur": "72ad853f-4276-4413-9652-12f94519b5e0",
+        "est_public": false
+    },
+    {
+        "_id": "6663c01a-09fd-4759-9392-d40832ae014e",
+        "nom": "rapport_496.jpg",
+        "type": "jpg",
+        "taille": 2.21,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2024-12-27T19:46:14.682913",
+        "id_utilisateur": "2da69ed2-2e38-4694-acd0-5d349c162c34",
+        "est_public": false
+    },
+    {
+        "_id": "eb1619f5-5b42-4a47-b6c6-aec3d2cea7e1",
+        "nom": "plan_768.png",
+        "type": "pdf",
+        "taille": 17.47,
+        "chemin": "/dossiers/projets/5",
+        "date_creation": "2025-05-04T19:46:14.682929",
+        "id_utilisateur": "07a69780-46ac-427f-a903-b50bdadb963a",
+        "est_public": false
+    },
+    {
+        "_id": "654b6039-fa67-463a-8d4c-49267d05229d",
+        "nom": "rapport_947.pdf",
+        "type": "docx",
+        "taille": 15.43,
+        "chemin": "/dossiers/projets/3",
+        "date_creation": "2025-01-12T19:46:14.682946",
+        "id_utilisateur": "420a9ba3-12d4-4b04-89bb-a553829789a2",
+        "est_public": false
+    },
+    {
+        "_id": "5096b994-93a3-4e5e-87ba-b25a087312b2",
+        "nom": "rapport_208.pptx",
+        "type": "docx",
+        "taille": 7.48,
+        "chemin": "/dossiers/projets/7",
+        "date_creation": "2024-09-21T19:46:14.683096",
+        "id_utilisateur": "d16dc406-97da-4fbf-8bd6-6211f9d4c915",
+        "est_public": true
+    },
+    {
+        "_id": "76b3f4bf-006a-4fc8-abf9-053d33622d66",
+        "nom": "pr\u00e9sentation_267.pdf",
+        "type": "pptx",
+        "taille": 14.12,
+        "chemin": "/dossiers/projets/10",
+        "date_creation": "2025-03-30T19:46:14.683177",
+        "id_utilisateur": "1d3d42c4-65c5-47fc-b0c6-bcc84b6892aa",
+        "est_public": true
+    },
+    {
+        "_id": "35ba6e64-eb55-40f5-a905-01aaea3df2ea",
+        "nom": "plan_309.jpg",
+        "type": "png",
+        "taille": 2.57,
+        "chemin": "/dossiers/projets/4",
+        "date_creation": "2025-06-02T19:46:14.683249",
+        "id_utilisateur": "34b26067-10f6-481b-a3af-beafca771403",
+        "est_public": true
+    },
+    {
+        "_id": "c1d2f0c9-8be6-46d6-a190-114d359a2e0e",
+        "nom": "contrat_617.pptx",
+        "type": "pdf",
+        "taille": 5.67,
+        "chemin": "/dossiers/projets/6",
+        "date_creation": "2024-09-06T19:46:14.683305",
+        "id_utilisateur": "bb8f3dbc-cc4a-4f0e-a88d-75a0dabc46ed",
+        "est_public": false
+    },
+    {
+        "_id": "789e5e5c-7830-4c18-8b13-a8b4e0f13fbd",
+        "nom": "plan_287.png",
+        "type": "pptx",
+        "taille": 4.94,
+        "chemin": "/dossiers/projets/4",
+        "date_creation": "2025-02-12T19:46:14.683355",
+        "id_utilisateur": "3e7431d1-1f8d-47f3-b080-44cd6ae44221",
+        "est_public": true
+    },
+    {
+        "_id": "87223963-b433-4d1d-bc53-f74ba9ac4d8a",
+        "nom": "pr\u00e9sentation_840.xlsx",
+        "type": "png",
+        "taille": 3.6,
+        "chemin": "/dossiers/projets/3",
+        "date_creation": "2024-09-14T19:46:14.683401",
+        "id_utilisateur": "24867973-e2b3-4031-b789-1ae62bde8537",
+        "est_public": false
+    },
+    {
+        "_id": "053e5d49-340a-46ca-bfbb-53ab9648971a",
+        "nom": "pr\u00e9sentation_800.xlsx",
+        "type": "pptx",
+        "taille": 9.42,
+        "chemin": "/dossiers/projets/3",
+        "date_creation": "2024-08-29T19:46:14.683419",
+        "id_utilisateur": "bb8f3dbc-cc4a-4f0e-a88d-75a0dabc46ed",
+        "est_public": true
+    },
+    {
+        "_id": "475274ab-1976-4a66-9ec4-290fd0995bcd",
+        "nom": "pr\u00e9sentation_693.docx",
+        "type": "png",
+        "taille": 12.01,
+        "chemin": "/dossiers/projets/5",
+        "date_creation": "2024-11-23T19:46:14.683436",
+        "id_utilisateur": "7d44f347-6031-4087-a227-74be3090a8e7",
+        "est_public": false
+    },
+    {
+        "_id": "ebb2b10a-2fea-4bbb-aba2-c59da0b30777",
+        "nom": "pr\u00e9sentation_144.png",
+        "type": "xlsx",
+        "taille": 18.02,
+        "chemin": "/dossiers/projets/10",
+        "date_creation": "2025-03-26T19:46:14.683454",
+        "id_utilisateur": "3fe3965b-5fd8-4a7a-bafb-85dbb280a665",
+        "est_public": true
+    },
+    {
+        "_id": "6a39e663-9f39-4e4f-9308-2d9a200a7560",
+        "nom": "plan_691.xlsx",
+        "type": "pdf",
+        "taille": 7.41,
+        "chemin": "/dossiers/projets/7",
+        "date_creation": "2025-02-16T19:46:14.683473",
+        "id_utilisateur": "420a9ba3-12d4-4b04-89bb-a553829789a2",
+        "est_public": true
+    },
+    {
+        "_id": "9a080f18-3feb-4916-b9b4-5e5265ee8600",
+        "nom": "rapport_178.pdf",
+        "type": "docx",
+        "taille": 18.38,
+        "chemin": "/dossiers/projets/9",
+        "date_creation": "2024-12-26T19:46:14.683490",
+        "id_utilisateur": "c248fff4-c26e-40dc-9613-332a869c59ae",
+        "est_public": true
+    },
+    {
+        "_id": "8edfa7fe-0c14-4c8f-98ba-57ee5bdfdfe4",
+        "nom": "pr\u00e9sentation_691.jpg",
+        "type": "png",
+        "taille": 15.79,
+        "chemin": "/dossiers/projets/9",
+        "date_creation": "2024-10-24T19:46:14.683507",
+        "id_utilisateur": "d3a985f2-f842-47d4-899d-aa4b2e9a1b4d",
+        "est_public": true
+    },
+    {
+        "_id": "14ccf9d2-8955-4906-8865-78dd5c8c3021",
+        "nom": "rapport_212.xlsx",
+        "type": "jpg",
+        "taille": 1.34,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2024-07-16T19:46:14.683526",
+        "id_utilisateur": "c57c43a2-3a58-453b-9dd0-eb92585b960c",
+        "est_public": false
+    },
+    {
+        "_id": "e365b8c8-3dbb-4af3-97df-f55d76c8ef2a",
+        "nom": "contrat_697.docx",
+        "type": "xlsx",
+        "taille": 8.58,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2024-12-17T19:46:14.683545",
+        "id_utilisateur": "3e7431d1-1f8d-47f3-b080-44cd6ae44221",
+        "est_public": false
+    },
+    {
+        "_id": "e4ca9e05-f6ba-4b7f-8e30-52c5be29b5ed",
+        "nom": "pr\u00e9sentation_543.png",
+        "type": "docx",
+        "taille": 1.72,
+        "chemin": "/dossiers/projets/7",
+        "date_creation": "2025-01-03T19:46:14.683566",
+        "id_utilisateur": "bc80ff7a-0818-424f-aad1-d256b0e07b18",
+        "est_public": true
+    },
+    {
+        "_id": "3e425f62-7829-44e7-b8c0-a74694e700f5",
+        "nom": "plan_584.jpg",
+        "type": "jpg",
+        "taille": 10.74,
+        "chemin": "/dossiers/projets/9",
+        "date_creation": "2024-11-22T19:46:14.683587",
+        "id_utilisateur": "3ecb7cdd-de1e-4b7f-a6dc-6eb97c25561c",
+        "est_public": false
+    },
+    {
+        "_id": "fe793e67-3c3e-4091-9471-a21cac7a070d",
+        "nom": "plan_939.docx",
+        "type": "pdf",
+        "taille": 3.81,
+        "chemin": "/dossiers/projets/9",
+        "date_creation": "2024-08-25T19:46:14.683657",
+        "id_utilisateur": "2cd4e204-b9cf-4cf1-b1b2-abedc5a2ac0e",
+        "est_public": true
+    },
+    {
+        "_id": "908c973c-c604-43b2-bc87-44591481904e",
+        "nom": "pr\u00e9sentation_951.jpg",
+        "type": "pptx",
+        "taille": 9.5,
+        "chemin": "/dossiers/projets/2",
+        "date_creation": "2024-07-27T19:46:14.683710",
+        "id_utilisateur": "24867973-e2b3-4031-b789-1ae62bde8537",
+        "est_public": true
+    },
+    {
+        "_id": "c1132078-76d7-40bb-a157-d97a04b322c8",
+        "nom": "rapport_157.png",
+        "type": "png",
+        "taille": 5.82,
+        "chemin": "/dossiers/projets/10",
+        "date_creation": "2025-04-15T19:46:14.683730",
+        "id_utilisateur": "420a9ba3-12d4-4b04-89bb-a553829789a2",
+        "est_public": true
+    },
+    {
+        "_id": "a5a69198-fcf1-4f59-9697-fa2f20378257",
+        "nom": "plan_876.png",
+        "type": "pdf",
+        "taille": 2.25,
+        "chemin": "/dossiers/projets/5",
+        "date_creation": "2024-11-10T19:46:14.683763",
+        "id_utilisateur": "3e7431d1-1f8d-47f3-b080-44cd6ae44221",
+        "est_public": false
+    },
+    {
+        "_id": "6a2b0b75-ae44-4b9a-bfcf-cea8ebbe3357",
+        "nom": "rapport_654.docx",
+        "type": "docx",
+        "taille": 3.15,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2025-05-25T19:46:14.683825",
+        "id_utilisateur": "1d7867b1-a0ff-44e2-b42d-5a9439b74c7e",
+        "est_public": false
+    },
+    {
+        "_id": "408353b8-a29c-46cd-86e1-8109415bde08",
+        "nom": "contrat_739.pdf",
+        "type": "jpg",
+        "taille": 8.02,
+        "chemin": "/dossiers/projets/2",
+        "date_creation": "2024-10-16T19:46:14.683898",
+        "id_utilisateur": "53ba44d5-22aa-42c2-a5a0-c3e152c5b646",
+        "est_public": false
+    },
+    {
+        "_id": "50faee98-c248-496d-ae0e-9a7c99e0f2ed",
+        "nom": "contrat_338.jpg",
+        "type": "pptx",
+        "taille": 10.98,
+        "chemin": "/dossiers/projets/3",
+        "date_creation": "2024-08-30T19:46:14.683952",
+        "id_utilisateur": "e54dd900-dbf1-4754-b48e-cd8cdb316c30",
+        "est_public": false
+    },
+    {
+        "_id": "c4644e89-0663-4a64-b489-308b6ea87c4f",
+        "nom": "rapport_680.png",
+        "type": "jpg",
+        "taille": 11.54,
+        "chemin": "/dossiers/projets/8",
+        "date_creation": "2024-10-10T19:46:14.684006",
+        "id_utilisateur": "49183043-ed46-4f48-a844-0faefd79453d",
+        "est_public": false
+    },
+    {
+        "_id": "8864d6fc-1ffa-4b6a-94b2-fcb84e247b88",
+        "nom": "rapport_501.jpg",
+        "type": "jpg",
+        "taille": 8.94,
+        "chemin": "/dossiers/projets/5",
+        "date_creation": "2024-11-01T19:46:14.684040",
+        "id_utilisateur": "bb8f3dbc-cc4a-4f0e-a88d-75a0dabc46ed",
+        "est_public": true
+    },
+    {
+        "_id": "ddf93bc5-71f5-4aa2-a5b2-578b78da2d7a",
+        "nom": "rapport_175.xlsx",
+        "type": "pdf",
+        "taille": 16.41,
+        "chemin": "/dossiers/projets/9",
+        "date_creation": "2025-04-11T19:46:14.684059",
+        "id_utilisateur": "c2132ac9-f794-47f8-88bf-293fd7cd5205",
+        "est_public": false
+    },
+    {
+        "_id": "4b5c5734-4a49-4735-a324-14ca3fcb9f97",
+        "nom": "contrat_151.xlsx",
+        "type": "pdf",
+        "taille": 1.1,
+        "chemin": "/dossiers/projets/5",
+        "date_creation": "2024-12-25T19:46:14.684088",
+        "id_utilisateur": "493aa2c7-04f2-4028-95e3-ad966b8245f5",
+        "est_public": true
+    },
+    {
+        "_id": "0c46110a-24d7-4adf-be56-e98bfef29d8f",
+        "nom": "contrat_890.docx",
+        "type": "pptx",
+        "taille": 1.08,
+        "chemin": "/dossiers/projets/7",
+        "date_creation": "2024-12-28T19:46:14.684107",
+        "id_utilisateur": "89d822b6-10d7-42be-bb58-fc10a4fa6201",
+        "est_public": true
+    },
+    {
+        "_id": "654556f7-1890-45bb-9dc6-d0f46349c5b8",
+        "nom": "contrat_249.jpg",
+        "type": "docx",
+        "taille": 13.83,
+        "chemin": "/dossiers/projets/7",
+        "date_creation": "2024-07-18T19:46:14.684124",
+        "id_utilisateur": "d886bfc4-af3e-4268-805b-3f4d86ed0f3b",
+        "est_public": true
+    },
+    {
+        "_id": "90c0740f-05f6-4127-8391-d2a54e2715f4",
+        "nom": "plan_309.jpg",
+        "type": "docx",
+        "taille": 2.34,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2025-01-28T19:46:14.684141",
+        "id_utilisateur": "c248fff4-c26e-40dc-9613-332a869c59ae",
+        "est_public": false
+    },
+    {
+        "_id": "3d0e9ebc-283b-4265-9201-f257913558f0",
+        "nom": "rapport_659.pdf",
+        "type": "pdf",
+        "taille": 14.34,
+        "chemin": "/dossiers/projets/8",
+        "date_creation": "2024-09-07T19:46:14.684157",
+        "id_utilisateur": "bb8f3dbc-cc4a-4f0e-a88d-75a0dabc46ed",
+        "est_public": true
+    },
+    {
+        "_id": "0adece22-5e33-46dc-9f53-f79f707de379",
+        "nom": "plan_718.jpg",
+        "type": "xlsx",
+        "taille": 16.56,
+        "chemin": "/dossiers/projets/4",
+        "date_creation": "2025-04-10T19:46:14.684179",
+        "id_utilisateur": "81750dc4-6c82-4581-88c4-781d7dee468d",
+        "est_public": false
+    },
+    {
+        "_id": "ac3dad76-c68f-43e4-83ae-32965254e9ff",
+        "nom": "pr\u00e9sentation_351.xlsx",
+        "type": "png",
+        "taille": 18.86,
+        "chemin": "/dossiers/projets/6",
+        "date_creation": "2025-01-06T19:46:14.684232",
+        "id_utilisateur": "49183043-ed46-4f48-a844-0faefd79453d",
+        "est_public": true
+    },
+    {
+        "_id": "a45b4c75-7b46-4d9c-9764-7c4bc90c207e",
+        "nom": "plan_505.jpg",
+        "type": "xlsx",
+        "taille": 0.72,
+        "chemin": "/dossiers/projets/9",
+        "date_creation": "2025-02-01T19:46:14.684364",
+        "id_utilisateur": "bb8f3dbc-cc4a-4f0e-a88d-75a0dabc46ed",
+        "est_public": true
+    },
+    {
+        "_id": "88241790-5a42-4e66-be7b-2f4d5976c57c",
+        "nom": "rapport_569.pptx",
+        "type": "png",
+        "taille": 1.18,
+        "chemin": "/dossiers/projets/10",
+        "date_creation": "2025-04-16T19:46:14.684478",
+        "id_utilisateur": "25c7f577-f74f-4f2e-8528-8e11d76e5752",
+        "est_public": false
+    },
+    {
+        "_id": "e61c3afe-f47d-4009-9795-61e07cd1a130",
+        "nom": "plan_871.pdf",
+        "type": "pptx",
+        "taille": 3.04,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2024-06-30T19:46:14.684564",
+        "id_utilisateur": "008193b2-47c8-4762-afd2-2ba513060c1a",
+        "est_public": false
+    },
+    {
+        "_id": "649dd909-6914-4436-a533-267a92376c55",
+        "nom": "pr\u00e9sentation_267.docx",
+        "type": "pdf",
+        "taille": 9.45,
+        "chemin": "/dossiers/projets/8",
+        "date_creation": "2024-08-11T19:46:14.684626",
+        "id_utilisateur": "759b633c-2c58-48c1-9e60-7b617a4764f0",
+        "est_public": true
+    },
+    {
+        "_id": "1aca153a-18b1-449b-8646-fc2f0ad5f5de",
+        "nom": "plan_905.jpg",
+        "type": "xlsx",
+        "taille": 8.59,
+        "chemin": "/dossiers/projets/6",
+        "date_creation": "2025-02-14T19:46:14.684684",
+        "id_utilisateur": "c2132ac9-f794-47f8-88bf-293fd7cd5205",
+        "est_public": false
+    },
+    {
+        "_id": "f0ffbbb3-1bd3-42d6-83d9-ef8f097c0ec6",
+        "nom": "rapport_391.docx",
+        "type": "png",
+        "taille": 18.8,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2024-07-15T19:46:14.684740",
+        "id_utilisateur": "ff1bc2f0-3920-4306-8fb4-3aabcb0c87dd",
+        "est_public": true
+    },
+    {
+        "_id": "4389b5a2-ce50-4543-963c-70047e367a78",
+        "nom": "plan_146.xlsx",
+        "type": "pdf",
+        "taille": 14.6,
+        "chemin": "/dossiers/projets/3",
+        "date_creation": "2024-06-28T19:46:14.684795",
+        "id_utilisateur": "cbd73dcf-9ba5-4cc7-9380-8e15db3ae6b5",
+        "est_public": true
+    },
+    {
+        "_id": "758d320a-5f88-43ea-9347-047face7b1bb",
+        "nom": "plan_859.png",
+        "type": "xlsx",
+        "taille": 7.12,
+        "chemin": "/dossiers/projets/2",
+        "date_creation": "2024-12-13T19:46:14.685020",
+        "id_utilisateur": "81750dc4-6c82-4581-88c4-781d7dee468d",
+        "est_public": false
+    },
+    {
+        "_id": "b5831588-0a0c-4f4c-8acb-85eeb8d915ac",
+        "nom": "contrat_445.jpg",
+        "type": "docx",
+        "taille": 16.49,
+        "chemin": "/dossiers/projets/2",
+        "date_creation": "2024-11-17T19:46:14.685169",
+        "id_utilisateur": "3d15127a-eb70-49c1-94fc-a89e4e8045e9",
+        "est_public": true
+    },
+    {
+        "_id": "d52e6b5f-186c-4bab-ad28-38ad8cf300dc",
+        "nom": "pr\u00e9sentation_535.pptx",
+        "type": "png",
+        "taille": 11.33,
+        "chemin": "/dossiers/projets/6",
+        "date_creation": "2024-09-14T19:46:14.685232",
+        "id_utilisateur": "53ba44d5-22aa-42c2-a5a0-c3e152c5b646",
+        "est_public": true
+    },
+    {
+        "_id": "d844fbdd-5765-46b1-ab23-991ca7d206d6",
+        "nom": "plan_350.docx",
+        "type": "pptx",
+        "taille": 5.04,
+        "chemin": "/dossiers/projets/4",
+        "date_creation": "2024-09-22T19:46:14.685338",
+        "id_utilisateur": "759b633c-2c58-48c1-9e60-7b617a4764f0",
+        "est_public": false
+    },
+    {
+        "_id": "988dc6e6-776d-4d93-a123-8fbd7d875531",
+        "nom": "plan_647.docx",
+        "type": "jpg",
+        "taille": 3.98,
+        "chemin": "/dossiers/projets/3",
+        "date_creation": "2024-10-15T19:46:14.685445",
+        "id_utilisateur": "f3b88953-88ee-4c55-8ec6-01cb0e6af002",
+        "est_public": false
+    },
+    {
+        "_id": "bdaca2f3-588a-4b8b-838e-a875f83988e6",
+        "nom": "pr\u00e9sentation_254.jpg",
+        "type": "docx",
+        "taille": 16.47,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2024-09-22T19:46:14.685515",
+        "id_utilisateur": "f3b88953-88ee-4c55-8ec6-01cb0e6af002",
+        "est_public": true
+    },
+    {
+        "_id": "1e3b5975-421b-4e17-a5e2-fdc59a2b58c7",
+        "nom": "contrat_325.xlsx",
+        "type": "pptx",
+        "taille": 12.56,
+        "chemin": "/dossiers/projets/7",
+        "date_creation": "2025-04-01T19:46:14.685573",
+        "id_utilisateur": "420a9ba3-12d4-4b04-89bb-a553829789a2",
+        "est_public": true
+    },
+    {
+        "_id": "bb46cd30-69af-480f-bcfb-c57e8b17d40b",
+        "nom": "rapport_927.png",
+        "type": "pdf",
+        "taille": 17.69,
+        "chemin": "/dossiers/projets/3",
+        "date_creation": "2024-07-11T19:46:14.685631",
+        "id_utilisateur": "420a9ba3-12d4-4b04-89bb-a553829789a2",
+        "est_public": true
+    },
+    {
+        "_id": "16048d78-0496-4348-95a7-436ae37187ac",
+        "nom": "rapport_340.pdf",
+        "type": "png",
+        "taille": 14.16,
+        "chemin": "/dossiers/projets/9",
+        "date_creation": "2025-02-07T19:46:14.685677",
+        "id_utilisateur": "bc98031b-9dfc-4bcc-80cf-aa767eb86b9f",
+        "est_public": false
+    },
+    {
+        "_id": "163549c2-29a0-4bd7-b1ce-3b311d743748",
+        "nom": "pr\u00e9sentation_211.png",
+        "type": "docx",
+        "taille": 0.79,
+        "chemin": "/dossiers/projets/9",
+        "date_creation": "2025-03-08T19:46:14.685736",
+        "id_utilisateur": "57b14813-b0f6-42b1-b795-73eb5c2af2bc",
+        "est_public": true
+    },
+    {
+        "_id": "5daab0e6-8f3d-41cf-8064-55d63080a379",
+        "nom": "pr\u00e9sentation_725.docx",
+        "type": "xlsx",
+        "taille": 9.78,
+        "chemin": "/dossiers/projets/4",
+        "date_creation": "2024-12-05T19:46:14.685804",
+        "id_utilisateur": "c2132ac9-f794-47f8-88bf-293fd7cd5205",
+        "est_public": true
+    },
+    {
+        "_id": "c2e13dd1-7e2b-47cd-a4a9-6573489194cb",
+        "nom": "rapport_101.png",
+        "type": "png",
+        "taille": 3.29,
+        "chemin": "/dossiers/projets/2",
+        "date_creation": "2025-01-03T19:46:14.685880",
+        "id_utilisateur": "a23caa1c-50a6-434d-9fba-3f28fe7426cd",
+        "est_public": false
+    },
+    {
+        "_id": "b7ede821-6ae9-4cdc-9524-0b0e317a7b85",
+        "nom": "plan_831.pdf",
+        "type": "pptx",
+        "taille": 14.63,
+        "chemin": "/dossiers/projets/10",
+        "date_creation": "2025-03-30T19:46:14.685938",
+        "id_utilisateur": "420a9ba3-12d4-4b04-89bb-a553829789a2",
+        "est_public": true
+    },
+    {
+        "_id": "5a286cad-0643-4ccd-8c01-71aa6f8f569b",
+        "nom": "contrat_906.jpg",
+        "type": "xlsx",
+        "taille": 17.26,
+        "chemin": "/dossiers/projets/3",
+        "date_creation": "2025-04-29T19:46:14.686005",
+        "id_utilisateur": "d3a985f2-f842-47d4-899d-aa4b2e9a1b4d",
+        "est_public": false
+    },
+    {
+        "_id": "e1ebe2e6-229e-4b13-94ac-fbcba068a617",
+        "nom": "plan_173.png",
+        "type": "xlsx",
+        "taille": 10.45,
+        "chemin": "/dossiers/projets/3",
+        "date_creation": "2024-08-14T19:46:14.686040",
+        "id_utilisateur": "a23caa1c-50a6-434d-9fba-3f28fe7426cd",
+        "est_public": true
+    },
+    {
+        "_id": "4647f62f-7b60-4293-a692-50e5fa90668e",
+        "nom": "contrat_987.pptx",
+        "type": "pdf",
+        "taille": 1.81,
+        "chemin": "/dossiers/projets/7",
+        "date_creation": "2024-07-03T19:46:14.686068",
+        "id_utilisateur": "2cd4e204-b9cf-4cf1-b1b2-abedc5a2ac0e",
+        "est_public": false
+    },
+    {
+        "_id": "3d9333d3-26e9-40fa-83d9-b7b3fdad5457",
+        "nom": "pr\u00e9sentation_819.png",
+        "type": "pdf",
+        "taille": 8.71,
+        "chemin": "/dossiers/projets/6",
+        "date_creation": "2024-08-07T19:46:14.686092",
+        "id_utilisateur": "3ecb7cdd-de1e-4b7f-a6dc-6eb97c25561c",
+        "est_public": true
+    },
+    {
+        "_id": "95ce16aa-6668-47b0-8296-967acf52eeb1",
+        "nom": "pr\u00e9sentation_114.jpg",
+        "type": "xlsx",
+        "taille": 15.28,
+        "chemin": "/dossiers/projets/2",
+        "date_creation": "2025-03-04T19:46:14.686126",
+        "id_utilisateur": "420a9ba3-12d4-4b04-89bb-a553829789a2",
+        "est_public": false
+    },
+    {
+        "_id": "f08d5047-e4c9-4128-87b3-33ff3460c9d7",
+        "nom": "plan_485.xlsx",
+        "type": "pptx",
+        "taille": 14.88,
+        "chemin": "/dossiers/projets/9",
+        "date_creation": "2025-02-19T19:46:14.686185",
+        "id_utilisateur": "d3a985f2-f842-47d4-899d-aa4b2e9a1b4d",
+        "est_public": true
+    },
+    {
+        "_id": "228eaf95-4984-4267-b4db-3ff7e9135117",
+        "nom": "rapport_467.xlsx",
+        "type": "jpg",
+        "taille": 14.06,
+        "chemin": "/dossiers/projets/8",
+        "date_creation": "2025-05-25T19:46:14.686208",
+        "id_utilisateur": "759b633c-2c58-48c1-9e60-7b617a4764f0",
+        "est_public": true
+    },
+    {
+        "_id": "1c9b194b-a2ad-43f1-9090-e74513b0d0d9",
+        "nom": "plan_469.png",
+        "type": "docx",
+        "taille": 19.73,
+        "chemin": "/dossiers/projets/8",
+        "date_creation": "2024-07-23T19:46:14.686233",
+        "id_utilisateur": "25c7f577-f74f-4f2e-8528-8e11d76e5752",
+        "est_public": true
+    },
+    {
+        "_id": "7e1bdfec-fa53-48b4-8727-57021eee6d64",
+        "nom": "plan_644.docx",
+        "type": "jpg",
+        "taille": 9.06,
+        "chemin": "/dossiers/projets/6",
+        "date_creation": "2025-05-04T19:46:14.686283",
+        "id_utilisateur": "1c7d7cde-965d-4cbe-9b3d-9887570d328c",
+        "est_public": true
+    },
+    {
+        "_id": "bc0c144d-9c78-4ab6-9790-73637e112b89",
+        "nom": "plan_843.docx",
+        "type": "docx",
+        "taille": 1.37,
+        "chemin": "/dossiers/projets/10",
+        "date_creation": "2025-01-03T19:46:14.686319",
+        "id_utilisateur": "2cd4e204-b9cf-4cf1-b1b2-abedc5a2ac0e",
+        "est_public": false
+    },
+    {
+        "_id": "aec98696-6933-4561-9fc2-b07387c3d31b",
+        "nom": "contrat_227.docx",
+        "type": "docx",
+        "taille": 1.67,
+        "chemin": "/dossiers/projets/4",
+        "date_creation": "2025-02-15T19:46:14.686350",
+        "id_utilisateur": "2cd4e204-b9cf-4cf1-b1b2-abedc5a2ac0e",
+        "est_public": true
+    },
+    {
+        "_id": "eada1cd5-ab39-4cc9-a698-30632ec6277f",
+        "nom": "pr\u00e9sentation_825.png",
+        "type": "pdf",
+        "taille": 18.43,
+        "chemin": "/dossiers/projets/2",
+        "date_creation": "2025-03-01T19:46:14.686393",
+        "id_utilisateur": "14d2cb91-3b95-46eb-849c-4bd5f93dbeb8",
+        "est_public": false
+    },
+    {
+        "_id": "bbaaf54b-ed68-4711-9aaf-8861d3d27fd3",
+        "nom": "rapport_800.xlsx",
+        "type": "pdf",
+        "taille": 13.63,
+        "chemin": "/dossiers/projets/6",
+        "date_creation": "2025-05-30T19:46:14.686473",
+        "id_utilisateur": "81750dc4-6c82-4581-88c4-781d7dee468d",
+        "est_public": false
+    },
+    {
+        "_id": "dae5be95-8a0a-45e6-91e3-b75265ab4baa",
+        "nom": "contrat_860.pdf",
+        "type": "pptx",
+        "taille": 15.32,
+        "chemin": "/dossiers/projets/7",
+        "date_creation": "2025-01-03T19:46:14.686536",
+        "id_utilisateur": "49183043-ed46-4f48-a844-0faefd79453d",
+        "est_public": false
+    },
+    {
+        "_id": "cdf2aaa9-c37a-4c77-933b-63da680b2573",
+        "nom": "contrat_474.docx",
+        "type": "pptx",
+        "taille": 10.82,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2024-07-28T19:46:14.686592",
+        "id_utilisateur": "c248fff4-c26e-40dc-9613-332a869c59ae",
+        "est_public": true
+    },
+    {
+        "_id": "dc946705-1687-4d00-862e-9301a2a792f9",
+        "nom": "rapport_196.xlsx",
+        "type": "png",
+        "taille": 11.2,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2025-03-15T19:46:14.686626",
+        "id_utilisateur": "1d7867b1-a0ff-44e2-b42d-5a9439b74c7e",
+        "est_public": true
+    },
+    {
+        "_id": "4a3d5b17-e02a-4545-8dfc-a57d66cd830f",
+        "nom": "pr\u00e9sentation_511.docx",
+        "type": "xlsx",
+        "taille": 1.36,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2025-05-25T19:46:14.686644",
+        "id_utilisateur": "3d15127a-eb70-49c1-94fc-a89e4e8045e9",
+        "est_public": false
+    },
+    {
+        "_id": "cd9d2eb0-b061-465a-98e5-0d2b67d60440",
+        "nom": "contrat_306.pptx",
+        "type": "xlsx",
+        "taille": 13.35,
+        "chemin": "/dossiers/projets/4",
+        "date_creation": "2024-11-19T19:46:14.686661",
+        "id_utilisateur": "57b14813-b0f6-42b1-b795-73eb5c2af2bc",
+        "est_public": true
+    },
+    {
+        "_id": "3611a458-4c34-4143-96ac-982a5a8a96b0",
+        "nom": "rapport_467.pptx",
+        "type": "jpg",
+        "taille": 12.03,
+        "chemin": "/dossiers/projets/6",
+        "date_creation": "2024-08-18T19:46:14.686678",
+        "id_utilisateur": "81750dc4-6c82-4581-88c4-781d7dee468d",
+        "est_public": true
+    },
+    {
+        "_id": "befbd8b0-46d8-497d-a469-3cf5f123ccd4",
+        "nom": "rapport_352.pptx",
+        "type": "png",
+        "taille": 4.47,
+        "chemin": "/dossiers/projets/9",
+        "date_creation": "2024-08-12T19:46:14.686695",
+        "id_utilisateur": "c248fff4-c26e-40dc-9613-332a869c59ae",
+        "est_public": false
+    },
+    {
+        "_id": "bb632bcf-cd5c-461d-87b0-77e82a588d19",
+        "nom": "plan_688.xlsx",
+        "type": "pptx",
+        "taille": 15.2,
+        "chemin": "/dossiers/projets/7",
+        "date_creation": "2025-04-12T19:46:14.686713",
+        "id_utilisateur": "d16dc406-97da-4fbf-8bd6-6211f9d4c915",
+        "est_public": false
+    },
+    {
+        "_id": "30565ca1-bc05-4326-944b-1dcb254c0b49",
+        "nom": "rapport_552.xlsx",
+        "type": "xlsx",
+        "taille": 6.48,
+        "chemin": "/dossiers/projets/7",
+        "date_creation": "2024-08-29T19:46:14.686734",
+        "id_utilisateur": "7d44f347-6031-4087-a227-74be3090a8e7",
+        "est_public": true
+    },
+    {
+        "_id": "c16e2d4c-aa0b-4f98-bb5a-e335630ecda7",
+        "nom": "pr\u00e9sentation_399.jpg",
+        "type": "pptx",
+        "taille": 10.39,
+        "chemin": "/dossiers/projets/10",
+        "date_creation": "2025-02-20T19:46:14.686753",
+        "id_utilisateur": "5ef3f837-6161-4cf0-8c4e-19d7f772332a",
+        "est_public": false
+    },
+    {
+        "_id": "fd3767ac-78de-471c-8915-5df8fb0f084f",
+        "nom": "contrat_102.xlsx",
+        "type": "docx",
+        "taille": 14.87,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2025-05-01T19:46:14.686770",
+        "id_utilisateur": "3e7431d1-1f8d-47f3-b080-44cd6ae44221",
+        "est_public": true
+    },
+    {
+        "_id": "965fdddd-e328-4fdf-86f8-fe27eb60b5b6",
+        "nom": "plan_918.png",
+        "type": "pptx",
+        "taille": 16.11,
+        "chemin": "/dossiers/projets/3",
+        "date_creation": "2025-02-15T19:46:14.686803",
+        "id_utilisateur": "d886bfc4-af3e-4268-805b-3f4d86ed0f3b",
+        "est_public": false
+    },
+    {
+        "_id": "3a61f84b-a669-4b1c-92d5-81c84935bb3a",
+        "nom": "rapport_181.pdf",
+        "type": "pdf",
+        "taille": 1.82,
+        "chemin": "/dossiers/projets/5",
+        "date_creation": "2025-03-07T19:46:14.686853",
+        "id_utilisateur": "af6af3de-eab6-492d-bddb-dd7907b587af",
+        "est_public": true
+    },
+    {
+        "_id": "fb35fba1-2119-4959-8c6e-e0ba258d50c5",
+        "nom": "plan_452.xlsx",
+        "type": "xlsx",
+        "taille": 9.86,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2024-11-01T19:46:14.686893",
+        "id_utilisateur": "af6af3de-eab6-492d-bddb-dd7907b587af",
+        "est_public": false
+    },
+    {
+        "_id": "0f7a2ae4-47b8-412d-876e-230214b0b0f9",
+        "nom": "rapport_367.pptx",
+        "type": "jpg",
+        "taille": 1.31,
+        "chemin": "/dossiers/projets/4",
+        "date_creation": "2024-07-19T19:46:14.686948",
+        "id_utilisateur": "d886bfc4-af3e-4268-805b-3f4d86ed0f3b",
+        "est_public": true
+    },
+    {
+        "_id": "bcbd4714-d620-48a0-9913-d51d41a86906",
+        "nom": "plan_914.png",
+        "type": "pdf",
+        "taille": 15.44,
+        "chemin": "/dossiers/projets/2",
+        "date_creation": "2024-09-29T19:46:14.686999",
+        "id_utilisateur": "14d2cb91-3b95-46eb-849c-4bd5f93dbeb8",
+        "est_public": true
+    },
+    {
+        "_id": "29131851-f3fa-4d84-91c2-aad3a70ff06c",
+        "nom": "pr\u00e9sentation_244.pdf",
+        "type": "docx",
+        "taille": 2.7,
+        "chemin": "/dossiers/projets/2",
+        "date_creation": "2024-11-11T19:46:14.687047",
+        "id_utilisateur": "49183043-ed46-4f48-a844-0faefd79453d",
+        "est_public": false
+    },
+    {
+        "_id": "61ffa4d8-2f74-42c9-b3a6-153e303d32a0",
+        "nom": "contrat_832.docx",
+        "type": "pptx",
+        "taille": 9.47,
+        "chemin": "/dossiers/projets/7",
+        "date_creation": "2025-05-31T19:46:14.687085",
+        "id_utilisateur": "e54dd900-dbf1-4754-b48e-cd8cdb316c30",
+        "est_public": false
+    },
+    {
+        "_id": "7dabeef6-e445-44ea-bbb7-8ca81418dbf9",
+        "nom": "plan_897.jpg",
+        "type": "jpg",
+        "taille": 17.69,
+        "chemin": "/dossiers/projets/10",
+        "date_creation": "2025-04-21T19:46:14.687107",
+        "id_utilisateur": "970be45c-0aa5-4268-b2a4-f532c50bcc19",
+        "est_public": true
+    },
+    {
+        "_id": "b25278f6-4e9c-4758-a73a-cc775c179f96",
+        "nom": "rapport_663.jpg",
+        "type": "xlsx",
+        "taille": 16.28,
+        "chemin": "/dossiers/projets/2",
+        "date_creation": "2024-11-03T19:46:14.687125",
+        "id_utilisateur": "7e7ade92-d129-4f32-9180-70bf3c5f3eac",
+        "est_public": false
+    },
+    {
+        "_id": "250d21df-bef9-41df-be66-e9ee8c1cc3ad",
+        "nom": "pr\u00e9sentation_566.jpg",
+        "type": "pdf",
+        "taille": 2.66,
+        "chemin": "/dossiers/projets/7",
+        "date_creation": "2024-08-22T19:46:14.687143",
+        "id_utilisateur": "3973d71f-8593-4933-8826-046b3d3a44dd",
+        "est_public": true
+    },
+    {
+        "_id": "03864c55-944b-4833-ad72-4c8cf7ef34fe",
+        "nom": "plan_501.docx",
+        "type": "png",
+        "taille": 13.32,
+        "chemin": "/dossiers/projets/10",
+        "date_creation": "2024-08-03T19:46:14.687163",
+        "id_utilisateur": "d16dc406-97da-4fbf-8bd6-6211f9d4c915",
+        "est_public": false
+    },
+    {
+        "_id": "2b173ec8-a08f-4ed1-bdd2-b21e7532a5ba",
+        "nom": "contrat_854.xlsx",
+        "type": "png",
+        "taille": 9.39,
+        "chemin": "/dossiers/projets/2",
+        "date_creation": "2024-09-23T19:46:14.687180",
+        "id_utilisateur": "d6e70487-7324-476e-8a0e-1a687e6f0a36",
+        "est_public": true
+    },
+    {
+        "_id": "55fecafa-f376-46d0-9f0e-e5384157e0ce",
+        "nom": "plan_259.pptx",
+        "type": "docx",
+        "taille": 19.4,
+        "chemin": "/dossiers/projets/3",
+        "date_creation": "2025-01-12T19:46:14.687197",
+        "id_utilisateur": "f3b88953-88ee-4c55-8ec6-01cb0e6af002",
+        "est_public": true
+    },
+    {
+        "_id": "089d2287-fa85-45fa-8aac-0c5fbecaeee0",
+        "nom": "rapport_928.jpg",
+        "type": "jpg",
+        "taille": 4.75,
+        "chemin": "/dossiers/projets/8",
+        "date_creation": "2025-05-09T19:46:14.687224",
+        "id_utilisateur": "759b633c-2c58-48c1-9e60-7b617a4764f0",
+        "est_public": false
+    },
+    {
+        "_id": "2bbdd22d-72e2-48ab-a8f8-6a5f26234497",
+        "nom": "plan_885.jpg",
+        "type": "png",
+        "taille": 13.64,
+        "chemin": "/dossiers/projets/6",
+        "date_creation": "2024-07-31T19:46:14.687271",
+        "id_utilisateur": "a23caa1c-50a6-434d-9fba-3f28fe7426cd",
+        "est_public": true
+    },
+    {
+        "_id": "09e21b72-37c7-4422-928a-d687eaf77531",
+        "nom": "plan_470.pptx",
+        "type": "pptx",
+        "taille": 1.42,
+        "chemin": "/dossiers/projets/8",
+        "date_creation": "2025-01-04T19:46:14.687321",
+        "id_utilisateur": "bc80ff7a-0818-424f-aad1-d256b0e07b18",
+        "est_public": true
+    },
+    {
+        "_id": "61649f8f-480a-4437-a329-127b7bc7d466",
+        "nom": "rapport_592.xlsx",
+        "type": "pptx",
+        "taille": 13.34,
+        "chemin": "/dossiers/projets/9",
+        "date_creation": "2025-03-21T19:46:14.687344",
+        "id_utilisateur": "14d2cb91-3b95-46eb-849c-4bd5f93dbeb8",
+        "est_public": true
+    },
+    {
+        "_id": "0034758d-1889-4791-ad0e-f898aa714b35",
+        "nom": "contrat_148.xlsx",
+        "type": "xlsx",
+        "taille": 6.35,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2024-07-24T19:46:14.687361",
+        "id_utilisateur": "53ba44d5-22aa-42c2-a5a0-c3e152c5b646",
+        "est_public": false
+    },
+    {
+        "_id": "67a1a1a0-2818-4447-8bc8-ca79ae27ff07",
+        "nom": "rapport_673.png",
+        "type": "pptx",
+        "taille": 19.06,
+        "chemin": "/dossiers/projets/3",
+        "date_creation": "2024-11-19T19:46:14.687377",
+        "id_utilisateur": "fc098c27-7c4f-4a71-acc4-8a7bdba56b1d",
+        "est_public": false
+    },
+    {
+        "_id": "327673a2-2c35-4dbe-90d7-4413e7313049",
+        "nom": "pr\u00e9sentation_290.jpg",
+        "type": "docx",
+        "taille": 8.85,
+        "chemin": "/dossiers/projets/8",
+        "date_creation": "2025-03-15T19:46:14.687396",
+        "id_utilisateur": "5b292375-404a-4d46-be30-9c87d18ef637",
+        "est_public": false
+    },
+    {
+        "_id": "b9df2e5c-8125-47e1-9333-ec2bb5f7cdbd",
+        "nom": "pr\u00e9sentation_544.pptx",
+        "type": "png",
+        "taille": 1.83,
+        "chemin": "/dossiers/projets/3",
+        "date_creation": "2024-07-20T19:46:14.687418",
+        "id_utilisateur": "ff1bc2f0-3920-4306-8fb4-3aabcb0c87dd",
+        "est_public": false
+    },
+    {
+        "_id": "2e8e8bb5-69a6-495d-9301-78fddb972ce4",
+        "nom": "rapport_684.docx",
+        "type": "png",
+        "taille": 2.47,
+        "chemin": "/dossiers/projets/5",
+        "date_creation": "2025-05-09T19:46:14.687435",
+        "id_utilisateur": "3e7431d1-1f8d-47f3-b080-44cd6ae44221",
+        "est_public": false
+    },
+    {
+        "_id": "ddfa5beb-cb26-4003-a177-80eba65fef3c",
+        "nom": "contrat_793.xlsx",
+        "type": "docx",
+        "taille": 16.61,
+        "chemin": "/dossiers/projets/10",
+        "date_creation": "2025-02-13T19:46:14.687452",
+        "id_utilisateur": "85aafaef-9671-4363-a2f7-626d5c378d3e",
+        "est_public": true
+    },
+    {
+        "_id": "bf6cdaa6-89b2-4120-8009-57eb6c5c0de7",
+        "nom": "pr\u00e9sentation_354.pptx",
+        "type": "pptx",
+        "taille": 14.9,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2024-11-30T19:46:14.687491",
+        "id_utilisateur": "53ba44d5-22aa-42c2-a5a0-c3e152c5b646",
+        "est_public": false
+    },
+    {
+        "_id": "b87d2073-6c64-4104-8eff-4df87dac7b61",
+        "nom": "pr\u00e9sentation_865.docx",
+        "type": "docx",
+        "taille": 14.98,
+        "chemin": "/dossiers/projets/4",
+        "date_creation": "2024-10-29T19:46:14.687578",
+        "id_utilisateur": "89d822b6-10d7-42be-bb58-fc10a4fa6201",
+        "est_public": false
+    },
+    {
+        "_id": "6e2ea12e-bf0b-47aa-a19c-d7a2b7dbe3ad",
+        "nom": "contrat_446.pptx",
+        "type": "png",
+        "taille": 13.43,
+        "chemin": "/dossiers/projets/10",
+        "date_creation": "2025-01-06T19:46:14.687630",
+        "id_utilisateur": "d16dc406-97da-4fbf-8bd6-6211f9d4c915",
+        "est_public": true
+    },
+    {
+        "_id": "dcfdb9c3-dc48-4c24-952b-3545a9ae2860",
+        "nom": "plan_285.pdf",
+        "type": "png",
+        "taille": 6.95,
+        "chemin": "/dossiers/projets/10",
+        "date_creation": "2024-08-30T19:46:14.687662",
+        "id_utilisateur": "3d15127a-eb70-49c1-94fc-a89e4e8045e9",
+        "est_public": true
+    },
+    {
+        "_id": "499acce9-d763-4c1e-a7cc-cf091c908c20",
+        "nom": "plan_867.png",
+        "type": "pptx",
+        "taille": 3.57,
+        "chemin": "/dossiers/projets/5",
+        "date_creation": "2025-04-03T19:46:14.687679",
+        "id_utilisateur": "89d822b6-10d7-42be-bb58-fc10a4fa6201",
+        "est_public": true
+    },
+    {
+        "_id": "deed713d-8380-468c-9ade-b4b5a9ac4023",
+        "nom": "pr\u00e9sentation_884.pptx",
+        "type": "xlsx",
+        "taille": 15.06,
+        "chemin": "/dossiers/projets/10",
+        "date_creation": "2025-04-11T19:46:14.687696",
+        "id_utilisateur": "34b26067-10f6-481b-a3af-beafca771403",
+        "est_public": false
+    },
+    {
+        "_id": "88b7e4af-b567-4546-9afe-40451c0ee27f",
+        "nom": "pr\u00e9sentation_167.png",
+        "type": "png",
+        "taille": 7.58,
+        "chemin": "/dossiers/projets/2",
+        "date_creation": "2024-06-16T19:46:14.687713",
+        "id_utilisateur": "2da69ed2-2e38-4694-acd0-5d349c162c34",
+        "est_public": false
+    },
+    {
+        "_id": "e6f9339d-9f63-4ddf-9f32-7066c0d6b92e",
+        "nom": "plan_636.docx",
+        "type": "pptx",
+        "taille": 8.83,
+        "chemin": "/dossiers/projets/9",
+        "date_creation": "2025-03-04T19:46:14.687730",
+        "id_utilisateur": "d886bfc4-af3e-4268-805b-3f4d86ed0f3b",
+        "est_public": false
+    },
+    {
+        "_id": "e6536fbf-0ac8-425a-bfc3-f146f8edf6cd",
+        "nom": "rapport_328.docx",
+        "type": "jpg",
+        "taille": 9.64,
+        "chemin": "/dossiers/projets/3",
+        "date_creation": "2024-08-11T19:46:14.687745",
+        "id_utilisateur": "3ecb7cdd-de1e-4b7f-a6dc-6eb97c25561c",
+        "est_public": true
+    },
+    {
+        "_id": "2dd5023a-c0dc-4635-bf9d-718166f2c16b",
+        "nom": "contrat_104.pptx",
+        "type": "pptx",
+        "taille": 16.55,
+        "chemin": "/dossiers/projets/10",
+        "date_creation": "2025-03-22T19:46:14.687762",
+        "id_utilisateur": "7e7ade92-d129-4f32-9180-70bf3c5f3eac",
+        "est_public": true
+    },
+    {
+        "_id": "9453a410-b369-40f9-af89-4aabaf295ee5",
+        "nom": "plan_771.pdf",
+        "type": "xlsx",
+        "taille": 18.61,
+        "chemin": "/dossiers/projets/10",
+        "date_creation": "2024-12-09T19:46:14.687779",
+        "id_utilisateur": "d886bfc4-af3e-4268-805b-3f4d86ed0f3b",
+        "est_public": false
+    },
+    {
+        "_id": "f3788581-af88-4492-97b0-6dcee0b2aba6",
+        "nom": "contrat_610.jpg",
+        "type": "pdf",
+        "taille": 17.48,
+        "chemin": "/dossiers/projets/4",
+        "date_creation": "2024-10-11T19:46:14.687796",
+        "id_utilisateur": "d24ce781-202d-464e-9883-4ff49b09a39c",
+        "est_public": true
+    },
+    {
+        "_id": "848fb906-5ddd-47e2-9e57-9be0eb9c70ab",
+        "nom": "plan_408.xlsx",
+        "type": "pptx",
+        "taille": 12.58,
+        "chemin": "/dossiers/projets/4",
+        "date_creation": "2024-12-14T19:46:14.687813",
+        "id_utilisateur": "07a69780-46ac-427f-a903-b50bdadb963a",
+        "est_public": false
+    },
+    {
+        "_id": "c9db4e41-b871-4d2c-b198-513012dbe957",
+        "nom": "contrat_300.xlsx",
+        "type": "docx",
+        "taille": 19.53,
+        "chemin": "/dossiers/projets/8",
+        "date_creation": "2025-03-12T19:46:14.687837",
+        "id_utilisateur": "d16dc406-97da-4fbf-8bd6-6211f9d4c915",
+        "est_public": false
+    },
+    {
+        "_id": "311dd51f-8995-4022-bb29-888656593c4c",
+        "nom": "pr\u00e9sentation_182.png",
+        "type": "pptx",
+        "taille": 5.87,
+        "chemin": "/dossiers/projets/5",
+        "date_creation": "2025-02-05T19:46:14.687853",
+        "id_utilisateur": "af6af3de-eab6-492d-bddb-dd7907b587af",
+        "est_public": false
+    },
+    {
+        "_id": "6a73140d-9da6-488b-b9a9-4515dffdea2d",
+        "nom": "rapport_611.png",
+        "type": "pptx",
+        "taille": 12.93,
+        "chemin": "/dossiers/projets/4",
+        "date_creation": "2025-04-03T19:46:14.687873",
+        "id_utilisateur": "961e760b-f32e-45cf-ba18-73cdaf6cde9d",
+        "est_public": false
+    },
+    {
+        "_id": "bf37bde9-e680-48dc-a3e7-499aa3de0248",
+        "nom": "pr\u00e9sentation_821.png",
+        "type": "pdf",
+        "taille": 4.82,
+        "chemin": "/dossiers/projets/7",
+        "date_creation": "2024-07-10T19:46:14.687934",
+        "id_utilisateur": "970be45c-0aa5-4268-b2a4-f532c50bcc19",
+        "est_public": true
+    },
+    {
+        "_id": "a67c2fad-e4e8-4a77-a855-a9b5cd16bff6",
+        "nom": "plan_841.png",
+        "type": "xlsx",
+        "taille": 2.21,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2025-04-21T19:46:14.687982",
+        "id_utilisateur": "ff1bc2f0-3920-4306-8fb4-3aabcb0c87dd",
+        "est_public": true
+    },
+    {
+        "_id": "247ec76f-7120-4f96-97b3-b49c0fc4b2b2",
+        "nom": "plan_515.pdf",
+        "type": "xlsx",
+        "taille": 8.99,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2025-01-18T19:46:14.688034",
+        "id_utilisateur": "c2132ac9-f794-47f8-88bf-293fd7cd5205",
+        "est_public": false
+    },
+    {
+        "_id": "81de1dc3-25b1-4ffb-9caa-09ef513a7559",
+        "nom": "plan_854.docx",
+        "type": "jpg",
+        "taille": 13.99,
+        "chemin": "/dossiers/projets/10",
+        "date_creation": "2025-03-18T19:46:14.688072",
+        "id_utilisateur": "e54dd900-dbf1-4754-b48e-cd8cdb316c30",
+        "est_public": true
+    },
+    {
+        "_id": "6a7acd99-8b36-477f-a5a3-4853bce10315",
+        "nom": "plan_533.pdf",
+        "type": "pdf",
+        "taille": 4.36,
+        "chemin": "/dossiers/projets/7",
+        "date_creation": "2025-03-17T19:46:14.688107",
+        "id_utilisateur": "bb8f3dbc-cc4a-4f0e-a88d-75a0dabc46ed",
+        "est_public": false
+    },
+    {
+        "_id": "5ce33c8c-8493-4e24-8983-102d2d121bbd",
+        "nom": "pr\u00e9sentation_225.pptx",
+        "type": "png",
+        "taille": 17.98,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2024-11-22T19:46:14.688151",
+        "id_utilisateur": "85aafaef-9671-4363-a2f7-626d5c378d3e",
+        "est_public": false
+    },
+    {
+        "_id": "a46f6a19-8e93-4912-92cf-4654c4175f8c",
+        "nom": "pr\u00e9sentation_582.docx",
+        "type": "pptx",
+        "taille": 7.54,
+        "chemin": "/dossiers/projets/2",
+        "date_creation": "2025-05-01T19:46:14.688207",
+        "id_utilisateur": "85aafaef-9671-4363-a2f7-626d5c378d3e",
+        "est_public": true
+    },
+    {
+        "_id": "78727fde-ac8f-4150-a1bf-aac2b57359ca",
+        "nom": "contrat_591.png",
+        "type": "docx",
+        "taille": 5.93,
+        "chemin": "/dossiers/projets/9",
+        "date_creation": "2024-06-18T19:46:14.688245",
+        "id_utilisateur": "c248fff4-c26e-40dc-9613-332a869c59ae",
+        "est_public": false
+    },
+    {
+        "_id": "a5efd1a1-edab-4526-8df1-b44ddce9d906",
+        "nom": "contrat_418.jpg",
+        "type": "xlsx",
+        "taille": 15.11,
+        "chemin": "/dossiers/projets/6",
+        "date_creation": "2025-04-16T19:46:14.688285",
+        "id_utilisateur": "1c7d7cde-965d-4cbe-9b3d-9887570d328c",
+        "est_public": true
+    },
+    {
+        "_id": "555fc25e-9946-423a-a525-a58b71b8178d",
+        "nom": "contrat_184.xlsx",
+        "type": "docx",
+        "taille": 18.18,
+        "chemin": "/dossiers/projets/4",
+        "date_creation": "2025-01-20T19:46:14.688314",
+        "id_utilisateur": "72ad853f-4276-4413-9652-12f94519b5e0",
+        "est_public": true
+    },
+    {
+        "_id": "2879da7d-8988-4256-9119-1da9f0052b48",
+        "nom": "plan_290.pptx",
+        "type": "jpg",
+        "taille": 9.29,
+        "chemin": "/dossiers/projets/5",
+        "date_creation": "2025-04-27T19:46:14.688349",
+        "id_utilisateur": "bb8f3dbc-cc4a-4f0e-a88d-75a0dabc46ed",
+        "est_public": true
+    },
+    {
+        "_id": "e9498c42-1a46-45bc-a57a-de9d711b2fdb",
+        "nom": "plan_490.pptx",
+        "type": "jpg",
+        "taille": 2.93,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2025-01-26T19:46:14.688408",
+        "id_utilisateur": "2da69ed2-2e38-4694-acd0-5d349c162c34",
+        "est_public": false
+    },
+    {
+        "_id": "5f672dcc-56b7-43f8-aa31-c5dcec0e13a7",
+        "nom": "rapport_710.pptx",
+        "type": "docx",
+        "taille": 7.13,
+        "chemin": "/dossiers/projets/3",
+        "date_creation": "2025-04-21T19:46:14.688456",
+        "id_utilisateur": "3e7431d1-1f8d-47f3-b080-44cd6ae44221",
+        "est_public": true
+    },
+    {
+        "_id": "ff4a77a6-ce77-4d27-a3d2-60b9183d710d",
+        "nom": "plan_720.pdf",
+        "type": "png",
+        "taille": 9.17,
+        "chemin": "/dossiers/projets/2",
+        "date_creation": "2024-12-02T19:46:14.688477",
+        "id_utilisateur": "5ef3f837-6161-4cf0-8c4e-19d7f772332a",
+        "est_public": true
+    },
+    {
+        "_id": "b56b2d4c-3d11-455e-baad-a1552ea03974",
+        "nom": "plan_674.jpg",
+        "type": "pdf",
+        "taille": 10.45,
+        "chemin": "/dossiers/projets/2",
+        "date_creation": "2024-08-01T19:46:14.688494",
+        "id_utilisateur": "493aa2c7-04f2-4028-95e3-ad966b8245f5",
+        "est_public": false
+    },
+    {
+        "_id": "4432d41d-55d1-487a-8e6a-8d4606c88500",
+        "nom": "plan_313.pptx",
+        "type": "pdf",
+        "taille": 3.33,
+        "chemin": "/dossiers/projets/5",
+        "date_creation": "2025-04-27T19:46:14.688513",
+        "id_utilisateur": "07a69780-46ac-427f-a903-b50bdadb963a",
+        "est_public": false
+    },
+    {
+        "_id": "85d9a1d1-47ce-4fe3-bd57-0589193ebb01",
+        "nom": "contrat_157.png",
+        "type": "docx",
+        "taille": 5.49,
+        "chemin": "/dossiers/projets/8",
+        "date_creation": "2024-11-08T19:46:14.688530",
+        "id_utilisateur": "72ad853f-4276-4413-9652-12f94519b5e0",
+        "est_public": false
+    },
+    {
+        "_id": "1a006c92-d023-4ed6-8c27-d865d2257b55",
+        "nom": "pr\u00e9sentation_524.pdf",
+        "type": "jpg",
+        "taille": 4.12,
+        "chemin": "/dossiers/projets/9",
+        "date_creation": "2024-08-08T19:46:14.688551",
+        "id_utilisateur": "89d822b6-10d7-42be-bb58-fc10a4fa6201",
+        "est_public": false
+    },
+    {
+        "_id": "d31cf581-bf87-4ee3-826e-883b89ea5ac4",
+        "nom": "rapport_312.png",
+        "type": "docx",
+        "taille": 5.22,
+        "chemin": "/dossiers/projets/5",
+        "date_creation": "2024-10-10T19:46:14.688616",
+        "id_utilisateur": "57b14813-b0f6-42b1-b795-73eb5c2af2bc",
+        "est_public": true
+    },
+    {
+        "_id": "7ff50ef5-ef72-474a-9a30-1c522277fe3d",
+        "nom": "contrat_235.xlsx",
+        "type": "pptx",
+        "taille": 1.18,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2024-07-08T19:46:14.688692",
+        "id_utilisateur": "89d822b6-10d7-42be-bb58-fc10a4fa6201",
+        "est_public": false
+    },
+    {
+        "_id": "5b8e7525-c997-4c41-9903-b0488a82f3db",
+        "nom": "contrat_392.xlsx",
+        "type": "jpg",
+        "taille": 15.4,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2024-07-07T19:46:14.688973",
+        "id_utilisateur": "1d3d42c4-65c5-47fc-b0c6-bcc84b6892aa",
+        "est_public": true
+    },
+    {
+        "_id": "a3165641-e216-4a17-93b1-7c18312ef33b",
+        "nom": "pr\u00e9sentation_336.docx",
+        "type": "jpg",
+        "taille": 11.37,
+        "chemin": "/dossiers/projets/10",
+        "date_creation": "2024-07-05T19:46:14.689089",
+        "id_utilisateur": "72ad853f-4276-4413-9652-12f94519b5e0",
+        "est_public": false
+    },
+    {
+        "_id": "3e6c58b5-4dbf-4380-9be0-3325cf429074",
+        "nom": "plan_961.xlsx",
+        "type": "xlsx",
+        "taille": 17.28,
+        "chemin": "/dossiers/projets/5",
+        "date_creation": "2025-04-15T19:46:14.689154",
+        "id_utilisateur": "5b292375-404a-4d46-be30-9c87d18ef637",
+        "est_public": true
+    },
+    {
+        "_id": "b21cad44-491a-46fe-8ef7-bc004e281b47",
+        "nom": "pr\u00e9sentation_407.pptx",
+        "type": "docx",
+        "taille": 13.07,
+        "chemin": "/dossiers/projets/8",
+        "date_creation": "2025-02-27T19:46:14.689224",
+        "id_utilisateur": "008193b2-47c8-4762-afd2-2ba513060c1a",
+        "est_public": true
+    },
+    {
+        "_id": "44be000c-6ffe-4e66-b84c-7e0558d7fc40",
+        "nom": "plan_112.png",
+        "type": "jpg",
+        "taille": 0.57,
+        "chemin": "/dossiers/projets/5",
+        "date_creation": "2025-02-15T19:46:14.689279",
+        "id_utilisateur": "d886bfc4-af3e-4268-805b-3f4d86ed0f3b",
+        "est_public": false
+    },
+    {
+        "_id": "b383da40-7a32-4139-8da5-66b9ed270caa",
+        "nom": "rapport_300.xlsx",
+        "type": "pdf",
+        "taille": 19.02,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2024-09-04T19:46:14.689362",
+        "id_utilisateur": "07a69780-46ac-427f-a903-b50bdadb963a",
+        "est_public": false
+    },
+    {
+        "_id": "1daed210-9e2b-40b8-a1de-58e18f6f9a3e",
+        "nom": "rapport_579.docx",
+        "type": "pdf",
+        "taille": 7.45,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2024-06-27T19:46:14.689422",
+        "id_utilisateur": "3fe3965b-5fd8-4a7a-bafb-85dbb280a665",
+        "est_public": true
+    },
+    {
+        "_id": "26b7309a-48b6-48cb-b768-c0fb5123549f",
+        "nom": "plan_654.png",
+        "type": "pptx",
+        "taille": 4.73,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2024-06-28T19:46:14.689490",
+        "id_utilisateur": "f3b88953-88ee-4c55-8ec6-01cb0e6af002",
+        "est_public": false
+    },
+    {
+        "_id": "fcc2d970-7c92-4457-a62f-c62685956730",
+        "nom": "rapport_247.jpg",
+        "type": "pptx",
+        "taille": 15.4,
+        "chemin": "/dossiers/projets/4",
+        "date_creation": "2024-08-28T19:46:14.689553",
+        "id_utilisateur": "c248fff4-c26e-40dc-9613-332a869c59ae",
+        "est_public": true
+    },
+    {
+        "_id": "45b80604-fd73-4cc7-8c48-2e66513892ab",
+        "nom": "plan_222.xlsx",
+        "type": "jpg",
+        "taille": 14.85,
+        "chemin": "/dossiers/projets/8",
+        "date_creation": "2025-03-12T19:46:14.689611",
+        "id_utilisateur": "34b26067-10f6-481b-a3af-beafca771403",
+        "est_public": true
+    },
+    {
+        "_id": "cb591d54-2e7c-4cf8-be6b-66e2d126224e",
+        "nom": "pr\u00e9sentation_458.pptx",
+        "type": "xlsx",
+        "taille": 1.1,
+        "chemin": "/dossiers/projets/9",
+        "date_creation": "2024-07-27T19:46:14.689663",
+        "id_utilisateur": "53ba44d5-22aa-42c2-a5a0-c3e152c5b646",
+        "est_public": true
+    },
+    {
+        "_id": "2e5a7334-9d28-4344-b3e8-4cd4a40721a5",
+        "nom": "pr\u00e9sentation_152.jpg",
+        "type": "pdf",
+        "taille": 4.29,
+        "chemin": "/dossiers/projets/5",
+        "date_creation": "2025-03-25T19:46:14.689717",
+        "id_utilisateur": "3973d71f-8593-4933-8826-046b3d3a44dd",
+        "est_public": true
+    },
+    {
+        "_id": "58c4bc44-3166-45f4-bbc2-e9e0f48e42f8",
+        "nom": "pr\u00e9sentation_567.xlsx",
+        "type": "pptx",
+        "taille": 14.82,
+        "chemin": "/dossiers/projets/10",
+        "date_creation": "2024-08-11T19:46:14.689793",
+        "id_utilisateur": "53ba44d5-22aa-42c2-a5a0-c3e152c5b646",
+        "est_public": true
+    },
+    {
+        "_id": "8e39703e-6003-47db-9ae2-9368230592d5",
+        "nom": "pr\u00e9sentation_208.docx",
+        "type": "pptx",
+        "taille": 11.04,
+        "chemin": "/dossiers/projets/5",
+        "date_creation": "2025-05-21T19:46:14.689850",
+        "id_utilisateur": "3d15127a-eb70-49c1-94fc-a89e4e8045e9",
+        "est_public": false
+    },
+    {
+        "_id": "1aeefa71-9206-4df8-b5b6-8012ddbb279d",
+        "nom": "contrat_330.docx",
+        "type": "jpg",
+        "taille": 13.24,
+        "chemin": "/dossiers/projets/7",
+        "date_creation": "2024-10-09T19:46:14.689907",
+        "id_utilisateur": "493aa2c7-04f2-4028-95e3-ad966b8245f5",
+        "est_public": false
+    },
+    {
+        "_id": "ebea2dcf-c8f2-4d04-bb0d-6c915ff21898",
+        "nom": "plan_245.docx",
+        "type": "png",
+        "taille": 1.47,
+        "chemin": "/dossiers/projets/8",
+        "date_creation": "2024-06-10T19:46:14.689978",
+        "id_utilisateur": "2cd4e204-b9cf-4cf1-b1b2-abedc5a2ac0e",
+        "est_public": false
+    },
+    {
+        "_id": "a8f3c03f-29b4-41a3-9056-56ecbbd94ca0",
+        "nom": "rapport_596.xlsx",
+        "type": "docx",
+        "taille": 8.4,
+        "chemin": "/dossiers/projets/2",
+        "date_creation": "2025-01-11T19:46:14.690035",
+        "id_utilisateur": "cbd73dcf-9ba5-4cc7-9380-8e15db3ae6b5",
+        "est_public": true
+    },
+    {
+        "_id": "5f88e233-65e3-4126-9f35-4195d0622c5b",
+        "nom": "contrat_335.png",
+        "type": "xlsx",
+        "taille": 17.86,
+        "chemin": "/dossiers/projets/5",
+        "date_creation": "2025-02-22T19:46:14.690085",
+        "id_utilisateur": "3ecb7cdd-de1e-4b7f-a6dc-6eb97c25561c",
+        "est_public": true
+    },
+    {
+        "_id": "348cb977-12a2-481c-b660-18915cac8e62",
+        "nom": "plan_306.docx",
+        "type": "jpg",
+        "taille": 13.98,
+        "chemin": "/dossiers/projets/6",
+        "date_creation": "2025-05-27T19:46:14.690137",
+        "id_utilisateur": "fc098c27-7c4f-4a71-acc4-8a7bdba56b1d",
+        "est_public": true
+    },
+    {
+        "_id": "86c8901e-2d30-459c-8e30-d7e2f7acd0dd",
+        "nom": "pr\u00e9sentation_914.xlsx",
+        "type": "png",
+        "taille": 14.72,
+        "chemin": "/dossiers/projets/2",
+        "date_creation": "2024-09-30T19:46:14.690341",
+        "id_utilisateur": "2da69ed2-2e38-4694-acd0-5d349c162c34",
+        "est_public": false
+    },
+    {
+        "_id": "dfb90142-ec15-4fd1-8779-1014a6db3b8f",
+        "nom": "contrat_570.png",
+        "type": "xlsx",
+        "taille": 7.08,
+        "chemin": "/dossiers/projets/5",
+        "date_creation": "2024-07-18T19:46:14.690539",
+        "id_utilisateur": "c248fff4-c26e-40dc-9613-332a869c59ae",
+        "est_public": true
+    },
+    {
+        "_id": "11111087-6e09-4c29-9cef-2a5052745e35",
+        "nom": "pr\u00e9sentation_323.docx",
+        "type": "pdf",
+        "taille": 1.07,
+        "chemin": "/dossiers/projets/7",
+        "date_creation": "2024-11-29T19:46:14.690626",
+        "id_utilisateur": "ff1bc2f0-3920-4306-8fb4-3aabcb0c87dd",
+        "est_public": false
+    },
+    {
+        "_id": "84dc7786-26ab-414b-ae35-ccf7e3eb2ff0",
+        "nom": "plan_796.xlsx",
+        "type": "jpg",
+        "taille": 12.34,
+        "chemin": "/dossiers/projets/3",
+        "date_creation": "2025-03-03T19:46:14.690675",
+        "id_utilisateur": "2da69ed2-2e38-4694-acd0-5d349c162c34",
+        "est_public": true
+    },
+    {
+        "_id": "e8e6bdc4-3517-4fd7-b86b-582037561fab",
+        "nom": "contrat_893.pptx",
+        "type": "png",
+        "taille": 12.73,
+        "chemin": "/dossiers/projets/10",
+        "date_creation": "2025-05-27T19:46:14.690737",
+        "id_utilisateur": "89d822b6-10d7-42be-bb58-fc10a4fa6201",
+        "est_public": false
+    },
+    {
+        "_id": "1b45226e-2892-4fb3-8c78-e13552c7b36b",
+        "nom": "contrat_608.pdf",
+        "type": "xlsx",
+        "taille": 12.37,
+        "chemin": "/dossiers/projets/4",
+        "date_creation": "2025-04-11T19:46:14.690831",
+        "id_utilisateur": "89d822b6-10d7-42be-bb58-fc10a4fa6201",
+        "est_public": false
+    },
+    {
+        "_id": "bc41e94c-f2c8-4d41-9966-f488cd8faa5b",
+        "nom": "pr\u00e9sentation_223.jpg",
+        "type": "jpg",
+        "taille": 13.88,
+        "chemin": "/dossiers/projets/10",
+        "date_creation": "2025-01-05T19:46:14.690892",
+        "id_utilisateur": "c2132ac9-f794-47f8-88bf-293fd7cd5205",
+        "est_public": false
+    },
+    {
+        "_id": "357c0c6c-f611-401e-a334-7944c6ef87cc",
+        "nom": "plan_685.png",
+        "type": "pptx",
+        "taille": 19.66,
+        "chemin": "/dossiers/projets/10",
+        "date_creation": "2024-09-07T19:46:14.690945",
+        "id_utilisateur": "d16dc406-97da-4fbf-8bd6-6211f9d4c915",
+        "est_public": false
+    },
+    {
+        "_id": "3d8ac45d-83db-47e0-8240-0520cfd22e18",
+        "nom": "rapport_583.pptx",
+        "type": "pdf",
+        "taille": 9.47,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2024-10-07T19:46:14.690997",
+        "id_utilisateur": "759b633c-2c58-48c1-9e60-7b617a4764f0",
+        "est_public": false
+    },
+    {
+        "_id": "aa8665ff-b224-44db-9618-f00d360e715b",
+        "nom": "rapport_292.docx",
+        "type": "docx",
+        "taille": 14.95,
+        "chemin": "/dossiers/projets/6",
+        "date_creation": "2025-03-31T19:46:14.691049",
+        "id_utilisateur": "ff1bc2f0-3920-4306-8fb4-3aabcb0c87dd",
+        "est_public": true
+    },
+    {
+        "_id": "1045dd9e-eab7-4f1f-9af1-b21269910f3a",
+        "nom": "rapport_840.png",
+        "type": "jpg",
+        "taille": 14.04,
+        "chemin": "/dossiers/projets/8",
+        "date_creation": "2024-07-14T19:46:14.691137",
+        "id_utilisateur": "81750dc4-6c82-4581-88c4-781d7dee468d",
+        "est_public": false
+    },
+    {
+        "_id": "147f9ecf-632c-4bfd-a19d-8f2b28e35eca",
+        "nom": "plan_750.xlsx",
+        "type": "pptx",
+        "taille": 2.21,
+        "chemin": "/dossiers/projets/5",
+        "date_creation": "2024-11-04T19:46:14.691219",
+        "id_utilisateur": "81750dc4-6c82-4581-88c4-781d7dee468d",
+        "est_public": true
+    },
+    {
+        "_id": "4300db08-2d9a-4f20-8cf5-d05d842be1bd",
+        "nom": "contrat_180.png",
+        "type": "pdf",
+        "taille": 9.53,
+        "chemin": "/dossiers/projets/8",
+        "date_creation": "2024-12-25T19:46:14.691306",
+        "id_utilisateur": "c248fff4-c26e-40dc-9613-332a869c59ae",
+        "est_public": true
+    },
+    {
+        "_id": "658f0655-9815-406b-be89-412e98189dda",
+        "nom": "plan_736.xlsx",
+        "type": "jpg",
+        "taille": 17.04,
+        "chemin": "/dossiers/projets/2",
+        "date_creation": "2024-10-07T19:46:14.691365",
+        "id_utilisateur": "e54dd900-dbf1-4754-b48e-cd8cdb316c30",
+        "est_public": false
+    },
+    {
+        "_id": "7e87aa4b-b86b-4a2e-9d51-0d7d50436ccd",
+        "nom": "plan_649.pdf",
+        "type": "xlsx",
+        "taille": 2.32,
+        "chemin": "/dossiers/projets/9",
+        "date_creation": "2024-07-09T19:46:14.691442",
+        "id_utilisateur": "d3a985f2-f842-47d4-899d-aa4b2e9a1b4d",
+        "est_public": false
+    },
+    {
+        "_id": "91b3d3c6-1b0c-42cb-b13d-9a9f461d3465",
+        "nom": "pr\u00e9sentation_283.jpg",
+        "type": "pptx",
+        "taille": 3.74,
+        "chemin": "/dossiers/projets/9",
+        "date_creation": "2025-02-12T19:46:14.691510",
+        "id_utilisateur": "493aa2c7-04f2-4028-95e3-ad966b8245f5",
+        "est_public": false
+    },
+    {
+        "_id": "adf2866e-e9a2-40c5-8fc9-b69806ec52d9",
+        "nom": "plan_890.pdf",
+        "type": "pptx",
+        "taille": 3.4,
+        "chemin": "/dossiers/projets/5",
+        "date_creation": "2025-04-15T19:46:14.691592",
+        "id_utilisateur": "a23caa1c-50a6-434d-9fba-3f28fe7426cd",
+        "est_public": false
+    },
+    {
+        "_id": "e380f020-8385-42fd-a1cf-e8f7e5c796fe",
+        "nom": "rapport_842.jpg",
+        "type": "docx",
+        "taille": 4.93,
+        "chemin": "/dossiers/projets/5",
+        "date_creation": "2024-07-03T19:46:14.691660",
+        "id_utilisateur": "1d3d42c4-65c5-47fc-b0c6-bcc84b6892aa",
+        "est_public": true
+    },
+    {
+        "_id": "00cf0307-0c04-4a55-8302-3284e9171294",
+        "nom": "pr\u00e9sentation_180.docx",
+        "type": "pdf",
+        "taille": 7.36,
+        "chemin": "/dossiers/projets/3",
+        "date_creation": "2024-11-17T19:46:14.691717",
+        "id_utilisateur": "759b633c-2c58-48c1-9e60-7b617a4764f0",
+        "est_public": false
+    },
+    {
+        "_id": "2232f20c-5801-4b5b-9ea6-a7d664519caf",
+        "nom": "rapport_378.pptx",
+        "type": "jpg",
+        "taille": 10.14,
+        "chemin": "/dossiers/projets/1",
+        "date_creation": "2024-10-29T19:46:14.691782",
+        "id_utilisateur": "5b292375-404a-4d46-be30-9c87d18ef637",
+        "est_public": false
+    },
+    {
+        "_id": "02256b89-a1f9-4f15-99f4-61a2b65f1a59",
+        "nom": "contrat_108.pptx",
+        "type": "png",
+        "taille": 2.3,
+        "chemin": "/dossiers/projets/6",
+        "date_creation": "2024-10-25T19:46:14.691839",
+        "id_utilisateur": "1d3d42c4-65c5-47fc-b0c6-bcc84b6892aa",
+        "est_public": false
+    },
+    {
+        "_id": "80932333-8528-4854-9c6b-7b32bf85d016",
+        "nom": "contrat_495.docx",
+        "type": "pptx",
+        "taille": 19.71,
+        "chemin": "/dossiers/projets/4",
+        "date_creation": "2024-11-13T19:46:14.691898",
+        "id_utilisateur": "d886bfc4-af3e-4268-805b-3f4d86ed0f3b",
+        "est_public": true
+    },
+    {
+        "_id": "6b08367f-79a1-43b0-804a-adde9a3ca6b2",
+        "nom": "rapport_405.pdf",
+        "type": "xlsx",
+        "taille": 2.39,
+        "chemin": "/dossiers/projets/4",
+        "date_creation": "2024-12-01T19:46:14.691976",
+        "id_utilisateur": "07a69780-46ac-427f-a903-b50bdadb963a",
+        "est_public": false
+    },
+    {
+        "_id": "8dd89a05-b7a9-4b3a-b7c1-05dad6e972cf",
+        "nom": "rapport_257.pptx",
+        "type": "xlsx",
+        "taille": 12.18,
+        "chemin": "/dossiers/projets/4",
+        "date_creation": "2024-12-20T19:46:14.692033",
+        "id_utilisateur": "3ecb7cdd-de1e-4b7f-a6dc-6eb97c25561c",
+        "est_public": true
+    },
+    {
+        "_id": "666dd1d6-858d-4a25-8b47-18fa84535b61",
+        "nom": "pr\u00e9sentation_640.xlsx",
+        "type": "docx",
+        "taille": 8.45,
+        "chemin": "/dossiers/projets/9",
+        "date_creation": "2024-07-27T19:46:14.692097",
+        "id_utilisateur": "3973d71f-8593-4933-8826-046b3d3a44dd",
+        "est_public": false
+    },
+    {
+        "_id": "b28a3c36-7431-4c3e-9969-eec3be4dc3d4",
+        "nom": "contrat_174.xlsx",
+        "type": "xlsx",
+        "taille": 1.73,
+        "chemin": "/dossiers/projets/2",
+        "date_creation": "2024-06-24T19:46:14.692146",
+        "id_utilisateur": "1d3d42c4-65c5-47fc-b0c6-bcc84b6892aa",
+        "est_public": false
+    },
+    {
+        "_id": "88cf71bf-5d8a-4247-a3cd-d2549aafa178",
+        "nom": "rapport_969.pptx",
+        "type": "xlsx",
+        "taille": 5.39,
+        "chemin": "/dossiers/projets/3",
+        "date_creation": "2025-02-20T19:46:14.692196",
+        "id_utilisateur": "72ad853f-4276-4413-9652-12f94519b5e0",
+        "est_public": false
+    },
+    {
+        "_id": "fd343af9-975e-4e45-88cd-d4c2d42e06f0",
+        "nom": "contrat_565.xlsx",
+        "type": "png",
+        "taille": 19.26,
+        "chemin": "/dossiers/projets/5",
+        "date_creation": "2025-03-10T19:46:14.692261",
+        "id_utilisateur": "3d15127a-eb70-49c1-94fc-a89e4e8045e9",
+        "est_public": true
+    },
+    {
+        "_id": "8b9dd49b-14b2-4b87-97ac-d506d9a0afb2",
+        "nom": "contrat_921.png",
+        "type": "docx",
+        "taille": 5.6,
+        "chemin": "/dossiers/projets/5",
+        "date_creation": "2024-09-19T19:46:14.692347",
+        "id_utilisateur": "d886bfc4-af3e-4268-805b-3f4d86ed0f3b",
+        "est_public": false
+    },
+    {
+        "_id": "08c4db61-fefd-411a-8bea-959132278a73",
+        "nom": "contrat_268.jpg",
+        "type": "xlsx",
+        "taille": 11.28,
+        "chemin": "/dossiers/projets/9",
+        "date_creation": "2024-12-18T19:46:14.692425",
+        "id_utilisateur": "49183043-ed46-4f48-a844-0faefd79453d",
+        "est_public": false
+    },
+    {
+        "_id": "27b1dbc4-620f-42d2-9631-bf99c40eaa86",
+        "nom": "rapport_734.pdf",
+        "type": "pdf",
+        "taille": 2.63,
+        "chemin": "/dossiers/projets/3",
+        "date_creation": "2025-03-10T19:46:14.692488",
+        "id_utilisateur": "ff1bc2f0-3920-4306-8fb4-3aabcb0c87dd",
+        "est_public": false
+    }
+]

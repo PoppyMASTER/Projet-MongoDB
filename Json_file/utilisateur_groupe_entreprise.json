@@ -1,0 +1,252 @@
+[
+    {
+        "_id": "66796dc7-9d61-4a26-84e9-6d27151b9ee7",
+        "id_utilisateur": "bc98031b-9dfc-4bcc-80cf-aa767eb86b9f",
+        "id_groupe": "4a04ea97-5804-4514-a84b-e965e82093ea"
+    },
+    {
+        "_id": "468a08ee-2494-44c4-b632-ed5f96a194cd",
+        "id_utilisateur": "3e7431d1-1f8d-47f3-b080-44cd6ae44221",
+        "id_groupe": "50928613-59e3-48a3-87b6-e0820c409f7b"
+    },
+    {
+        "_id": "9c7c6193-be2a-4f2f-92e7-77877d93dd86",
+        "id_utilisateur": "3973d71f-8593-4933-8826-046b3d3a44dd",
+        "id_groupe": "ae4d552b-0f6b-48e3-878a-1af73848e5ce"
+    },
+    {
+        "_id": "af3feef9-51f2-4276-9378-6c2bf47559ae",
+        "id_utilisateur": "f3b88953-88ee-4c55-8ec6-01cb0e6af002",
+        "id_groupe": "f50ddb31-f000-4ed9-a25c-6676d937209d"
+    },
+    {
+        "_id": "63f5ed9e-538d-4eee-a9eb-8b64f0f58bf8",
+        "id_utilisateur": "c57c43a2-3a58-453b-9dd0-eb92585b960c",
+        "id_groupe": "79591463-6411-4f1a-9b62-ad083eac7e6e"
+    },
+    {
+        "_id": "4d4e02a8-a8dd-4842-b78a-4f1ef4597406",
+        "id_utilisateur": "85aafaef-9671-4363-a2f7-626d5c378d3e",
+        "id_groupe": "ae4d552b-0f6b-48e3-878a-1af73848e5ce"
+    },
+    {
+        "_id": "1e28a3d4-8d26-407d-b3f6-d3160687c5f9",
+        "id_utilisateur": "d886bfc4-af3e-4268-805b-3f4d86ed0f3b",
+        "id_groupe": "50928613-59e3-48a3-87b6-e0820c409f7b"
+    },
+    {
+        "_id": "2331126e-6da8-417b-9733-dde916dddf53",
+        "id_utilisateur": "53ba44d5-22aa-42c2-a5a0-c3e152c5b646",
+        "id_groupe": "ae4d552b-0f6b-48e3-878a-1af73848e5ce"
+    },
+    {
+        "_id": "8fb55749-4277-45f2-86f1-b08a79dca8c3",
+        "id_utilisateur": "5ef3f837-6161-4cf0-8c4e-19d7f772332a",
+        "id_groupe": "4a04ea97-5804-4514-a84b-e965e82093ea"
+    },
+    {
+        "_id": "bf71a240-1c7e-40cb-b2ee-4740d7640378",
+        "id_utilisateur": "57b14813-b0f6-42b1-b795-73eb5c2af2bc",
+        "id_groupe": "50928613-59e3-48a3-87b6-e0820c409f7b"
+    },
+    {
+        "_id": "233a3cb5-240f-4235-8782-66e9d602aa82",
+        "id_utilisateur": "1d3d42c4-65c5-47fc-b0c6-bcc84b6892aa",
+        "id_groupe": "f50ddb31-f000-4ed9-a25c-6676d937209d"
+    },
+    {
+        "_id": "ca9bde45-4ffc-4c13-a112-03a2fe5bb4db",
+        "id_utilisateur": "ff1bc2f0-3920-4306-8fb4-3aabcb0c87dd",
+        "id_groupe": "f50ddb31-f000-4ed9-a25c-6676d937209d"
+    },
+    {
+        "_id": "7d13cbd9-6d2b-4943-b598-24e70af9f2db",
+        "id_utilisateur": "3fe3965b-5fd8-4a7a-bafb-85dbb280a665",
+        "id_groupe": "ae4d552b-0f6b-48e3-878a-1af73848e5ce"
+    },
+    {
+        "_id": "116b4ebc-2b4f-4817-8dd8-facbb5fa5f69",
+        "id_utilisateur": "3ecb7cdd-de1e-4b7f-a6dc-6eb97c25561c",
+        "id_groupe": "50928613-59e3-48a3-87b6-e0820c409f7b"
+    },
+    {
+        "_id": "fa2d1f1d-bbad-49b5-83cb-9e29bcebfe8b",
+        "id_utilisateur": "fc098c27-7c4f-4a71-acc4-8a7bdba56b1d",
+        "id_groupe": "ae4d552b-0f6b-48e3-878a-1af73848e5ce"
+    },
+    {
+        "_id": "7db44bdf-1f81-4c03-9b32-e04e934eb82d",
+        "id_utilisateur": "cbd73dcf-9ba5-4cc7-9380-8e15db3ae6b5",
+        "id_groupe": "79591463-6411-4f1a-9b62-ad083eac7e6e"
+    },
+    {
+        "_id": "5a0227e5-1a86-47c7-a849-9638ba8c120c",
+        "id_utilisateur": "34b26067-10f6-481b-a3af-beafca771403",
+        "id_groupe": "ae4d552b-0f6b-48e3-878a-1af73848e5ce"
+    },
+    {
+        "_id": "b82132d5-a2fd-4a08-be3d-4088fb32f47b",
+        "id_utilisateur": "d24ce781-202d-464e-9883-4ff49b09a39c",
+        "id_groupe": "f50ddb31-f000-4ed9-a25c-6676d937209d"
+    },
+    {
+        "_id": "b8447c2f-be85-42bb-8756-77fe1e129958",
+        "id_utilisateur": "2da69ed2-2e38-4694-acd0-5d349c162c34",
+        "id_groupe": "ae4d552b-0f6b-48e3-878a-1af73848e5ce"
+    },
+    {
+        "_id": "582730c1-1fb5-4b5e-8e49-4caabb7bac60",
+        "id_utilisateur": "d6e70487-7324-476e-8a0e-1a687e6f0a36",
+        "id_groupe": "ae4d552b-0f6b-48e3-878a-1af73848e5ce"
+    },
+    {
+        "_id": "64afbfe4-db35-4195-ba7e-9a4c00715a84",
+        "id_utilisateur": "d3a985f2-f842-47d4-899d-aa4b2e9a1b4d",
+        "id_groupe": "4a04ea97-5804-4514-a84b-e965e82093ea"
+    },
+    {
+        "_id": "02e7ce02-d144-4b6f-9aed-aae2d20cbeb9",
+        "id_utilisateur": "008193b2-47c8-4762-afd2-2ba513060c1a",
+        "id_groupe": "50928613-59e3-48a3-87b6-e0820c409f7b"
+    },
+    {
+        "_id": "da25bc29-c010-48a6-b813-d75b864915db",
+        "id_utilisateur": "c248fff4-c26e-40dc-9613-332a869c59ae",
+        "id_groupe": "ae4d552b-0f6b-48e3-878a-1af73848e5ce"
+    },
+    {
+        "_id": "d7aeea02-d566-48cf-bd1d-6491d77c5fe2",
+        "id_utilisateur": "89d822b6-10d7-42be-bb58-fc10a4fa6201",
+        "id_groupe": "79591463-6411-4f1a-9b62-ad083eac7e6e"
+    },
+    {
+        "_id": "9588c38e-bf4f-43be-8c4e-e225f5a6abc9",
+        "id_utilisateur": "1d7867b1-a0ff-44e2-b42d-5a9439b74c7e",
+        "id_groupe": "4a04ea97-5804-4514-a84b-e965e82093ea"
+    },
+    {
+        "_id": "8ff43700-1ad4-4ce3-938e-a55e3c7e40c7",
+        "id_utilisateur": "c2132ac9-f794-47f8-88bf-293fd7cd5205",
+        "id_groupe": "79591463-6411-4f1a-9b62-ad083eac7e6e"
+    },
+    {
+        "_id": "da5b4919-e6a8-465e-bb1f-3f5645297deb",
+        "id_utilisateur": "493aa2c7-04f2-4028-95e3-ad966b8245f5",
+        "id_groupe": "79591463-6411-4f1a-9b62-ad083eac7e6e"
+    },
+    {
+        "_id": "f364ad7f-38ea-4799-85fb-1f7696f5124c",
+        "id_utilisateur": "07a69780-46ac-427f-a903-b50bdadb963a",
+        "id_groupe": "ae4d552b-0f6b-48e3-878a-1af73848e5ce"
+    },
+    {
+        "_id": "3e2ad6f6-3a1e-4e95-abcb-1329d4fecb9f",
+        "id_utilisateur": "d16dc406-97da-4fbf-8bd6-6211f9d4c915",
+        "id_groupe": "f50ddb31-f000-4ed9-a25c-6676d937209d"
+    },
+    {
+        "_id": "e2525448-c935-4078-86a5-4261b298ed2f",
+        "id_utilisateur": "bb8f3dbc-cc4a-4f0e-a88d-75a0dabc46ed",
+        "id_groupe": "f50ddb31-f000-4ed9-a25c-6676d937209d"
+    },
+    {
+        "_id": "040be0bf-8e76-42e4-b032-b8b2193df061",
+        "id_utilisateur": "14d2cb91-3b95-46eb-849c-4bd5f93dbeb8",
+        "id_groupe": "4a04ea97-5804-4514-a84b-e965e82093ea"
+    },
+    {
+        "_id": "c18077ab-75d4-4445-bc85-1e82b8753572",
+        "id_utilisateur": "24867973-e2b3-4031-b789-1ae62bde8537",
+        "id_groupe": "f50ddb31-f000-4ed9-a25c-6676d937209d"
+    },
+    {
+        "_id": "defd9bb7-6539-4176-baff-ffcb93ecb514",
+        "id_utilisateur": "7e7ade92-d129-4f32-9180-70bf3c5f3eac",
+        "id_groupe": "4a04ea97-5804-4514-a84b-e965e82093ea"
+    },
+    {
+        "_id": "e8d1ca9e-6f72-4f41-922e-bc105ad8de6b",
+        "id_utilisateur": "420a9ba3-12d4-4b04-89bb-a553829789a2",
+        "id_groupe": "4a04ea97-5804-4514-a84b-e965e82093ea"
+    },
+    {
+        "_id": "05c42e65-7f35-47aa-9ba5-c7e9aa79b66d",
+        "id_utilisateur": "7d44f347-6031-4087-a227-74be3090a8e7",
+        "id_groupe": "79591463-6411-4f1a-9b62-ad083eac7e6e"
+    },
+    {
+        "_id": "39a5237e-4057-4cff-a2e7-88d6bf796f3a",
+        "id_utilisateur": "5b292375-404a-4d46-be30-9c87d18ef637",
+        "id_groupe": "50928613-59e3-48a3-87b6-e0820c409f7b"
+    },
+    {
+        "_id": "9f79ba3c-f5d5-4d33-8f76-0a12b5982979",
+        "id_utilisateur": "72ad853f-4276-4413-9652-12f94519b5e0",
+        "id_groupe": "4a04ea97-5804-4514-a84b-e965e82093ea"
+    },
+    {
+        "_id": "d6b67ba8-a747-4de0-8266-3235338124c0",
+        "id_utilisateur": "a23caa1c-50a6-434d-9fba-3f28fe7426cd",
+        "id_groupe": "50928613-59e3-48a3-87b6-e0820c409f7b"
+    },
+    {
+        "_id": "2d1d1737-a3f9-4167-9080-09fb6faa79b9",
+        "id_utilisateur": "1c7d7cde-965d-4cbe-9b3d-9887570d328c",
+        "id_groupe": "50928613-59e3-48a3-87b6-e0820c409f7b"
+    },
+    {
+        "_id": "f979b02b-3a45-4aad-8938-96a8644316cb",
+        "id_utilisateur": "bc80ff7a-0818-424f-aad1-d256b0e07b18",
+        "id_groupe": "50928613-59e3-48a3-87b6-e0820c409f7b"
+    },
+    {
+        "_id": "fdf9fdd9-c21f-4d4d-99b3-72c77e6b4d24",
+        "id_utilisateur": "25c7f577-f74f-4f2e-8528-8e11d76e5752",
+        "id_groupe": "4a04ea97-5804-4514-a84b-e965e82093ea"
+    },
+    {
+        "_id": "e3a21bc2-ba34-4f60-a150-a462e671f87c",
+        "id_utilisateur": "81750dc4-6c82-4581-88c4-781d7dee468d",
+        "id_groupe": "50928613-59e3-48a3-87b6-e0820c409f7b"
+    },
+    {
+        "_id": "e9ee5206-ca59-4308-8a2d-c031a9b6bc32",
+        "id_utilisateur": "2cd4e204-b9cf-4cf1-b1b2-abedc5a2ac0e",
+        "id_groupe": "79591463-6411-4f1a-9b62-ad083eac7e6e"
+    },
+    {
+        "_id": "9a4d4eef-4180-451b-899a-4c008f08b75c",
+        "id_utilisateur": "970be45c-0aa5-4268-b2a4-f532c50bcc19",
+        "id_groupe": "4a04ea97-5804-4514-a84b-e965e82093ea"
+    },
+    {
+        "_id": "32864d3e-e8dc-465d-8bd6-2e91e62513ae",
+        "id_utilisateur": "e54dd900-dbf1-4754-b48e-cd8cdb316c30",
+        "id_groupe": "50928613-59e3-48a3-87b6-e0820c409f7b"
+    },
+    {
+        "_id": "8b442f66-451b-4d26-a02a-7c94bb2d1ec5",
+        "id_utilisateur": "49183043-ed46-4f48-a844-0faefd79453d",
+        "id_groupe": "50928613-59e3-48a3-87b6-e0820c409f7b"
+    },
+    {
+        "_id": "25976bbd-2220-451a-8a8a-0dc4cd2d6b8b",
+        "id_utilisateur": "3d15127a-eb70-49c1-94fc-a89e4e8045e9",
+        "id_groupe": "ae4d552b-0f6b-48e3-878a-1af73848e5ce"
+    },
+    {
+        "_id": "54901795-4897-478d-97cb-220fcf5691ee",
+        "id_utilisateur": "759b633c-2c58-48c1-9e60-7b617a4764f0",
+        "id_groupe": "50928613-59e3-48a3-87b6-e0820c409f7b"
+    },
+    {
+        "_id": "ee80795f-9239-4d92-a5fa-5e71ae8bf7d6",
+        "id_utilisateur": "af6af3de-eab6-492d-bddb-dd7907b587af",
+        "id_groupe": "79591463-6411-4f1a-9b62-ad083eac7e6e"
+    },
+    {
+        "_id": "621457ec-fcc0-49f6-b885-f0f315aa98e2",
+        "id_utilisateur": "961e760b-f32e-45cf-ba18-73cdaf6cde9d",
+        "id_groupe": "50928613-59e3-48a3-87b6-e0820c409f7b"
+    }
+]
