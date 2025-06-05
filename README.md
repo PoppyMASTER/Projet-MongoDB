@@ -44,6 +44,23 @@ Interface
 python -m streamlit run interface.py
 ```
 
+## Avant de lancer
+
+> ATTENTION !!
+>
+> Avant de lancer le projet veuiller créer la base de donner avec les noms des json et mettre les bon json dans les bonne table.
+
+```
+📂 Data Base/                      # Données d'exemple à importer
+├── fichiers.json -> fichiers
+├── groupe_partage.json -> groupe_partage
+├── groupes.json -> groupe
+├── partages.json -> partage
+├── utilisateur_groupe.json -> utilisateur_groupe
+└── utilisateurs.json -> utilisateurs
+```
+
+
 # Structur du projet
 
 ```
