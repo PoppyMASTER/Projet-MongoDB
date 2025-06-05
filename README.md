@@ -46,26 +46,27 @@ python -m streamlit run interface.py
 
 # Structur du projet
 
+```
 projet_partage_fichiers/
 │
-├── 📂 img_file/ # Graphiques générés (stats, analyses, démonstrations)
-│ ├── image-1.png → image-15.png # Graphiques statistiques
-│ └── image.png # Image libre (ex: couverture, démo)
+├── 📂 img_file/                      # Screen des requêtes
+│   ├── image-1.png → image-15.png     
+│   └── image.png                      
 │
-├── 📂 Json_file/ # Données d'exemple à importer dans MongoDB
-│ ├── fichiers.json
-│ ├── groupe_partage.json
-│ ├── groupes.json
-│ ├── partages.json
-│ ├── utilisateur_groupe.json
-│ └── utilisateurs.json
+├── 📂 Json_file/                      # Données d'exemple à importer
+│   ├── fichiers.json
+│   ├── groupe_partage.json
+│   ├── groupes.json
+│   ├── partages.json
+│   ├── utilisateur_groupe.json
+│   └── utilisateurs.json
 │
-├── 📄 api.py # API Flask avec les routes MongoDB
-├── 📄 interface.py # Interface Streamlit dynamique
+├── 📄 api.py                          # API Flask avec les routes
+├── 📄 interface.py                    # Interface Streamlit dynamique
 │
-├── 📄 diagramme_entite_association.png # Schéma entité-association (modèle de données)
-├── 📄 Questions.md # 15 questions utilisateurs + requêtes MongoDB
-├── 📄 README.md # Présentation générale du projet
+├── 📄 diagramme_entite_association.png  # Schéma entité-association (modèle de données)
+├── 📄 README.md                       # Présentation générale du projet
+```
 
 
 # Questions utilisateurs & Requêtes MongoDB
