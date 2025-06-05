@@ -44,6 +44,30 @@ Interface
 python -m streamlit run interface.py
 ```
 
+# Structur du projet
+
+projet_partage_fichiers/
+│
+├── 📂 img_file/                       # 📊 Graphiques générés (analyses, stats, démonstrations)
+│   ├── image-1.png → image-15.png     # Graphiques statistiques
+│   └── image.png                      # Image libre (titre, couverture, démo)
+│
+├── 📂 Json_file/                      # 💾 Données d'exemple pour alimenter la base MongoDB
+│   ├── fichiers.json                  # Liste des fichiers
+│   ├── groupe_partage.json           # Partages de fichiers vers des groupes
+│   ├── groupes.json                  # Définition des groupes
+│   ├── partages.json                 # Partages de fichiers entre utilisateurs
+│   ├── utilisateur_groupe.json       # Liaisons utilisateurs ↔ groupes
+│   └── utilisateurs.json             # Liste des utilisateurs
+│
+├── 📄 api.py                          # 🚀 Backend Flask avec routes REST vers MongoDB
+├── 📄 interface.py                    # 🎛 Interface utilisateur Streamlit avec visualisation dynamique
+│
+├── 📄 diagramme_entite_association.png  # 🧠 Schéma E-A (entité-association) de la base MongoDB
+├── 📄 Questions.md                    # ❓ Liste des 15 questions utilisateurs + requêtes MongoDB
+├── 📄 README.md                       # 📘 Présentation générale du projet (objectif, installation, démo)
+
+
 # Questions utilisateurs & Requêtes MongoDB
 
 ## <span style="color:rgb(0, 176, 240)">1. Quels sont les fichiers que j’ai téléchargés ?</span>
