@@ -48,24 +48,24 @@ python -m streamlit run interface.py
 
 projet_partage_fichiers/
 │
-├── 📂 img_file/                       # 📊 Graphiques générés (analyses, stats, démonstrations)
-│   ├── image-1.png → image-15.png     # Graphiques statistiques
-│   └── image.png                      # Image libre (titre, couverture, démo)
+├── 📂 img_file/ # Graphiques générés (stats, analyses, démonstrations)
+│ ├── image-1.png → image-15.png # Graphiques statistiques
+│ └── image.png # Image libre (ex: couverture, démo)
 │
-├── 📂 Json_file/                      # 💾 Données d'exemple pour alimenter la base MongoDB
-│   ├── fichiers.json                  # Liste des fichiers
-│   ├── groupe_partage.json           # Partages de fichiers vers des groupes
-│   ├── groupes.json                  # Définition des groupes
-│   ├── partages.json                 # Partages de fichiers entre utilisateurs
-│   ├── utilisateur_groupe.json       # Liaisons utilisateurs ↔ groupes
-│   └── utilisateurs.json             # Liste des utilisateurs
+├── 📂 Json_file/ # Données d'exemple à importer dans MongoDB
+│ ├── fichiers.json
+│ ├── groupe_partage.json
+│ ├── groupes.json
+│ ├── partages.json
+│ ├── utilisateur_groupe.json
+│ └── utilisateurs.json
 │
-├── 📄 api.py                          # 🚀 Backend Flask avec routes REST vers MongoDB
-├── 📄 interface.py                    # 🎛 Interface utilisateur Streamlit avec visualisation dynamique
+├── 📄 api.py # API Flask avec les routes MongoDB
+├── 📄 interface.py # Interface Streamlit dynamique
 │
-├── 📄 diagramme_entite_association.png  # 🧠 Schéma E-A (entité-association) de la base MongoDB
-├── 📄 Questions.md                    # ❓ Liste des 15 questions utilisateurs + requêtes MongoDB
-├── 📄 README.md                       # 📘 Présentation générale du projet (objectif, installation, démo)
+├── 📄 diagramme_entite_association.png # Schéma entité-association (modèle de données)
+├── 📄 Questions.md # 15 questions utilisateurs + requêtes MongoDB
+├── 📄 README.md # Présentation générale du projet
 
 
 # Questions utilisateurs & Requêtes MongoDB
