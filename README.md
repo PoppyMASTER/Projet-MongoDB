@@ -3,7 +3,7 @@
 ## <span style="color:rgb(0, 176, 240)">1. Quels sont les fichiers que j’ai téléchargés ?</span>
 
 ```sql
-db.fichiers.find({ id_utilisateur: "4c3ec78b-b2cd-4d27-bae3-90f17bfb4446" })
+db.fichiers.find({ id_utilisateur: "bc98031b-9dfc-4bcc-80cf-aa767eb86b9f" })
 ```
 
 ![alt text](./img_file/image.png)
@@ -11,7 +11,7 @@ db.fichiers.find({ id_utilisateur: "4c3ec78b-b2cd-4d27-bae3-90f17bfb4446" })
 ## <span style="color:rgb(0, 176, 240)">2. Avec qui ai-je partagé mes fichiers ?</span>
 
 ```sql
-const mesFichiers = db.fichiers.find({ id_utilisateur: "4c3ec78b-b2cd-4d27-bae3-90f17bfb4446" }).toArray();
+const mesFichiers = db.fichiers.find({ id_utilisateur: "bc98031b-9dfc-4bcc-80cf-aa767eb86b9f" }).toArray();
 const ids = mesFichiers.map(f => f._id);
 db.partages.find({ fichier_id: { $in: ids } })
 ```
@@ -21,7 +21,7 @@ db.partages.find({ fichier_id: { $in: ids } })
 ## <span style="color:rgb(0, 176, 240)">3. Quels fichiers ont été partagés avec moi ?</span>
 
 ```sql
-const partages = db.partages.find({ utilisateur_dest_id: "4c3ec78b-b2cd-4d27-bae3-90f17bfb4446" }).toArray();
+const partages = db.partages.find({ utilisateur_dest_id: "bc98031b-9dfc-4bcc-80cf-aa767eb86b9f" }).toArray();
 const fichiersIds = partages.map(p => p.fichier_id);
 db.fichiers.find({ _id: { $in: fichiersIds } })
 ```
@@ -32,8 +32,8 @@ db.fichiers.find({ _id: { $in: fichiersIds } })
 
 ```sql
 db.partages.deleteOne({
-  fichier_id: "f896e7fd-96f6-4917-b9c2-d0f95452fa0d",
-  utilisateur_dest_id: "4c3ec78b-b2cd-4d27-bae3-90f17bfb4446"
+  fichier_id: "a580bdbf-f932-4789-be72-5cbdb7e4a582",
+  utilisateur_dest_id: "bc98031b-9dfc-4bcc-80cf-aa767eb86b9f"
 })
 ```
 
@@ -43,7 +43,7 @@ db.partages.deleteOne({
 
 ```sql
 const partages = db.partages.find({
-  utilisateur_dest_id: "fd26063c-f197-49c3-bc44-92db1612af88",
+  utilisateur_dest_id: "7d44f347-6031-4087-a227-74be3090a8e7",
   droit_ecriture: true
 }).toArray();
 
@@ -68,7 +68,7 @@ db.fichiers.aggregate([
 
 ```sql
 db.fichiers.aggregate([
-  { $match: { id_utilisateur: "39f9ca01-b3f7-4b9b-bbd9-b01fc58977b0" }},
+  { $match: { id_utilisateur: "bc98031b-9dfc-4bcc-80cf-aa767eb86b9f" }},
   { $group: { _id: null, totalMo: { $sum: "$taille" }}}
 ])
 ```
@@ -79,7 +79,7 @@ db.fichiers.aggregate([
 
 ```sql
 db.fichiers.find({
-  id_utilisateur: "39f9ca01-b3f7-4b9b-bbd9-b01fc58977b0",
+  id_utilisateur: "bc98031b-9dfc-4bcc-80cf-aa767eb86b9f",
   date_creation: {
     $gte: "2025-05-01T00:00:00",
     $lt: "2025-07-01T00:00:00"
@@ -92,12 +92,12 @@ db.fichiers.find({
 ## <span style="color:rgb(0, 176, 240)">9. Quels utilisateurs font partie de mon groupe de travail ?</span>
 
 ```sql
-const groupes = db.utilisateur_groupe.find({ id_utilisateur: "39f9ca01-b3f7-4b9b-bbd9-b01fc58977b0" }).toArray();
+const groupes = db.utilisateur_groupe.find({ id_utilisateur: "3973d71f-8593-4933-8826-046b3d3a44dd" }).toArray();
 const groupeIds = groupes.map(g => g.id_groupe);
 
 db.utilisateur_groupe.find({
   id_groupe: { $in: groupeIds },
-  id_utilisateur: { $ne: "4c3ec78b-b2cd-4d27-bae3-90f17bfb4446" }
+  id_utilisateur: { $ne: "85aafaef-9671-4363-a2f7-626d5c378d3e" }
 })
 ```
 
@@ -106,7 +106,7 @@ db.utilisateur_groupe.find({
 ## <span style="color:rgb(0, 176, 240)">10. Quels fichiers sont partagés avec mon groupe ?</span>
 
 ```sql
-const groupes = db.utilisateur_groupe.find({ id_utilisateur: "39f9ca01-b3f7-4b9b-bbd9-b01fc58977b0" }).toArray();
+const groupes = db.utilisateur_groupe.find({ id_utilisateur: "85aafaef-9671-4363-a2f7-626d5c378d3e" }).toArray();
 const groupeIds = groupes.map(g => g.id_groupe);
 const gp = db.groupe_partage.find({ id_groupe: { $in: groupeIds } }).toArray();
 const fichiersIds = gp.map(p => p.id_fichier);
@@ -119,7 +119,7 @@ db.fichiers.find({ _id: { $in: fichiersIds } })
 ## <span style="color:rgb(0, 176, 240)">11. Puis-je filtrer mes fichiers par type (PDF, JPG, etc.) ?</span>
 
 ```sql
-db.fichiers.find({ id_utilisateur: "39f9ca01-b3f7-4b9b-bbd9-b01fc58977b0", type: "pdf" })
+db.fichiers.find({ id_utilisateur: "85aafaef-9671-4363-a2f7-626d5c378d3e", type: "pdf" })
 ```
 
 ![alt text](./img_file/image-10.png)
@@ -148,14 +148,49 @@ db.utilisateurs.find({}, { nom: 1, email: 1 })
 ![alt text](./img_file/image-15.png)
 
 
+# Comment l'Utiliser 
 
+## Commmende de démarrage
 
+API
+```bash
 python api.py
-python -m streamlit run interface.py
+```
 
+Interface
+```bash
+python -m streamlit run interface.py
+```
+
+## Librairie a installer
+
+### matplotlib
+```bash
 pip install matplotlib
+```
+
+### seaborn
+```bash
 pip install seaborn
+```
+
+### pandas
+```bash
 pip install pandas
+```
+
+### streamlit
+```bash
 pip install streamlit
+```
+
+### pymongo
+```bash
 pip install pymongo
+```
+
+### flask
+```bash
 pip install flask
+```
+
