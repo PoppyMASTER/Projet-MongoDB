@@ -1,3 +1,49 @@
+# Comment l'Utiliser 
+
+## Librairie a installer
+
+### matplotlib
+```bash
+pip install matplotlib
+```
+
+### seaborn
+```bash
+pip install seaborn
+```
+
+### pandas
+```bash
+pip install pandas
+```
+
+### streamlit
+```bash
+pip install streamlit
+```
+
+### pymongo
+```bash
+pip install pymongo
+```
+
+### flask
+```bash
+pip install flask
+```
+
+## Commmende de démarrage
+
+API
+```bash
+python api.py
+```
+
+Interface
+```bash
+python -m streamlit run interface.py
+```
+
 # Questions utilisateurs & Requêtes MongoDB
 
 ## <span style="color:rgb(0, 176, 240)">1. Quels sont les fichiers que j’ai téléchargés ?</span>
@@ -21,7 +67,7 @@ db.partages.find({ fichier_id: { $in: ids } })
 ## <span style="color:rgb(0, 176, 240)">3. Quels fichiers ont été partagés avec moi ?</span>
 
 ```sql
-const partages = db.partages.find({ utilisateur_dest_id: "bc98031b-9dfc-4bcc-80cf-aa767eb86b9f" }).toArray();
+const partages = db.partages.find({ utilisateur_dest_id: "7d44f347-6031-4087-a227-74be3090a8e7" }).toArray();
 const fichiersIds = partages.map(p => p.fichier_id);
 db.fichiers.find({ _id: { $in: fichiersIds } })
 ```
@@ -55,11 +101,12 @@ db.fichiers.find({ _id: { $in: fichiersIds } })
 
 ## <span style="color:rgb(0, 176, 240)">6. Quel est le type de fichier le plus fréquent dans mon espace ?</span>
 
-```sql
-db.fichiers.aggregate([
-  { $group: { _id: "$type", total: { $sum: 1 } } },
-  { $sort: { total: -1 } }
-- [ ] ])
+```sqldb.fichiers.aggregate([
+  { $match: { id_utilisateur: "14d2cb91-3b95-46eb-849c-4bd5f93dbeb8" } },
+  { $group: { _id: "$type", count: { $sum: 1 } } },
+  { $sort: { count: -1 } },
+  { $limit: 1 }
+])
 ```
 
 ![alt text](./img_file/image-5.png)
@@ -119,7 +166,7 @@ db.fichiers.find({ _id: { $in: fichiersIds } })
 ## <span style="color:rgb(0, 176, 240)">11. Puis-je filtrer mes fichiers par type (PDF, JPG, etc.) ?</span>
 
 ```sql
-db.fichiers.find({ id_utilisateur: "85aafaef-9671-4363-a2f7-626d5c378d3e", type: "pdf" })
+db.fichiers.find({ id_utilisateur: "420a9ba3-12d4-4b04-89bb-a553829789a2", type: "pdf" })
 ```
 
 ![alt text](./img_file/image-10.png)
@@ -146,51 +193,3 @@ db.utilisateurs.find({}, { nom: 1, email: 1 })
 ```
 
 ![alt text](./img_file/image-15.png)
-
-
-# Comment l'Utiliser 
-
-## Commmende de démarrage
-
-API
-```bash
-python api.py
-```
-
-Interface
-```bash
-python -m streamlit run interface.py
-```
-
-## Librairie a installer
-
-### matplotlib
-```bash
-pip install matplotlib
-```
-
-### seaborn
-```bash
-pip install seaborn
-```
-
-### pandas
-```bash
-pip install pandas
-```
-
-### streamlit
-```bash
-pip install streamlit
-```
-
-### pymongo
-```bash
-pip install pymongo
-```
-
-### flask
-```bash
-pip install flask
-```
-
